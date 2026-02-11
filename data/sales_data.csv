@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,State,Product Category,Product Name,Quantity,Unit Price,Total Sales,Profit,Discount,Payment Method,Sales Person
+ORD10494,2022-01-01,CUST1123,Sanjay Bansal,North,Punjab,Books,Biography,6,369.23,2215.38,693.54,0.0,Cash,Michael Brown
+ORD10655,2022-01-01,CUST1067,Kiran Rao,West,Maharashtra,Books,Business Book,7,865.81,6060.67,2408.31,0.0,Credit Card,Emily Davis
+ORD10151,2022-01-02,CUST1062,Amit Kumar,South,Tamil Nadu,Electronics,Tablet,10,37389.69,373896.9,147437.57,0.0,Credit Card,John Smith
+ORD10223,2022-01-03,CUST1264,Ashok Agarwal,North,Delhi,Clothing,Dress,3,3144.27,9432.81,1939.9,0.0,Cash,Sarah Johnson
+ORD10482,2022-01-03,CUST1023,Lakshmi Gupta,West,Madhya Pradesh,Electronics,Monitor,8,73266.24,556823.42,182817.93,29306.5,Cash,John Smith
+ORD10135,2022-01-04,CUST1095,Anjali Rao,South,Tamil Nadu,Toys,Educational Toy,9,3047.19,24682.24,9607.19,2742.47,Debit Card,Robert Garcia
+ORD10514,2022-01-04,CUST1237,Lakshmi Pillai,East,West Bengal,Clothing,Sweater,9,4031.26,27211.0,8021.07,9070.34,Cash,Sarah Johnson
+ORD10783,2022-01-04,CUST1135,Mohan Menon,East,Odisha,Home & Kitchen,Pressure Cooker,2,4394.91,6592.37,1864.09,2197.45,Debit Card,Robert Garcia
+ORD10325,2022-01-05,CUST1083,Prakash Chopra,South,Tamil Nadu,Books,Business Book,4,446.67,1786.68,505.03,0.0,UPI,Emily Davis
+ORD10446,2022-01-06,CUST1203,Ravi Mehta,West,Goa,Books,Cookbook,9,1031.93,7894.26,2149.05,1393.11,Debit Card,David Wilson
+ORD10551,2022-01-06,CUST1290,Divya Shah,North,Punjab,Books,Business Book,4,1404.75,5619.0,2174.1,0.0,Credit Card,Michael Brown
+ORD10233,2022-01-08,CUST1236,Suresh Menon,North,Haryana,Home & Kitchen,Dinner Set,10,6224.43,59132.08,11380.76,3112.22,UPI,Jennifer Martinez
+ORD10377,2022-01-08,CUST1115,Anjali Reddy,South,Kerala,Electronics,Monitor,1,45079.72,36063.78,7814.96,9015.94,Debit Card,Robert Garcia
+ORD10566,2022-01-08,CUST1082,Divya Kumar,West,Rajasthan,Electronics,Tablet,2,22828.71,36525.94,10350.52,9131.48,Debit Card,Emily Davis
+ORD10270,2022-01-13,CUST1123,Naveen Desai,West,Goa,Electronics,Laptop,9,46370.53,313001.08,89498.87,104333.69,Cash,Lisa Anderson
+ORD10026,2022-01-14,CUST1024,Rekha Mishra,North,Punjab,Clothing,Trousers,8,4223.74,25342.44,6684.64,8447.48,UPI,Lisa Anderson
+ORD10230,2022-01-14,CUST1219,Sneha Joshi,North,Haryana,Electronics,Tablet,9,38136.75,291746.14,61648.6,51484.61,Debit Card,John Smith
+ORD10829,2022-01-19,CUST1136,Kavita Iyer,North,Uttarakhand,Sports,Running Shoes,7,4374.78,27561.11,7616.64,3062.35,Debit Card,Jennifer Martinez
+ORD10180,2022-01-20,CUST1070,Sanjay Sharma,South,Karnataka,Sports,Dumbbells,3,5840.36,12264.76,3191.92,5256.32,Cash,Jennifer Martinez
+ORD10727,2022-01-20,CUST1169,Neha Nair,West,Rajasthan,Books,Children Book,1,326.99,326.99,78.39,0.0,UPI,David Wilson
+ORD10219,2022-01-21,CUST1066,Sneha Shah,South,Tamil Nadu,Sports,Badminton Set,2,1011.55,1719.64,599.32,303.46,UPI,Robert Garcia
+ORD10927,2022-01-21,CUST1271,Mohan Iyer,North,Uttarakhand,Home & Kitchen,Pressure Cooker,4,10930.42,41535.6,11351.42,2186.08,UPI,Lisa Anderson
+ORD10205,2022-01-25,CUST1048,Anjali Mishra,North,Uttarakhand,Sports,Badminton Set,2,7901.08,11851.62,2806.99,3950.54,Cash,Jennifer Martinez
+ORD10289,2022-01-27,CUST1206,Mohan Shah,East,Bihar,Home & Kitchen,Microwave,3,13937.64,41812.92,12371.31,0.0,Debit Card,Emily Davis
+ORD10204,2022-01-29,CUST1199,Rajesh Bansal,South,Tamil Nadu,Clothing,Jeans,8,1047.32,6283.92,1761.82,2094.64,UPI,John Smith
+ORD10653,2022-01-29,CUST1169,Rekha Singh,North,Uttar Pradesh,Electronics,Smart Watch,7,26060.7,136818.68,43559.66,45606.22,UPI,Jennifer Martinez
+ORD10713,2022-02-01,CUST1142,Geeta Mehta,East,Jharkhand,Home & Kitchen,Pressure Cooker,6,9339.2,56035.2,10241.48,0.0,Credit Card,Michael Brown
+ORD10901,2022-02-01,CUST1255,Naveen Gupta,West,Madhya Pradesh,Toys,Remote Control Car,6,3968.6,23811.6,7204.69,0.0,UPI,John Smith
+ORD10511,2022-02-02,CUST1004,Sanjay Iyer,East,Assam,Sports,Badminton Set,2,8329.24,11660.94,3862.43,4997.54,UPI,Sarah Johnson
+ORD10161,2022-02-03,CUST1218,Rahul Kumar,West,Madhya Pradesh,Toys,Remote Control Car,2,1839.2,2942.72,803.28,735.68,Debit Card,Robert Garcia
+ORD10834,2022-02-07,CUST1198,Geeta Singh,North,Uttarakhand,Home & Kitchen,Dinner Set,5,5369.86,24164.37,7403.53,2684.93,Cash,Robert Garcia
+ORD10757,2022-02-08,CUST1218,Rina Reddy,West,Maharashtra,Sports,Tennis Racket,4,8256.23,33024.92,7560.46,0.0,Debit Card,Jennifer Martinez
+ORD10833,2022-02-08,CUST1216,Ashok Gupta,East,Bihar,Clothing,T-Shirt,7,1533.21,9659.22,3111.67,1073.25,UPI,Michael Brown
+ORD10528,2022-02-09,CUST1039,Prakash Mishra,West,Goa,Home & Kitchen,Microwave,6,5679.0,30666.6,8008.73,3407.4,Cash,Jennifer Martinez
+ORD10300,2022-02-13,CUST1022,Suresh Shah,South,Telangana,Home & Kitchen,Toaster,7,14435.75,70735.17,16461.53,30315.08,UPI,John Smith
+ORD10600,2022-02-13,CUST1064,Swati Mishra,East,Odisha,Sports,Football,8,8177.31,49063.86,12182.57,16354.62,UPI,Lisa Anderson
+ORD10903,2022-02-14,CUST1247,Prakash Reddy,East,Bihar,Toys,Action Figure,8,4362.6,26175.6,4733.6,8725.2,Credit Card,Lisa Anderson
+ORD10351,2022-02-15,CUST1022,Swati Mishra,North,Punjab,Electronics,Tablet,5,13052.08,61997.38,18124.7,3263.02,UPI,Emily Davis
+ORD10872,2022-02-16,CUST1088,Rahul Nair,North,Haryana,Clothing,Jacket,3,714.15,1499.72,500.06,642.73,UPI,Emily Davis
+ORD10141,2022-02-17,CUST1258,Anjali Mehta,South,Andhra Pradesh,Clothing,Shoes,8,4328.16,25968.96,4077.05,8656.32,Debit Card,Sarah Johnson
+ORD10328,2022-02-17,CUST1201,Sneha Iyer,East,Assam,Toys,Teddy Bear,3,3217.36,8686.87,2564.65,965.21,Credit Card,Michael Brown
+ORD10922,2022-02-18,CUST1240,Ashok Bansal,East,Bihar,Toys,Doll House,10,3908.43,39084.3,9773.05,0.0,Cash,Michael Brown
+ORD10227,2022-02-19,CUST1275,Neha Mishra,North,Uttar Pradesh,Electronics,Speaker,2,14603.13,29206.26,10246.63,0.0,Cash,Sarah Johnson
+ORD10359,2022-02-19,CUST1200,Rajesh Iyer,West,Gujarat,Electronics,Monitor,3,25583.84,61401.22,13549.46,15350.3,Debit Card,David Wilson
+ORD10449,2022-02-19,CUST1135,Amit Desai,South,Tamil Nadu,Books,Educational Book,10,1355.56,13555.6,4259.75,0.0,Debit Card,Robert Garcia
+ORD10275,2022-02-21,CUST1094,Lakshmi Verma,East,Odisha,Books,Fiction Novel,1,345.69,345.69,98.03,0.0,Cash,Sarah Johnson
+ORD10170,2022-02-23,CUST1034,Arun Mishra,West,Goa,Sports,Gym Bag,1,9099.21,9099.21,3519.84,0.0,Credit Card,Emily Davis
+ORD10781,2022-02-23,CUST1109,Prakash Iyer,East,Odisha,Home & Kitchen,Dinner Set,10,13682.79,102620.92,18531.26,34206.98,Debit Card,Sarah Johnson
+ORD10824,2022-02-23,CUST1067,Suresh Sharma,North,Uttar Pradesh,Books,Self-Help Book,9,767.51,5526.07,995.77,1381.52,Credit Card,Lisa Anderson
+ORD10796,2022-02-24,CUST1071,Sunita Reddy,South,Tamil Nadu,Home & Kitchen,Microwave,2,12938.48,18113.87,3842.21,7763.09,Credit Card,John Smith
+ORD10068,2022-02-25,CUST1015,Manoj Agarwal,North,Uttar Pradesh,Sports,Cricket Bat,9,3703.72,33333.48,12987.34,0.0,UPI,Emily Davis
+ORD10615,2022-03-01,CUST1048,Amit Mehta,West,Rajasthan,Clothing,Shoes,10,2733.08,24597.72,5950.95,2733.08,UPI,David Wilson
+ORD10493,2022-03-03,CUST1078,Sanjay Desai,North,Delhi,Home & Kitchen,Pressure Cooker,6,9841.31,56095.47,13097.12,2952.39,Credit Card,John Smith
+ORD10620,2022-03-04,CUST1139,Sunita Rao,West,Madhya Pradesh,Home & Kitchen,Toaster,2,8151.12,12226.68,4617.2,4075.56,UPI,David Wilson
+ORD10774,2022-03-08,CUST1206,Sunita Joshi,South,Andhra Pradesh,Electronics,Speaker,1,33777.69,23644.38,7867.08,10133.31,Cash,Robert Garcia
+ORD10951,2022-03-08,CUST1227,Ganesh Mehta,South,Tamil Nadu,Books,Biography,9,958.1,8622.9,1919.08,0.0,UPI,Lisa Anderson
+ORD10962,2022-03-08,CUST1182,Kiran Agarwal,West,Maharashtra,Books,Educational Book,2,1447.64,2895.28,1058.23,0.0,Cash,Jennifer Martinez
+ORD10090,2022-03-11,CUST1033,Sneha Bansal,North,Delhi,Clothing,Dress,6,3114.2,15882.42,5881.91,2802.78,UPI,Sarah Johnson
+ORD10101,2022-03-11,CUST1085,Prakash Bansal,West,Madhya Pradesh,Clothing,Dress,8,4231.63,32160.39,11186.98,1692.65,Cash,Emily Davis
+ORD10719,2022-03-12,CUST1209,Geeta Mishra,North,Haryana,Toys,Board Game,9,919.45,5792.53,1850.95,2482.52,Cash,Robert Garcia
+ORD10624,2022-03-13,CUST1080,Deepika Joshi,East,West Bengal,Clothing,Sweater,7,2913.77,20396.39,6790.94,0.0,Debit Card,John Smith
+ORD10110,2022-03-14,CUST1134,Rahul Bansal,West,Gujarat,Sports,Running Shoes,9,8177.23,73595.07,18665.54,0.0,UPI,Emily Davis
+ORD10823,2022-03-14,CUST1124,Amit Nair,East,Odisha,Clothing,Shoes,3,2540.95,7622.85,1260.99,0.0,Debit Card,Lisa Anderson
+ORD10109,2022-03-15,CUST1176,Amit Patel,East,Assam,Electronics,Speaker,3,75497.58,203843.47,61082.61,22649.27,Cash,John Smith
+ORD10134,2022-03-15,CUST1068,Kavita Chopra,East,Odisha,Clothing,Jacket,3,2555.16,6515.66,1255.69,1149.82,Cash,David Wilson
+ORD10865,2022-03-15,CUST1276,Ashok Mehta,South,Karnataka,Sports,Running Shoes,4,7882.71,31530.84,6220.37,0.0,Cash,Lisa Anderson
+ORD10627,2022-03-16,CUST1056,Divya Pillai,South,Telangana,Electronics,Laptop,8,25012.92,200103.36,54298.96,0.0,Credit Card,Emily Davis
+ORD10877,2022-03-16,CUST1211,Ganesh Patel,South,Tamil Nadu,Clothing,Dress,8,4982.49,31887.94,5709.02,7971.98,Credit Card,Sarah Johnson
+ORD10987,2022-03-18,CUST1281,Arun Shah,North,Punjab,Toys,Teddy Bear,8,1323.84,10590.72,3860.36,0.0,Debit Card,Robert Garcia
+ORD10875,2022-03-21,CUST1279,Arun Sharma,West,Gujarat,Toys,Educational Toy,6,1109.31,5990.27,1372.66,665.59,Debit Card,Lisa Anderson
+ORD10721,2022-03-22,CUST1029,Suresh Menon,East,Jharkhand,Clothing,Shirt,5,968.35,3873.4,802.4,968.35,UPI,Lisa Anderson
+ORD10022,2022-03-23,CUST1136,Kiran Shah,South,Telangana,Toys,Educational Toy,6,999.18,5995.08,2173.86,0.0,Debit Card,David Wilson
+ORD10547,2022-03-23,CUST1091,Ganesh Pillai,North,Uttar Pradesh,Sports,Running Shoes,6,8684.09,46894.09,8228.88,5210.45,Credit Card,Emily Davis
+ORD10650,2022-03-24,CUST1119,Pooja Mishra,North,Haryana,Clothing,Dress,9,3455.5,26434.57,4706.28,4664.93,Cash,Jennifer Martinez
+ORD10881,2022-03-24,CUST1273,Ashok Nair,North,Punjab,Books,Children Book,6,227.98,1231.09,226.19,136.79,Credit Card,Lisa Anderson
+ORD10255,2022-03-25,CUST1139,Swati Iyer,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,5,2762.09,11738.88,4005.3,2071.57,Debit Card,Emily Davis
+ORD10536,2022-03-25,CUST1239,Ganesh Kumar,East,Assam,Sports,Football,4,5717.7,21727.26,7429.78,1143.54,Credit Card,David Wilson
+ORD10710,2022-03-27,CUST1020,Mohan Nair,West,Gujarat,Clothing,Shirt,10,1102.46,8819.68,2139.24,2204.92,Credit Card,John Smith
+ORD10867,2022-03-27,CUST1141,Mohan Gupta,West,Goa,Toys,Action Figure,4,673.49,2020.47,533.38,673.49,Credit Card,Robert Garcia
+ORD10138,2022-03-28,CUST1179,Rina Gupta,East,Bihar,Books,Business Book,4,961.5,2884.5,663.89,961.5,Debit Card,John Smith
+ORD10524,2022-03-29,CUST1285,Rajesh Kumar,South,Telangana,Clothing,Trousers,6,4639.62,22270.18,4713.28,5567.54,Debit Card,Lisa Anderson
+ORD10095,2022-03-30,CUST1233,Sanjay Rao,West,Rajasthan,Electronics,Headphones,7,62208.18,435457.26,119573.19,0.0,UPI,Robert Garcia
+ORD10581,2022-03-30,CUST1066,Swati Verma,West,Gujarat,Home & Kitchen,Microwave,2,1732.77,3292.26,1128.41,173.28,Credit Card,Lisa Anderson
+ORD10940,2022-03-30,CUST1183,Amit Mishra,West,Rajasthan,Electronics,Smart Watch,10,59967.97,599679.7,211539.97,0.0,Debit Card,Jennifer Martinez
+ORD10011,2022-03-31,CUST1034,Sanjay Bansal,West,Maharashtra,Books,Biography,3,1063.9,3191.7,841.92,0.0,Debit Card,Jennifer Martinez
+ORD10583,2022-03-31,CUST1031,Arun Iyer,West,Gujarat,Toys,Building Blocks,3,4701.12,13398.19,4602.76,705.17,Credit Card,Sarah Johnson
+ORD10955,2022-03-31,CUST1203,Vijay Desai,West,Rajasthan,Electronics,Speaker,9,42019.71,378177.39,66384.74,0.0,Credit Card,Jennifer Martinez
+ORD10555,2022-04-02,CUST1285,Ganesh Gupta,East,Odisha,Clothing,Jeans,9,3215.71,24600.18,7976.44,4341.21,UPI,Jennifer Martinez
+ORD10738,2022-04-03,CUST1242,Rina Patel,West,Maharashtra,Clothing,Dress,2,3843.56,6534.05,1226.96,1153.07,Cash,Michael Brown
+ORD10479,2022-04-04,CUST1079,Lakshmi Patel,North,Haryana,Clothing,T-Shirt,10,1293.06,12284.07,2512.12,646.53,UPI,Jennifer Martinez
+ORD10832,2022-04-04,CUST1252,Naveen Reddy,East,Bihar,Toys,Board Game,8,1087.06,8696.48,2487.84,0.0,UPI,Michael Brown
+ORD10410,2022-04-05,CUST1016,Mohan Menon,West,Madhya Pradesh,Books,Self-Help Book,7,389.54,2317.76,736.18,409.02,Credit Card,Jennifer Martinez
+ORD10764,2022-04-05,CUST1086,Geeta Mishra,West,Maharashtra,Toys,Remote Control Car,8,3386.7,25738.92,8497.02,1354.68,Cash,Lisa Anderson
+ORD10652,2022-04-06,CUST1072,Meera Rao,West,Gujarat,Clothing,T-Shirt,5,3153.61,14979.65,5722.41,788.4,UPI,David Wilson
+ORD10395,2022-04-07,CUST1224,Sunita Shah,East,West Bengal,Books,Cookbook,5,1025.19,5125.95,1828.32,0.0,Cash,Emily Davis
+ORD10714,2022-04-07,CUST1202,Rahul Patel,East,Odisha,Books,Children Book,9,1376.38,11768.05,4194.35,619.37,UPI,Sarah Johnson
+ORD10670,2022-04-09,CUST1016,Rahul Pillai,North,Delhi,Toys,Educational Toy,4,4629.47,13888.41,4711.26,4629.47,Credit Card,Robert Garcia
+ORD10795,2022-04-10,CUST1176,Rajesh Mishra,South,Kerala,Books,Fiction Novel,1,664.48,564.81,221.19,99.67,Cash,John Smith
+ORD10507,2022-04-11,CUST1010,Sneha Mehta,North,Punjab,Electronics,Speaker,5,73534.86,294139.44,96588.02,73534.86,UPI,Michael Brown
+ORD10949,2022-04-11,CUST1273,Rina Bansal,North,Haryana,Toys,Doll House,4,3627.76,11608.83,1813.46,2902.21,Cash,Robert Garcia
+ORD10244,2022-04-14,CUST1075,Vijay Joshi,North,Uttarakhand,Clothing,Sweater,4,4633.16,18532.64,3837.07,0.0,Credit Card,Michael Brown
+ORD10435,2022-04-14,CUST1198,Kavita Reddy,North,Delhi,Toys,Doll House,4,2350.0,8930.0,2851.85,470.0,Debit Card,Michael Brown
+ORD10064,2022-04-16,CUST1106,Mohan Verma,North,Punjab,Clothing,Dress,1,4030.0,2821.0,938.02,1209.0,Credit Card,Jennifer Martinez
+ORD10431,2022-04-17,CUST1295,Meera Nair,West,Madhya Pradesh,Home & Kitchen,Toaster,5,2794.32,13971.6,5021.23,0.0,Cash,Robert Garcia
+ORD10609,2022-04-18,CUST1054,Geeta Singh,North,Uttar Pradesh,Toys,Remote Control Car,3,3331.29,8994.48,2419.54,999.39,UPI,Robert Garcia
+ORD10623,2022-04-18,CUST1251,Neha Pillai,South,Tamil Nadu,Clothing,T-Shirt,8,814.01,6512.08,2379.07,0.0,Cash,John Smith
+ORD10602,2022-04-20,CUST1246,Rahul Pillai,North,Punjab,Books,Fiction Novel,2,726.45,1307.61,312.74,145.29,UPI,Michael Brown
+ORD10483,2022-04-24,CUST1236,Kavita Nair,West,Rajasthan,Toys,Educational Toy,5,2736.25,10260.94,3494.1,3420.31,Debit Card,David Wilson
+ORD10301,2022-04-25,CUST1047,Geeta Bansal,South,Karnataka,Sports,Running Shoes,5,1244.16,5598.72,1060.02,622.08,Debit Card,Robert Garcia
+ORD10671,2022-04-28,CUST1073,Sneha Desai,West,Rajasthan,Electronics,Headphones,4,18007.71,61226.21,11281.98,10804.63,Credit Card,Sarah Johnson
+ORD10772,2022-04-28,CUST1091,Anjali Verma,North,Uttarakhand,Electronics,Tablet,3,19362.79,46470.7,9003.24,11617.67,Debit Card,Jennifer Martinez
+ORD10041,2022-04-29,CUST1274,Neha Verma,North,Delhi,Electronics,Laptop,2,77584.18,108617.85,23694.7,46550.51,UPI,Lisa Anderson
+ORD10644,2022-04-29,CUST1273,Arun Singh,West,Rajasthan,Electronics,Smart Watch,5,72384.23,361921.15,138924.88,0.0,UPI,Jennifer Martinez
+ORD10319,2022-04-30,CUST1061,Sanjay Sharma,East,Assam,Clothing,Shirt,5,2255.51,9022.04,1562.57,2255.51,UPI,Emily Davis
+ORD10527,2022-05-01,CUST1213,Sunita Rao,South,Kerala,Clothing,T-Shirt,9,3386.59,22859.48,9140.82,7619.83,Debit Card,Robert Garcia
+ORD10268,2022-05-02,CUST1215,Priya Gupta,South,Andhra Pradesh,Books,Children Book,1,1314.28,920.0,165.0,394.28,UPI,John Smith
+ORD10982,2022-05-03,CUST1171,Naveen Pillai,East,Jharkhand,Books,Self-Help Book,9,1486.47,11371.5,2267.43,2006.73,Debit Card,Michael Brown
+ORD10948,2022-05-04,CUST1227,Kavita Kumar,East,Odisha,Home & Kitchen,Coffee Maker,3,3549.57,7986.53,2127.27,2662.18,Cash,Lisa Anderson
+ORD10776,2022-05-05,CUST1045,Arun Kumar,South,Tamil Nadu,Clothing,Trousers,4,4383.31,17533.24,3816.57,0.0,Debit Card,John Smith
+ORD10031,2022-05-11,CUST1077,Mohan Iyer,East,Odisha,Electronics,Speaker,5,68788.03,309546.14,72122.91,34394.01,Debit Card,Michael Brown
+ORD10980,2022-05-11,CUST1202,Suresh Desai,West,Rajasthan,Sports,Gym Bag,1,5553.35,4720.35,1871.43,833.0,Debit Card,Robert Garcia
+ORD10182,2022-05-12,CUST1219,Kiran Nair,North,Uttarakhand,Books,Biography,6,908.04,5448.24,2110.8,0.0,UPI,Sarah Johnson
+ORD10400,2022-05-14,CUST1042,Sneha Nair,West,Goa,Home & Kitchen,Cookware Set,7,8332.74,40830.43,15110.94,17498.75,Credit Card,David Wilson
+ORD10414,2022-05-14,CUST1141,Arun Singh,North,Punjab,Clothing,Dress,7,1052.12,6996.6,1753.49,368.24,UPI,Sarah Johnson
+ORD10439,2022-05-14,CUST1088,Rekha Pillai,West,Madhya Pradesh,Clothing,Shoes,4,1500.73,6002.92,941.13,0.0,Debit Card,Emily Davis
+ORD10892,2022-05-15,CUST1258,Divya Rao,North,Uttar Pradesh,Home & Kitchen,Toaster,8,8676.37,69410.96,16923.77,0.0,Cash,John Smith
+ORD10576,2022-05-16,CUST1078,Sunita Pillai,South,Andhra Pradesh,Clothing,Shoes,1,824.72,701.01,127.72,123.71,Debit Card,Lisa Anderson
+ORD10956,2022-05-16,CUST1197,Rina Bansal,West,Rajasthan,Toys,Action Figure,7,2686.38,13163.26,4778.54,5641.4,UPI,David Wilson
+ORD10754,2022-05-17,CUST1118,Meera Sharma,East,West Bengal,Home & Kitchen,Coffee Maker,10,7799.54,62396.32,24697.92,15599.08,Credit Card,John Smith
+ORD10099,2022-05-19,CUST1044,Ganesh Iyer,West,Madhya Pradesh,Electronics,Camera,6,28273.28,169639.68,39652.31,0.0,Credit Card,Emily Davis
+ORD10998,2022-05-19,CUST1011,Ganesh Singh,South,Kerala,Clothing,Jeans,1,2217.15,2217.15,856.57,0.0,Cash,Lisa Anderson
+ORD10292,2022-05-21,CUST1015,Sunita Mehta,North,Delhi,Books,Business Book,7,705.81,4693.64,1168.51,247.03,UPI,Jennifer Martinez
+ORD10707,2022-05-21,CUST1009,Ashok Desai,North,Punjab,Electronics,Monitor,9,70653.11,635877.99,105647.86,0.0,UPI,Sarah Johnson
+ORD10111,2022-05-27,CUST1216,Kavita Kumar,South,Andhra Pradesh,Electronics,Tablet,3,68034.86,204104.58,47327.03,0.0,Credit Card,David Wilson
+ORD10003,2022-05-28,CUST1185,Swati Agarwal,East,Bihar,Toys,Teddy Bear,10,3384.48,23691.36,3699.42,10153.44,Cash,John Smith
+ORD10020,2022-05-28,CUST1279,Rahul Bansal,North,Delhi,Sports,Running Shoes,1,6476.23,5180.98,1374.47,1295.25,Cash,Michael Brown
+ORD10868,2022-05-28,CUST1194,Rajesh Menon,West,Goa,Electronics,Camera,2,60723.56,97157.7,38732.05,24289.42,UPI,Robert Garcia
+ORD10220,2022-05-29,CUST1128,Arun Kumar,East,Bihar,Books,Biography,8,744.79,4468.74,917.92,1489.58,Debit Card,Robert Garcia
+ORD10826,2022-05-31,CUST1048,Ashok Shah,West,Rajasthan,Books,Business Book,9,1056.76,7133.13,1789.88,2377.71,UPI,Emily Davis
+ORD10331,2022-06-01,CUST1230,Anjali Nair,North,Delhi,Sports,Yoga Mat,2,4107.59,6572.14,2578.96,1643.04,Cash,David Wilson
+ORD10256,2022-06-04,CUST1190,Mohan Reddy,North,Uttar Pradesh,Electronics,Smart Watch,4,68639.22,233373.35,87822.32,41183.53,Debit Card,Robert Garcia
+ORD10404,2022-06-04,CUST1229,Naveen Desai,West,Madhya Pradesh,Home & Kitchen,Cookware Set,1,4483.38,4035.04,1151.28,448.34,Cash,Michael Brown
+ORD10632,2022-06-05,CUST1156,Kiran Joshi,West,Gujarat,Electronics,Smartphone,2,70821.5,113314.4,26630.15,28328.6,Credit Card,David Wilson
+ORD10599,2022-06-07,CUST1282,Rekha Singh,North,Punjab,Books,Children Book,9,1062.29,7648.49,3046.1,1912.12,Debit Card,Robert Garcia
+ORD10975,2022-06-08,CUST1155,Kavita Sharma,South,Karnataka,Toys,Doll House,5,2383.48,11917.4,2375.8,0.0,Credit Card,David Wilson
+ORD10977,2022-06-08,CUST1256,Vijay Rao,West,Madhya Pradesh,Clothing,Jeans,4,2275.55,7281.76,2512.84,1820.44,UPI,Sarah Johnson
+ORD10667,2022-06-12,CUST1247,Lakshmi Sharma,West,Gujarat,Sports,Running Shoes,7,7902.21,47018.15,11571.5,8297.32,Debit Card,Robert Garcia
+ORD10190,2022-06-13,CUST1006,Pooja Bansal,South,Karnataka,Sports,Cricket Bat,4,9884.54,33607.44,11464.52,5930.72,Cash,Jennifer Martinez
+ORD10137,2022-06-14,CUST1001,Sanjay Gupta,West,Madhya Pradesh,Sports,Cricket Bat,10,7970.21,67746.78,16945.97,11955.32,Debit Card,Lisa Anderson
+ORD10931,2022-06-14,CUST1281,Mohan Desai,South,Andhra Pradesh,Books,Business Book,5,430.69,1722.76,266.97,430.69,UPI,Jennifer Martinez
+ORD10917,2022-06-19,CUST1249,Vijay Patel,West,Gujarat,Sports,Football,2,9572.74,19145.48,4873.36,0.0,UPI,John Smith
+ORD10864,2022-06-21,CUST1288,Mohan Gupta,West,Maharashtra,Toys,Teddy Bear,6,3350.87,20105.22,7772.17,0.0,Credit Card,David Wilson
+ORD10521,2022-06-22,CUST1006,Kavita Pillai,West,Gujarat,Home & Kitchen,Dinner Set,3,12998.33,38994.99,15050.19,0.0,UPI,Robert Garcia
+ORD10407,2022-06-23,CUST1256,Manoj Desai,East,Odisha,Books,Biography,2,439.37,615.12,94.5,263.62,UPI,Michael Brown
+ORD10453,2022-06-25,CUST1186,Anjali Shah,North,Uttar Pradesh,Clothing,Shoes,7,1685.86,10030.87,3543.57,1770.15,Credit Card,Robert Garcia
+ORD10709,2022-06-25,CUST1106,Amit Chopra,South,Karnataka,Clothing,Shoes,10,2389.98,23899.8,8289.42,0.0,UPI,Sarah Johnson
+ORD10984,2022-06-25,CUST1071,Amit Iyer,West,Madhya Pradesh,Electronics,Smart Watch,4,65202.75,195608.25,42106.3,65202.75,UPI,Michael Brown
+ORD10225,2022-06-26,CUST1249,Ravi Joshi,East,Jharkhand,Books,Travel Guide,10,677.39,4741.73,794.52,2032.17,Credit Card,Sarah Johnson
+ORD10476,2022-06-26,CUST1016,Kiran Bansal,West,Goa,Home & Kitchen,Toaster,4,3347.93,12052.55,2774.1,1339.17,Credit Card,David Wilson
+ORD10799,2022-06-28,CUST1017,Prakash Joshi,West,Madhya Pradesh,Sports,Dumbbells,8,2618.72,19902.27,4225.65,1047.49,Debit Card,Sarah Johnson
+ORD10311,2022-06-29,CUST1083,Ravi Shah,North,Haryana,Sports,Football,8,8558.69,61622.57,16168.66,6846.95,UPI,John Smith
+ORD10310,2022-06-30,CUST1017,Rina Mishra,West,Madhya Pradesh,Sports,Running Shoes,9,9177.65,70209.02,12831.03,12389.83,Credit Card,Emily Davis
+ORD10961,2022-06-30,CUST1197,Rahul Verma,West,Maharashtra,Books,Children Book,8,524.91,4199.28,1600.42,0.0,Credit Card,Jennifer Martinez
+ORD10716,2022-07-01,CUST1287,Sunita Shah,West,Gujarat,Toys,Action Figure,3,1954.52,5570.38,2106.89,293.18,Cash,John Smith
+ORD10254,2022-07-03,CUST1205,Priya Singh,North,Uttar Pradesh,Home & Kitchen,Dinner Set,3,6449.31,17413.14,5700.72,1934.79,Debit Card,Sarah Johnson
+ORD10140,2022-07-06,CUST1262,Divya Agarwal,East,Bihar,Sports,Cricket Bat,3,6210.8,18632.4,3936.39,0.0,UPI,Sarah Johnson
+ORD10825,2022-07-07,CUST1224,Anjali Agarwal,East,Odisha,Sports,Badminton Set,4,9892.8,39571.2,11418.75,0.0,Debit Card,David Wilson
+ORD10970,2022-07-09,CUST1059,Rajesh Mishra,North,Uttarakhand,Sports,Cricket Bat,5,4584.88,22924.4,4135.97,0.0,UPI,Emily Davis
+ORD10595,2022-07-10,CUST1294,Pooja Shah,East,Jharkhand,Books,Biography,8,207.07,1490.9,441.23,165.66,Cash,Michael Brown
+ORD10911,2022-07-10,CUST1088,Rahul Reddy,East,West Bengal,Sports,Yoga Mat,1,2962.76,2370.21,850.6,592.55,Credit Card,Sarah Johnson
+ORD10631,2022-07-11,CUST1248,Anjali Shah,North,Punjab,Toys,Remote Control Car,3,3929.98,8842.45,2734.01,2947.49,UPI,Jennifer Martinez
+ORD10287,2022-07-13,CUST1165,Divya Chopra,North,Uttar Pradesh,Electronics,Smartphone,9,33806.56,289046.09,80844.23,15212.95,Debit Card,Michael Brown
+ORD10851,2022-07-18,CUST1138,Anjali Singh,North,Haryana,Toys,Puzzle Game,1,4530.79,4530.79,1209.27,0.0,Credit Card,Emily Davis
+ORD10426,2022-07-19,CUST1233,Deepika Rao,South,Tamil Nadu,Home & Kitchen,Dinner Set,4,10231.41,40925.64,10541.29,0.0,UPI,John Smith
+ORD10396,2022-07-20,CUST1125,Suresh Iyer,West,Rajasthan,Toys,Building Blocks,10,3833.62,34502.58,11387.01,3833.62,Debit Card,Emily Davis
+ORD10888,2022-07-20,CUST1211,Prakash Mishra,North,Uttar Pradesh,Books,Biography,7,1449.5,9639.18,2192.15,507.32,Credit Card,Michael Brown
+ORD10076,2022-07-22,CUST1072,Kavita Reddy,East,Odisha,Books,Biography,8,891.04,6771.9,1902.16,356.42,Credit Card,Lisa Anderson
+ORD10828,2022-07-22,CUST1181,Arun Bansal,East,Odisha,Home & Kitchen,Air Fryer,4,4352.48,15668.93,3044.12,1740.99,Debit Card,Jennifer Martinez
+ORD10797,2022-07-23,CUST1222,Kiran Menon,South,Tamil Nadu,Electronics,Camera,4,69813.74,223403.97,79898.52,55850.99,UPI,Jennifer Martinez
+ORD10490,2022-07-27,CUST1281,Rahul Joshi,South,Kerala,Books,Business Book,4,543.19,2064.12,395.85,108.64,Cash,Emily Davis
+ORD10611,2022-07-29,CUST1234,Rina Kumar,North,Uttar Pradesh,Toys,Action Figure,9,658.96,5337.58,1605.95,593.06,UPI,Michael Brown
+ORD10010,2022-07-30,CUST1002,Divya Patel,West,Madhya Pradesh,Toys,Puzzle Game,7,1311.01,7341.66,1527.78,1835.41,Cash,Robert Garcia
+ORD10718,2022-07-30,CUST1028,Prakash Verma,South,Tamil Nadu,Clothing,Jacket,3,4821.35,13740.85,3282.33,723.2,UPI,Jennifer Martinez
+ORD10444,2022-08-01,CUST1139,Swati Mehta,North,Uttar Pradesh,Clothing,T-Shirt,2,4912.59,6877.63,2178.18,2947.55,UPI,Michael Brown
+ORD10505,2022-08-01,CUST1274,Sanjay Mehta,West,Maharashtra,Clothing,Jeans,1,3992.59,2994.44,940.04,998.15,Debit Card,Michael Brown
+ORD10089,2022-08-05,CUST1260,Manoj Menon,North,Haryana,Electronics,Headphones,6,23699.13,135085.04,33576.58,7109.74,Credit Card,Lisa Anderson
+ORD10312,2022-08-05,CUST1204,Ganesh Nair,East,Bihar,Toys,Action Figure,5,3591.95,13469.81,3153.66,4489.94,Debit Card,David Wilson
+ORD10418,2022-08-05,CUST1284,Neha Iyer,North,Punjab,Home & Kitchen,Coffee Maker,9,2345.33,21107.97,6335.36,0.0,Credit Card,Robert Garcia
+ORD10812,2022-08-05,CUST1251,Manoj Reddy,North,Uttarakhand,Books,Educational Book,2,1307.08,2091.33,786.25,522.83,Credit Card,Robert Garcia
+ORD10417,2022-08-06,CUST1074,Rajesh Sharma,South,Karnataka,Toys,Building Blocks,9,4244.97,32474.02,6828.84,5730.71,UPI,Michael Brown
+ORD10673,2022-08-08,CUST1086,Lakshmi Chopra,East,Odisha,Sports,Running Shoes,9,4557.02,41013.18,8803.79,0.0,Debit Card,Lisa Anderson
+ORD10116,2022-08-09,CUST1270,Rahul Nair,North,Haryana,Electronics,Speaker,7,40607.79,241616.35,60042.1,42638.18,Debit Card,David Wilson
+ORD10529,2022-08-10,CUST1262,Amit Bansal,South,Tamil Nadu,Toys,Remote Control Car,1,4472.14,4472.14,785.75,0.0,UPI,John Smith
+ORD10830,2022-08-10,CUST1165,Sneha Shah,East,Assam,Clothing,Shirt,6,2177.28,13063.68,2745.27,0.0,Credit Card,Sarah Johnson
+ORD10132,2022-08-11,CUST1185,Rina Kumar,West,Maharashtra,Toys,Educational Toy,3,596.86,1253.41,238.29,537.17,Credit Card,Sarah Johnson
+ORD10733,2022-08-11,CUST1026,Ashok Pillai,West,Goa,Clothing,Sweater,2,4918.19,9836.38,1873.43,0.0,Credit Card,David Wilson
+ORD10906,2022-08-11,CUST1217,Rekha Singh,South,Karnataka,Clothing,T-Shirt,4,1966.25,6292.0,1514.42,1573.0,Cash,David Wilson
+ORD10592,2022-08-12,CUST1099,Rekha Sharma,North,Uttarakhand,Sports,Tennis Racket,6,1285.35,5784.07,2236.58,1928.03,Credit Card,David Wilson
+ORD10743,2022-08-12,CUST1032,Kiran Patel,North,Haryana,Toys,Puzzle Game,10,2610.69,22190.87,3736.18,3916.03,UPI,Lisa Anderson
+ORD10842,2022-08-12,CUST1046,Anjali Mishra,North,Haryana,Electronics,Tablet,1,19240.21,19240.21,7175.04,0.0,Credit Card,Robert Garcia
+ORD10228,2022-08-15,CUST1279,Geeta Patel,East,Odisha,Electronics,Speaker,7,73149.86,460844.12,162903.41,51204.9,Credit Card,Jennifer Martinez
+ORD10314,2022-08-15,CUST1202,Geeta Gupta,South,Karnataka,Electronics,Monitor,2,46348.57,74157.71,18667.77,18539.43,Credit Card,Emily Davis
+ORD10550,2022-08-16,CUST1130,Sunita Nair,South,Tamil Nadu,Books,Business Book,9,602.42,4879.6,1395.12,542.18,Credit Card,Sarah Johnson
+ORD10005,2022-08-18,CUST1090,Kiran Gupta,South,Andhra Pradesh,Books,Cookbook,1,227.21,170.41,55.92,56.8,UPI,Michael Brown
+ORD10692,2022-08-18,CUST1125,Sunita Nair,North,Delhi,Books,Self-Help Book,7,892.3,6246.1,1708.53,0.0,UPI,Emily Davis
+ORD10194,2022-08-19,CUST1119,Rina Bansal,West,Goa,Clothing,T-Shirt,3,3832.36,11497.08,3456.33,0.0,UPI,Robert Garcia
+ORD10964,2022-08-19,CUST1177,Sunita Agarwal,East,Assam,Toys,Remote Control Car,4,3351.55,12065.58,2779.73,1340.62,Debit Card,Robert Garcia
+ORD10349,2022-08-20,CUST1119,Sneha Menon,South,Andhra Pradesh,Electronics,Monitor,2,63674.49,127348.98,23489.37,0.0,Cash,Robert Garcia
+ORD10126,2022-08-22,CUST1019,Suresh Reddy,West,Goa,Sports,Badminton Set,3,7602.84,22808.52,6593.6,0.0,Debit Card,John Smith
+ORD10485,2022-08-25,CUST1265,Anjali Menon,North,Punjab,Toys,Doll House,9,785.63,4949.47,1734.24,2121.2,UPI,Sarah Johnson
+ORD10978,2022-08-25,CUST1259,Kiran Gupta,North,Haryana,Sports,Tennis Racket,2,6056.67,9085.0,2782.71,3028.34,Cash,Robert Garcia
+ORD10910,2022-08-28,CUST1133,Anjali Agarwal,West,Rajasthan,Clothing,Sweater,9,2511.88,21476.57,5096.45,1130.35,Cash,Sarah Johnson
+ORD10559,2022-08-29,CUST1099,Vijay Shah,South,Andhra Pradesh,Books,Travel Guide,1,778.61,583.96,186.46,194.65,Debit Card,Michael Brown
+ORD10760,2022-08-30,CUST1290,Kavita Desai,North,Uttarakhand,Books,Cookbook,6,594.41,3566.46,924.77,0.0,UPI,Sarah Johnson
+ORD10462,2022-08-31,CUST1292,Rahul Pillai,South,Karnataka,Sports,Badminton Set,10,5615.58,47732.43,13917.71,8423.37,Credit Card,Michael Brown
+ORD10703,2022-09-01,CUST1299,Prakash Kumar,East,West Bengal,Toys,Building Blocks,5,525.31,2626.55,538.1,0.0,Credit Card,Emily Davis
+ORD10863,2022-09-01,CUST1021,Divya Shah,East,Bihar,Sports,Tennis Racket,3,7774.63,22157.7,7465.01,1166.19,Cash,Lisa Anderson
+ORD10429,2022-09-02,CUST1027,Pooja Reddy,North,Haryana,Books,Self-Help Book,2,1200.23,2400.46,527.38,0.0,Cash,Robert Garcia
+ORD10597,2022-09-02,CUST1298,Sneha Chopra,East,Assam,Electronics,Smart Watch,8,20289.06,113618.74,21528.1,48693.74,UPI,Sarah Johnson
+ORD10804,2022-09-02,CUST1152,Rajesh Menon,South,Andhra Pradesh,Toys,Puzzle Game,5,3995.52,16980.96,6330.47,2996.64,Cash,Robert Garcia
+ORD10950,2022-09-02,CUST1055,Suresh Rao,East,Jharkhand,Books,Cookbook,5,251.68,943.8,259.76,314.6,Credit Card,Emily Davis
+ORD10238,2022-09-03,CUST1251,Kiran Nair,West,Rajasthan,Electronics,Tablet,9,57528.05,440089.58,78192.61,77662.87,Credit Card,Robert Garcia
+ORD10817,2022-09-03,CUST1162,Geeta Gupta,South,Tamil Nadu,Books,Educational Book,10,1365.6,10242.0,2108.06,3414.0,Cash,David Wilson
+ORD10029,2022-09-04,CUST1117,Neha Gupta,West,Maharashtra,Sports,Yoga Mat,8,5025.01,34170.07,7366.15,6030.01,Debit Card,Michael Brown
+ORD10792,2022-09-04,CUST1260,Manoj Nair,East,Bihar,Toys,Remote Control Car,2,4107.97,8215.94,2782.22,0.0,Debit Card,Lisa Anderson
+ORD10753,2022-09-06,CUST1116,Rajesh Kumar,West,Madhya Pradesh,Electronics,Laptop,5,72177.68,360888.4,88909.04,0.0,Debit Card,Emily Davis
+ORD10024,2022-09-07,CUST1271,Neha Iyer,South,Andhra Pradesh,Clothing,Sweater,1,1481.67,1259.42,189.92,222.25,Cash,John Smith
+ORD10188,2022-09-07,CUST1108,Pooja Desai,West,Rajasthan,Clothing,Shirt,3,2153.12,6136.39,2107.69,322.97,Credit Card,Robert Garcia
+ORD10358,2022-09-07,CUST1013,Naveen Nair,East,Jharkhand,Toys,Remote Control Car,8,4379.84,35038.72,13300.89,0.0,Debit Card,Sarah Johnson
+ORD10523,2022-09-08,CUST1286,Rajesh Kumar,South,Kerala,Books,Business Book,7,509.3,3565.1,1141.06,0.0,UPI,Michael Brown
+ORD10952,2022-09-08,CUST1237,Lakshmi Desai,North,Uttar Pradesh,Sports,Tennis Racket,3,5416.34,13811.67,3819.85,2437.35,Credit Card,Lisa Anderson
+ORD10113,2022-09-09,CUST1107,Anjali Kumar,West,Madhya Pradesh,Home & Kitchen,Microwave,4,7788.54,28038.74,6351.95,3115.42,Cash,Lisa Anderson
+ORD10065,2022-09-10,CUST1057,Swati Shah,South,Telangana,Electronics,Speaker,9,57289.68,386705.34,152806.88,128901.78,Debit Card,John Smith
+ORD10912,2022-09-12,CUST1180,Ashok Nair,South,Tamil Nadu,Electronics,Headphones,5,54126.82,202975.58,33792.62,67658.52,Debit Card,Emily Davis
+ORD10285,2022-09-13,CUST1118,Rina Iyer,North,Uttarakhand,Books,Cookbook,3,1444.31,3899.64,1360.0,433.29,Credit Card,John Smith
+ORD10669,2022-09-13,CUST1240,Mohan Pillai,North,Punjab,Toys,Board Game,3,4211.86,10740.24,2225.8,1895.34,Debit Card,Michael Brown
+ORD10801,2022-09-13,CUST1019,Prakash Bansal,South,Karnataka,Electronics,Speaker,10,22387.83,167908.73,34063.37,55969.57,Cash,David Wilson
+ORD10960,2022-09-15,CUST1129,Kiran Agarwal,East,West Bengal,Sports,Badminton Set,6,6643.98,27904.72,10102.89,11959.16,Debit Card,Michael Brown
+ORD10983,2022-09-15,CUST1283,Amit Gupta,North,Delhi,Books,Biography,8,689.67,5517.36,1135.85,0.0,Credit Card,Emily Davis
+ORD10112,2022-09-16,CUST1188,Ganesh Sharma,East,Odisha,Clothing,Dress,8,1670.28,13362.24,2740.8,0.0,Debit Card,John Smith
+ORD10674,2022-09-16,CUST1057,Meera Menon,West,Rajasthan,Sports,Gym Bag,2,9549.13,19098.26,6631.88,0.0,Credit Card,Sarah Johnson
+ORD10724,2022-09-20,CUST1025,Neha Mishra,East,Assam,Electronics,Smart Watch,6,34984.45,188916.03,30999.28,20990.67,UPI,Sarah Johnson
+ORD10080,2022-09-23,CUST1071,Geeta Rao,West,Goa,Home & Kitchen,Cookware Set,8,3386.09,20316.54,8008.01,6772.18,UPI,Emily Davis
+ORD10472,2022-09-25,CUST1175,Pooja Mishra,East,West Bengal,Clothing,Trousers,7,3211.73,19109.79,4286.37,3372.32,Credit Card,David Wilson
+ORD10492,2022-09-25,CUST1063,Ashok Patel,West,Maharashtra,Clothing,T-Shirt,9,4443.85,39994.65,9498.7,0.0,Debit Card,Lisa Anderson
+ORD10821,2022-09-25,CUST1021,Priya Bansal,West,Gujarat,Sports,Football,7,774.03,4605.48,1027.69,812.73,Credit Card,Sarah Johnson
+ORD10899,2022-09-26,CUST1056,Rekha Nair,West,Goa,Home & Kitchen,Microwave,10,12770.91,127709.1,31948.82,0.0,Cash,John Smith
+ORD10245,2022-09-28,CUST1198,Priya Iyer,South,Telangana,Books,Fiction Novel,9,1064.15,9098.48,1744.5,478.87,UPI,Robert Garcia
+ORD10152,2022-09-29,CUST1095,Ashok Bansal,West,Goa,Home & Kitchen,Mixer Grinder,10,4248.1,38232.9,12881.67,4248.1,Credit Card,Lisa Anderson
+ORD10573,2022-09-29,CUST1154,Divya Desai,South,Andhra Pradesh,Clothing,Jeans,5,4676.69,16368.42,2775.59,7015.03,Cash,Sarah Johnson
+ORD10937,2022-09-29,CUST1180,Suresh Nair,East,Bihar,Clothing,Jacket,6,1484.2,7569.42,2824.75,1335.78,UPI,David Wilson
+ORD10206,2022-09-30,CUST1254,Rina Bansal,South,Telangana,Toys,Teddy Bear,1,2759.25,2759.25,687.02,0.0,Debit Card,Sarah Johnson
+ORD10938,2022-09-30,CUST1262,Suresh Reddy,East,West Bengal,Home & Kitchen,Mixer Grinder,3,9106.74,27320.22,7923.52,0.0,Credit Card,Sarah Johnson
+ORD10059,2022-10-03,CUST1164,Suresh Sharma,West,Gujarat,Toys,Building Blocks,5,4856.64,24283.2,8347.75,0.0,UPI,Sarah Johnson
+ORD10364,2022-10-03,CUST1094,Sunita Rao,East,Jharkhand,Clothing,Shoes,9,3690.15,28229.65,7443.27,4981.7,Debit Card,Jennifer Martinez
+ORD10297,2022-10-04,CUST1228,Lakshmi Singh,North,Punjab,Toys,Action Figure,5,1988.19,8946.85,2129.59,994.1,Debit Card,Sarah Johnson
+ORD10445,2022-10-04,CUST1286,Rina Desai,East,Bihar,Clothing,Shoes,1,2326.24,2093.62,329.79,232.62,Cash,Emily Davis
+ORD10696,2022-10-04,CUST1268,Sneha Mehta,East,Odisha,Toys,Doll House,6,1140.35,6499.99,2146.82,342.11,Cash,Sarah Johnson
+ORD10663,2022-10-06,CUST1085,Geeta Chopra,East,West Bengal,Home & Kitchen,Pressure Cooker,4,6652.93,26611.72,5333.01,0.0,Cash,David Wilson
+ORD10082,2022-10-09,CUST1040,Vijay Patel,West,Rajasthan,Toys,Action Figure,6,4791.63,22999.82,6028.64,5749.96,Cash,Sarah Johnson
+ORD10165,2022-10-10,CUST1280,Prakash Mehta,North,Haryana,Electronics,Speaker,8,76788.22,522159.9,132533.92,92145.86,Credit Card,Jennifer Martinez
+ORD10676,2022-10-14,CUST1263,Mohan Patel,West,Maharashtra,Clothing,T-Shirt,1,4058.79,3247.03,1113.38,811.76,Debit Card,Jennifer Martinez
+ORD10850,2022-10-17,CUST1180,Suresh Sharma,West,Goa,Sports,Football,2,2502.39,5004.78,1496.08,0.0,UPI,David Wilson
+ORD10929,2022-10-18,CUST1037,Rahul Gupta,West,Rajasthan,Toys,Remote Control Car,6,4050.8,23089.56,4124.16,1215.24,Cash,Lisa Anderson
+ORD10649,2022-10-21,CUST1046,Ravi Verma,East,Jharkhand,Books,Self-Help Book,9,989.41,8904.69,1568.46,0.0,UPI,John Smith
+ORD10666,2022-10-21,CUST1099,Kavita Iyer,South,Andhra Pradesh,Home & Kitchen,Pressure Cooker,2,1245.9,1868.85,364.79,622.95,Debit Card,Lisa Anderson
+ORD10699,2022-10-21,CUST1012,Rekha Singh,North,Uttarakhand,Clothing,Shoes,6,2684.17,15299.77,3128.25,805.25,Debit Card,Sarah Johnson
+ORD10662,2022-10-22,CUST1239,Arun Joshi,East,Odisha,Sports,Football,7,9176.92,51390.75,16691.48,12847.69,UPI,Michael Brown
+ORD10788,2022-10-23,CUST1216,Ashok Agarwal,West,Madhya Pradesh,Electronics,Laptop,5,64892.85,308241.04,122635.48,16223.21,Cash,Michael Brown
+ORD10694,2022-10-26,CUST1178,Deepika Kumar,East,Assam,Sports,Badminton Set,10,7070.91,49496.37,13532.04,21212.73,Debit Card,Jennifer Martinez
+ORD10883,2022-10-27,CUST1252,Swati Agarwal,South,Andhra Pradesh,Electronics,Smart Watch,4,51878.81,145260.67,22124.44,62254.57,UPI,David Wilson
+ORD10593,2022-10-28,CUST1293,Sneha Chopra,South,Andhra Pradesh,Toys,Building Blocks,1,631.86,631.86,189.18,0.0,Debit Card,Michael Brown
+ORD10637,2022-10-28,CUST1038,Arun Chopra,South,Andhra Pradesh,Electronics,Speaker,7,46954.34,328680.38,57532.09,0.0,Credit Card,Michael Brown
+ORD10224,2022-10-29,CUST1084,Prakash Rao,North,Punjab,Toys,Educational Toy,7,2461.23,16367.18,5321.7,861.43,Debit Card,Emily Davis
+ORD10568,2022-10-29,CUST1091,Rina Gupta,West,Rajasthan,Sports,Running Shoes,3,5737.45,16351.73,4647.36,860.62,Cash,David Wilson
+ORD10013,2022-10-30,CUST1054,Suresh Mishra,North,Uttar Pradesh,Home & Kitchen,Dinner Set,6,7719.29,34736.81,12469.99,11578.93,Cash,Michael Brown
+ORD10365,2022-11-06,CUST1072,Arun Shah,North,Punjab,Sports,Gym Bag,7,5281.05,29573.88,9028.3,7393.47,Cash,Sarah Johnson
+ORD10870,2022-11-06,CUST1094,Priya Mishra,North,Delhi,Home & Kitchen,Air Fryer,1,1188.04,831.63,251.68,356.41,Debit Card,Lisa Anderson
+ORD10530,2022-11-07,CUST1012,Mohan Patel,East,Jharkhand,Electronics,Tablet,2,77613.12,147464.93,44844.59,7761.31,Credit Card,Robert Garcia
+ORD10491,2022-11-09,CUST1235,Anjali Singh,North,Delhi,Clothing,Sweater,2,1435.47,2009.66,338.64,861.28,Credit Card,John Smith
+ORD10055,2022-11-10,CUST1195,Priya Shah,North,Uttar Pradesh,Books,Travel Guide,6,960.35,4321.57,1498.41,1440.53,Cash,Michael Brown
+ORD10457,2022-11-10,CUST1277,Prakash Nair,North,Uttarakhand,Home & Kitchen,Dinner Set,6,5085.42,24410.02,7658.8,6102.5,UPI,Emily Davis
+ORD10930,2022-11-10,CUST1262,Vijay Rao,East,Jharkhand,Home & Kitchen,Toaster,4,13838.71,41516.13,15703.69,13838.71,UPI,Michael Brown
+ORD10740,2022-11-12,CUST1057,Manoj Desai,East,West Bengal,Books,Business Book,10,1306.5,10452.0,1637.48,2613.0,UPI,Lisa Anderson
+ORD10306,2022-11-14,CUST1110,Manoj Reddy,East,West Bengal,Toys,Doll House,2,1519.75,2431.6,461.76,607.9,Debit Card,Sarah Johnson
+ORD10706,2022-11-16,CUST1008,Swati Menon,North,Haryana,Books,Biography,9,697.29,5961.83,1898.1,313.78,Credit Card,Lisa Anderson
+ORD10992,2022-11-16,CUST1034,Rina Gupta,West,Maharashtra,Sports,Running Shoes,5,6735.06,26940.24,9965.73,6735.06,UPI,John Smith
+ORD10017,2022-11-17,CUST1049,Mohan Kumar,North,Uttar Pradesh,Books,Business Book,8,763.51,4581.06,813.34,1527.02,UPI,John Smith
+ORD10763,2022-11-19,CUST1290,Ashok Kumar,North,Punjab,Clothing,Shoes,3,1925.25,5775.75,1438.1,0.0,Cash,Jennifer Martinez
+ORD10616,2022-11-20,CUST1029,Ashok Patel,West,Goa,Toys,Educational Toy,3,4584.63,13753.89,5428.3,0.0,Cash,David Wilson
+ORD10856,2022-11-20,CUST1215,Deepika Agarwal,South,Andhra Pradesh,Books,Biography,1,529.81,503.32,183.51,26.49,Credit Card,Sarah Johnson
+ORD10199,2022-11-21,CUST1012,Kiran Verma,East,Bihar,Clothing,Jacket,6,1533.03,9198.18,2912.26,0.0,Cash,Emily Davis
+ORD10441,2022-11-21,CUST1221,Lakshmi Verma,South,Kerala,Home & Kitchen,Pressure Cooker,7,12540.34,87782.38,23463.55,0.0,Credit Card,Emily Davis
+ORD10785,2022-11-22,CUST1271,Rajesh Desai,North,Delhi,Sports,Yoga Mat,2,4535.57,7710.47,1906.5,1360.67,Credit Card,Emily Davis
+ORD10590,2022-11-23,CUST1106,Ravi Pillai,West,Madhya Pradesh,Toys,Board Game,3,1191.73,3038.91,517.37,536.28,UPI,Emily Davis
+ORD10071,2022-11-24,CUST1152,Ravi Sharma,East,Odisha,Electronics,Monitor,9,12236.72,88104.38,20966.79,22026.1,Debit Card,John Smith
+ORD10486,2022-11-24,CUST1015,Geeta Shah,East,West Bengal,Sports,Yoga Mat,6,4761.86,24285.49,9090.15,4285.67,Cash,Jennifer Martinez
+ORD10371,2022-11-27,CUST1049,Priya Mehta,West,Goa,Electronics,Smartphone,6,74186.57,445119.42,126912.6,0.0,Credit Card,Emily Davis
+ORD10422,2022-11-29,CUST1272,Lakshmi Kumar,South,Kerala,Home & Kitchen,Toaster,2,14358.46,27281.07,6781.91,1435.85,Credit Card,Jennifer Martinez
+ORD10336,2022-11-30,CUST1092,Sanjay Joshi,West,Gujarat,Clothing,Dress,5,3952.57,17786.56,6670.49,1976.29,Cash,Lisa Anderson
+ORD10119,2022-12-01,CUST1233,Suresh Mehta,East,Odisha,Clothing,Shirt,9,2758.63,17379.37,6205.06,7448.3,UPI,Jennifer Martinez
+ORD10025,2022-12-03,CUST1186,Priya Mehta,North,Haryana,Clothing,Trousers,4,4165.87,14163.96,4129.38,2499.52,Credit Card,Emily Davis
+ORD10050,2022-12-04,CUST1196,Pooja Joshi,West,Rajasthan,Clothing,T-Shirt,9,2335.25,14712.07,4535.68,6305.18,Cash,Robert Garcia
+ORD10077,2022-12-04,CUST1041,Swati Iyer,North,Delhi,Toys,Remote Control Car,8,1744.06,12557.23,4537.32,1395.25,UPI,David Wilson
+ORD10201,2022-12-04,CUST1018,Rajesh Agarwal,North,Uttar Pradesh,Clothing,Trousers,4,3293.47,11856.49,2115.72,1317.39,Debit Card,Emily Davis
+ORD10315,2022-12-04,CUST1211,Meera Kumar,West,Gujarat,Home & Kitchen,Toaster,1,4818.54,4818.54,1014.75,0.0,UPI,David Wilson
+ORD10741,2022-12-05,CUST1272,Amit Gupta,South,Kerala,Toys,Educational Toy,9,4590.45,35116.94,9030.17,6197.11,Debit Card,David Wilson
+ORD10544,2022-12-06,CUST1232,Kavita Nair,North,Delhi,Books,Biography,8,1442.29,10384.49,2861.22,1153.83,Debit Card,Jennifer Martinez
+ORD10154,2022-12-07,CUST1105,Rahul Chopra,West,Goa,Sports,Football,8,3739.62,23933.57,9526.43,5983.39,UPI,Robert Garcia
+ORD10879,2022-12-07,CUST1076,Naveen Patel,South,Telangana,Books,Travel Guide,1,395.48,395.48,143.89,0.0,Debit Card,Emily Davis
+ORD10450,2022-12-09,CUST1193,Meera Gupta,South,Andhra Pradesh,Electronics,Speaker,1,9362.2,6553.54,1690.9,2808.66,Debit Card,Michael Brown
+ORD10488,2022-12-10,CUST1215,Sunita Verma,South,Andhra Pradesh,Electronics,Tablet,4,24726.25,74178.75,13737.5,24726.25,Cash,Lisa Anderson
+ORD10517,2022-12-10,CUST1060,Deepika Mehta,North,Punjab,Books,Children Book,4,1462.44,5264.78,1495.65,584.98,Cash,Sarah Johnson
+ORD10704,2022-12-10,CUST1232,Rajesh Iyer,South,Kerala,Home & Kitchen,Toaster,7,8435.88,56098.6,19769.78,2952.56,Cash,David Wilson
+ORD10893,2022-12-13,CUST1287,Geeta Verma,South,Tamil Nadu,Home & Kitchen,Microwave,1,13988.56,9791.99,2614.06,4196.57,Debit Card,Lisa Anderson
+ORD10515,2022-12-16,CUST1159,Sanjay Sharma,South,Karnataka,Clothing,Dress,6,4344.79,18248.12,4170.73,7820.62,Debit Card,Emily Davis
+ORD10919,2022-12-17,CUST1230,Kiran Menon,South,Kerala,Electronics,Headphones,5,74907.26,374536.3,108398.0,0.0,Cash,John Smith
+ORD10617,2022-12-18,CUST1062,Rekha Kumar,West,Rajasthan,Clothing,Trousers,1,1661.12,1578.06,497.89,83.06,Credit Card,Michael Brown
+ORD10139,2022-12-19,CUST1195,Anjali Pillai,North,Uttar Pradesh,Books,Cookbook,3,250.05,750.15,176.78,0.0,Credit Card,Sarah Johnson
+ORD10621,2022-12-19,CUST1173,Sneha Rao,West,Rajasthan,Electronics,Monitor,6,15676.14,94056.84,34508.18,0.0,UPI,Sarah Johnson
+ORD10384,2022-12-20,CUST1064,Vijay Joshi,South,Karnataka,Toys,Puzzle Game,2,1708.5,2904.45,766.15,512.55,Debit Card,Robert Garcia
+ORD10798,2022-12-20,CUST1295,Swati Sharma,South,Telangana,Home & Kitchen,Coffee Maker,6,14441.95,77986.53,23229.08,8665.17,UPI,John Smith
+ORD10680,2022-12-21,CUST1083,Anjali Singh,West,Rajasthan,Home & Kitchen,Pressure Cooker,8,11025.34,83792.58,30614.7,4410.14,Debit Card,Sarah Johnson
+ORD10510,2022-12-22,CUST1087,Deepika Desai,West,Maharashtra,Toys,Doll House,5,2673.25,12697.94,4348.87,668.31,Debit Card,Jennifer Martinez
+ORD10130,2022-12-24,CUST1003,Sanjay Singh,South,Tamil Nadu,Sports,Running Shoes,7,9570.99,53597.54,17934.49,13399.39,Debit Card,Lisa Anderson
+ORD10264,2022-12-25,CUST1074,Priya Iyer,East,Bihar,Clothing,Dress,8,4277.97,23956.63,6102.53,10267.13,Cash,Michael Brown
+ORD10973,2022-12-26,CUST1094,Ashok Mishra,East,Odisha,Clothing,T-Shirt,6,4710.33,28261.98,5017.94,0.0,Cash,David Wilson
+ORD10661,2022-12-27,CUST1202,Swati Bansal,South,Andhra Pradesh,Home & Kitchen,Cookware Set,4,1774.64,6743.63,2542.75,354.93,UPI,John Smith
+ORD10630,2022-12-29,CUST1105,Rajesh Agarwal,East,Jharkhand,Sports,Yoga Mat,2,8534.48,17068.96,3932.41,0.0,Cash,John Smith
+ORD10129,2022-12-31,CUST1002,Vijay Reddy,West,Maharashtra,Home & Kitchen,Toaster,7,5122.66,35858.62,5758.66,0.0,UPI,Michael Brown
+ORD10538,2023-01-01,CUST1223,Kiran Singh,East,Jharkhand,Home & Kitchen,Air Fryer,9,14407.42,90766.75,34365.49,38900.03,Credit Card,Sarah Johnson
+ORD10854,2023-01-02,CUST1085,Rahul Chopra,North,Uttar Pradesh,Sports,Cricket Bat,6,8422.23,37900.04,7373.26,12633.34,UPI,Michael Brown
+ORD10074,2023-01-04,CUST1023,Prakash Verma,West,Gujarat,Toys,Action Figure,10,2001.24,19011.78,5719.7,1000.62,UPI,Sarah Johnson
+ORD10790,2023-01-04,CUST1262,Sneha Reddy,North,Delhi,Sports,Running Shoes,10,5058.44,50584.4,15265.85,0.0,Credit Card,Michael Brown
+ORD10997,2023-01-05,CUST1008,Mohan Menon,East,Jharkhand,Books,Educational Book,7,941.73,4944.08,1544.32,1648.03,Credit Card,Emily Davis
+ORD10560,2023-01-08,CUST1033,Ravi Bansal,North,Punjab,Home & Kitchen,Microwave,7,10813.35,75693.45,25262.53,0.0,Cash,Robert Garcia
+ORD10887,2023-01-08,CUST1115,Sunita Nair,South,Andhra Pradesh,Electronics,Camera,9,54899.82,444688.54,106575.87,49409.84,Debit Card,Sarah Johnson
+ORD10849,2023-01-09,CUST1088,Sneha Chopra,West,Gujarat,Home & Kitchen,Dinner Set,2,8504.58,12756.87,2193.0,4252.29,Cash,Michael Brown
+ORD10338,2023-01-10,CUST1262,Rina Kumar,East,Assam,Clothing,Shoes,6,703.65,4221.9,1609.15,0.0,Cash,Michael Brown
+ORD10390,2023-01-10,CUST1255,Mohan Reddy,West,Madhya Pradesh,Books,Self-Help Book,6,1170.46,6671.62,2260.31,351.14,Cash,Lisa Anderson
+ORD10456,2023-01-11,CUST1002,Kiran Joshi,North,Uttarakhand,Home & Kitchen,Coffee Maker,8,13012.58,98895.61,19287.61,5205.03,Cash,Robert Garcia
+ORD10684,2023-01-11,CUST1249,Ravi Gupta,East,Jharkhand,Sports,Yoga Mat,9,8218.3,73964.7,14087.08,0.0,Credit Card,John Smith
+ORD10216,2023-01-12,CUST1028,Sneha Agarwal,East,Odisha,Sports,Dumbbells,9,1457.3,11804.13,3826.41,1311.57,Credit Card,Michael Brown
+ORD10280,2023-01-14,CUST1218,Sanjay Agarwal,South,Andhra Pradesh,Clothing,Shoes,10,987.05,9870.5,2044.08,0.0,UPI,Emily Davis
+ORD10345,2023-01-14,CUST1232,Vijay Rao,East,Bihar,Clothing,Sweater,9,4512.07,36547.77,12105.87,4060.86,Credit Card,Michael Brown
+ORD10805,2023-01-15,CUST1115,Ravi Pillai,South,Telangana,Sports,Football,10,7141.64,71416.4,17084.6,0.0,Debit Card,Robert Garcia
+ORD10904,2023-01-16,CUST1056,Arun Rao,South,Telangana,Electronics,Smartphone,9,24038.29,216344.61,78940.33,0.0,Credit Card,Emily Davis
+ORD10999,2023-01-17,CUST1186,Neha Kumar,West,Gujarat,Electronics,Monitor,10,8684.35,65132.62,18035.98,21710.88,Credit Card,Jennifer Martinez
+ORD10088,2023-01-18,CUST1166,Rekha Joshi,South,Karnataka,Books,Fiction Novel,7,1353.58,9475.06,1685.18,0.0,Cash,Lisa Anderson
+ORD10958,2023-01-19,CUST1029,Rina Nair,North,Punjab,Electronics,Laptop,1,75250.93,75250.93,13910.32,0.0,Cash,John Smith
+ORD10148,2023-01-22,CUST1114,Vijay Verma,South,Karnataka,Toys,Building Blocks,1,2542.67,2161.27,847.13,381.4,Credit Card,David Wilson
+ORD10532,2023-01-24,CUST1053,Pooja Singh,South,Telangana,Clothing,Dress,3,3999.48,9598.75,3483.53,2399.69,Debit Card,Jennifer Martinez
+ORD10639,2023-01-24,CUST1278,Divya Shah,North,Uttarakhand,Sports,Cricket Bat,2,7907.39,11861.08,2468.89,3953.7,Debit Card,Emily Davis
+ORD10554,2023-01-26,CUST1290,Deepika Rao,South,Kerala,Toys,Board Game,2,2643.47,3700.86,1115.89,1586.08,Credit Card,Jennifer Martinez
+ORD10222,2023-01-27,CUST1076,Rahul Pillai,South,Kerala,Sports,Running Shoes,10,8356.06,83560.6,17844.8,0.0,Cash,David Wilson
+ORD10451,2023-01-27,CUST1128,Neha Rao,South,Tamil Nadu,Toys,Doll House,8,4846.1,27138.16,8458.15,11630.64,Cash,Lisa Anderson
+ORD10737,2023-01-27,CUST1263,Priya Desai,East,Bihar,Sports,Badminton Set,8,8917.08,64202.98,14064.84,7133.66,UPI,Robert Garcia
+ORD10575,2023-01-28,CUST1147,Vijay Joshi,South,Karnataka,Books,Biography,4,562.09,2248.36,669.1,0.0,Cash,David Wilson
+ORD10731,2023-01-28,CUST1095,Divya Mishra,South,Karnataka,Books,Biography,7,655.01,4126.56,730.88,458.51,Credit Card,David Wilson
+ORD10117,2023-01-29,CUST1148,Anjali Pillai,North,Haryana,Electronics,Headphones,8,64857.13,518857.04,183928.57,0.0,UPI,David Wilson
+ORD10307,2023-01-29,CUST1176,Rahul Joshi,North,Delhi,Sports,Cricket Bat,10,7412.06,66708.54,16763.17,7412.06,Debit Card,Lisa Anderson
+ORD10258,2023-01-30,CUST1258,Manoj Singh,North,Haryana,Home & Kitchen,Toaster,6,3309.64,14893.38,4772.2,4964.46,Credit Card,Michael Brown
+ORD10274,2023-02-01,CUST1245,Rajesh Bansal,West,Madhya Pradesh,Electronics,Smart Watch,2,71362.05,121315.48,21394.15,21408.62,Cash,Robert Garcia
+ORD10541,2023-02-01,CUST1123,Kiran Reddy,East,Bihar,Sports,Tennis Racket,5,5631.59,25342.15,8521.48,2815.8,Credit Card,Emily Davis
+ORD10341,2023-02-02,CUST1159,Rahul Reddy,South,Karnataka,Electronics,Laptop,1,51801.97,38851.48,7227.77,12950.49,Debit Card,David Wilson
+ORD10809,2023-02-05,CUST1188,Pooja Rao,West,Madhya Pradesh,Books,Travel Guide,10,669.02,5352.16,989.75,1338.04,Debit Card,David Wilson
+ORD10053,2023-02-09,CUST1266,Rahul Gupta,West,Gujarat,Sports,Yoga Mat,10,876.15,6133.05,1586.83,2628.45,UPI,Sarah Johnson
+ORD10001,2023-02-11,CUST1268,Sunita Nair,South,Tamil Nadu,Toys,Board Game,1,3135.33,3135.33,1088.85,0.0,UPI,John Smith
+ORD10761,2023-02-11,CUST1218,Suresh Bansal,West,Goa,Sports,Tennis Racket,1,6984.35,4889.05,999.89,2095.3,UPI,John Smith
+ORD10916,2023-02-11,CUST1221,Ashok Mishra,East,Bihar,Books,Children Book,8,439.61,3516.88,1257.36,0.0,Credit Card,Robert Garcia
+ORD10768,2023-02-13,CUST1269,Ravi Pillai,East,Assam,Toys,Action Figure,7,3712.42,18190.86,4335.1,7796.08,Cash,Lisa Anderson
+ORD10235,2023-02-14,CUST1228,Sunita Singh,North,Uttar Pradesh,Sports,Football,7,5951.81,37496.4,9518.78,4166.27,UPI,John Smith
+ORD10578,2023-02-14,CUST1271,Sunita Mishra,North,Uttarakhand,Sports,Dumbbells,4,7219.88,25991.57,6250.55,2887.95,Debit Card,Michael Brown
+ORD10023,2023-02-17,CUST1116,Naveen Chopra,North,Uttarakhand,Toys,Action Figure,10,2528.88,18966.6,6653.59,6322.2,UPI,Emily Davis
+ORD10786,2023-02-18,CUST1109,Vijay Agarwal,East,Assam,Electronics,Camera,6,47102.99,254356.15,83939.13,28261.79,Credit Card,David Wilson
+ORD10056,2023-02-21,CUST1256,Lakshmi Bansal,South,Andhra Pradesh,Home & Kitchen,Cookware Set,7,4829.03,33803.21,8424.85,0.0,Credit Card,Lisa Anderson
+ORD10344,2023-02-21,CUST1001,Geeta Chopra,North,Uttar Pradesh,Home & Kitchen,Mixer Grinder,6,2866.84,16340.99,5038.1,860.05,Cash,Michael Brown
+ORD10513,2023-02-21,CUST1044,Prakash Sharma,South,Tamil Nadu,Books,Self-Help Book,9,614.27,4146.32,1514.34,1382.11,Debit Card,Emily Davis
+ORD10744,2023-02-21,CUST1178,Ashok Singh,East,Jharkhand,Sports,Tennis Racket,9,1218.1,10414.76,2545.26,548.14,Debit Card,Jennifer Martinez
+ORD10622,2023-02-22,CUST1221,Rajesh Iyer,East,West Bengal,Electronics,Tablet,5,46266.44,231332.2,43475.19,0.0,Credit Card,Sarah Johnson
+ORD10994,2023-02-22,CUST1269,Ravi Iyer,East,Jharkhand,Books,Travel Guide,9,1268.86,7993.82,1732.5,3425.92,Cash,John Smith
+ORD10519,2023-02-25,CUST1107,Sanjay Patel,South,Tamil Nadu,Toys,Action Figure,7,4226.16,22187.34,4088.12,7395.78,Debit Card,Sarah Johnson
+ORD10996,2023-02-25,CUST1263,Vijay Iyer,South,Andhra Pradesh,Sports,Gym Bag,3,8686.48,23453.5,4937.86,2605.94,UPI,Michael Brown
+ORD10915,2023-02-26,CUST1008,Sanjay Verma,South,Kerala,Home & Kitchen,Cookware Set,9,9016.84,81151.56,24099.97,0.0,Debit Card,John Smith
+ORD10683,2023-02-27,CUST1237,Rina Rao,North,Delhi,Electronics,Smart Watch,5,72670.27,308848.65,87469.47,54502.7,Credit Card,John Smith
+ORD10330,2023-02-28,CUST1047,Ravi Nair,North,Delhi,Books,Fiction Novel,5,449.82,1911.73,588.34,337.37,Credit Card,Michael Brown
+ORD10392,2023-02-28,CUST1104,Rahul Singh,West,Madhya Pradesh,Home & Kitchen,Pressure Cooker,7,1646.1,11522.7,4389.63,0.0,Credit Card,Michael Brown
+ORD10840,2023-02-28,CUST1246,Lakshmi Mehta,North,Uttar Pradesh,Clothing,Shirt,3,2044.9,5521.23,849.7,613.47,Cash,Lisa Anderson
+ORD10309,2023-03-03,CUST1272,Amit Kumar,North,Punjab,Sports,Running Shoes,3,5314.14,15145.3,3729.34,797.12,UPI,Sarah Johnson
+ORD10246,2023-03-05,CUST1099,Rahul Rao,North,Uttarakhand,Sports,Dumbbells,7,4295.8,21049.42,7554.92,9021.18,UPI,Michael Brown
+ORD10894,2023-03-07,CUST1185,Prakash Pillai,South,Karnataka,Books,Travel Guide,10,704.13,5985.11,2181.04,1056.19,Debit Card,Sarah Johnson
+ORD10401,2023-03-08,CUST1177,Deepika Pillai,South,Kerala,Toys,Puzzle Game,7,3666.6,25666.2,8301.87,0.0,Cash,Jennifer Martinez
+ORD10759,2023-03-09,CUST1151,Priya Verma,West,Goa,Clothing,Shoes,10,4191.16,31433.7,12520.95,10477.9,Debit Card,Lisa Anderson
+ORD10380,2023-03-11,CUST1045,Manoj Iyer,South,Andhra Pradesh,Electronics,Tablet,10,25030.98,237794.31,72951.59,12515.49,Debit Card,Emily Davis
+ORD10971,2023-03-12,CUST1177,Priya Joshi,North,Haryana,Clothing,Dress,4,577.53,2194.61,727.93,115.51,UPI,Robert Garcia
+ORD10427,2023-03-14,CUST1095,Sanjay Mishra,South,Karnataka,Home & Kitchen,Toaster,8,10447.54,58506.22,22845.31,25074.1,UPI,Emily Davis
+ORD10340,2023-03-15,CUST1124,Sanjay Pillai,West,Maharashtra,Electronics,Headphones,6,30257.14,181542.84,51225.55,0.0,Cash,Michael Brown
+ORD10115,2023-03-17,CUST1029,Rekha Shah,West,Maharashtra,Electronics,Smart Watch,6,42037.11,176555.86,40373.99,75666.8,UPI,Sarah Johnson
+ORD10145,2023-03-20,CUST1257,Arun Pillai,North,Uttar Pradesh,Toys,Doll House,9,1563.6,10554.3,2412.91,3518.1,UPI,John Smith
+ORD10939,2023-03-21,CUST1086,Sneha Menon,West,Rajasthan,Electronics,Camera,1,24907.15,24907.15,5915.18,0.0,Credit Card,David Wilson
+ORD10509,2023-03-23,CUST1167,Anjali Shah,North,Haryana,Sports,Football,4,5906.44,23625.76,5098.64,0.0,Debit Card,Jennifer Martinez
+ORD10787,2023-03-24,CUST1115,Sanjay Chopra,East,Jharkhand,Sports,Dumbbells,10,2094.63,20946.3,7451.86,0.0,Debit Card,Emily Davis
+ORD10900,2023-03-25,CUST1001,Kavita Patel,North,Uttar Pradesh,Clothing,Trousers,4,3359.69,10079.07,3588.97,3359.69,Debit Card,David Wilson
+ORD10009,2023-03-26,CUST1066,Mohan Desai,South,Tamil Nadu,Toys,Educational Toy,6,2667.75,16006.5,4277.27,0.0,Credit Card,Jennifer Martinez
+ORD10845,2023-03-27,CUST1171,Naveen Agarwal,South,Tamil Nadu,Sports,Running Shoes,8,9313.16,70780.02,19969.77,3725.26,Credit Card,David Wilson
+ORD10262,2023-03-29,CUST1093,Ashok Reddy,East,Jharkhand,Electronics,Headphones,2,31127.31,59141.89,14576.37,3112.73,Credit Card,John Smith
+ORD10299,2023-03-31,CUST1083,Vijay Bansal,North,Punjab,Electronics,Smart Watch,5,6142.07,30710.35,5303.91,0.0,UPI,Robert Garcia
+ORD10171,2023-04-01,CUST1090,Prakash Shah,South,Tamil Nadu,Home & Kitchen,Toaster,6,3857.36,18515.33,3137.95,4628.83,Credit Card,John Smith
+ORD10002,2023-04-03,CUST1088,Ravi Iyer,North,Haryana,Toys,Board Game,3,2514.35,5657.29,1812.78,1885.76,Credit Card,John Smith
+ORD10460,2023-04-04,CUST1062,Rahul Kumar,North,Delhi,Toys,Puzzle Game,7,1307.31,9151.17,2412.76,0.0,Debit Card,Michael Brown
+ORD10942,2023-04-04,CUST1015,Kiran Patel,North,Uttar Pradesh,Clothing,Dress,10,1641.19,11488.33,1923.4,4923.57,UPI,Jennifer Martinez
+ORD10193,2023-04-05,CUST1119,Prakash Nair,South,Karnataka,Books,Self-Help Book,4,846.55,2539.65,835.49,846.55,UPI,Michael Brown
+ORD10284,2023-04-05,CUST1279,Sunita Desai,North,Delhi,Toys,Teddy Bear,9,3658.64,27988.6,10392.64,4939.16,UPI,David Wilson
+ORD10543,2023-04-05,CUST1288,Rahul Joshi,North,Punjab,Sports,Badminton Set,4,9363.52,26217.86,8459.57,11236.22,Cash,Lisa Anderson
+ORD10372,2023-04-06,CUST1027,Meera Joshi,East,Bihar,Clothing,Jacket,8,2677.4,17135.36,4104.08,4283.84,UPI,John Smith
+ORD10503,2023-04-06,CUST1284,Suresh Agarwal,South,Karnataka,Home & Kitchen,Cookware Set,1,12945.91,11004.02,2015.5,1941.89,UPI,Michael Brown
+ORD10157,2023-04-07,CUST1015,Meera Patel,East,West Bengal,Home & Kitchen,Toaster,9,13399.59,102506.86,35231.79,18089.45,UPI,Michael Brown
+ORD10574,2023-04-07,CUST1193,Amit Patel,North,Haryana,Electronics,Headphones,2,34841.83,69683.66,23868.43,0.0,Cash,Jennifer Martinez
+ORD10021,2023-04-08,CUST1156,Lakshmi Singh,West,Rajasthan,Electronics,Speaker,6,26156.61,149092.68,59598.11,7846.98,UPI,Jennifer Martinez
+ORD10103,2023-04-11,CUST1162,Prakash Bansal,East,Odisha,Books,Cookbook,10,1487.34,10411.38,3360.04,4462.02,Debit Card,David Wilson
+ORD10484,2023-04-11,CUST1110,Sunita Patel,North,Delhi,Toys,Educational Toy,1,4962.66,4218.26,1613.83,744.4,Cash,Michael Brown
+ORD10606,2023-04-14,CUST1198,Sunita Kumar,North,Haryana,Electronics,Laptop,3,18233.36,49230.07,11433.45,5470.01,Cash,Sarah Johnson
+ORD10693,2023-04-14,CUST1054,Arun Rao,West,Maharashtra,Sports,Tennis Racket,1,5964.06,4174.84,797.99,1789.22,Cash,David Wilson
+ORD10463,2023-04-16,CUST1130,Anjali Kumar,West,Goa,Home & Kitchen,Mixer Grinder,9,3544.33,31898.97,6130.52,0.0,UPI,Jennifer Martinez
+ORD10806,2023-04-16,CUST1164,Meera Singh,North,Uttarakhand,Clothing,Jacket,7,2590.05,12691.24,2247.58,5439.11,Debit Card,Robert Garcia
+ORD10087,2023-04-17,CUST1022,Neha Patel,East,Odisha,Sports,Cricket Bat,7,5238.04,27499.71,8545.58,9166.57,Debit Card,Robert Garcia
+ORD10412,2023-04-18,CUST1073,Ganesh Bansal,South,Andhra Pradesh,Books,Fiction Novel,8,1162.31,7903.71,1799.61,1394.77,Credit Card,David Wilson
+ORD10081,2023-04-19,CUST1076,Rajesh Kumar,East,Bihar,Sports,Badminton Set,8,9235.33,66494.38,18831.72,7388.26,Credit Card,Jennifer Martinez
+ORD10153,2023-04-19,CUST1137,Ashok Bansal,North,Delhi,Clothing,Dress,4,1702.05,6127.38,974.65,680.82,Credit Card,Jennifer Martinez
+ORD10063,2023-04-20,CUST1203,Geeta Sharma,East,Odisha,Clothing,Shirt,6,1239.0,6690.6,1850.21,743.4,Debit Card,Jennifer Martinez
+ORD10895,2023-04-20,CUST1170,Amit Sharma,West,Gujarat,Home & Kitchen,Toaster,8,6265.55,50124.4,8636.32,0.0,Debit Card,Lisa Anderson
+ORD10282,2023-04-21,CUST1078,Deepika Nair,North,Punjab,Home & Kitchen,Air Fryer,1,2500.32,1875.24,287.93,625.08,Cash,Emily Davis
+ORD10770,2023-04-22,CUST1139,Mohan Desai,East,Assam,Toys,Doll House,9,567.75,4598.77,850.22,510.98,Debit Card,John Smith
+ORD10844,2023-04-22,CUST1142,Lakshmi Shah,North,Haryana,Clothing,Sweater,3,3820.79,8023.66,2801.96,3438.71,Cash,Sarah Johnson
+ORD10869,2023-04-22,CUST1040,Priya Sharma,West,Goa,Electronics,Camera,4,75498.12,301992.48,66946.93,0.0,Debit Card,Michael Brown
+ORD10335,2023-04-25,CUST1233,Manoj Nair,West,Gujarat,Home & Kitchen,Toaster,6,11417.49,68504.94,14371.06,0.0,UPI,Robert Garcia
+ORD10425,2023-04-27,CUST1021,Arun Desai,East,Bihar,Clothing,Jeans,9,2259.35,16267.32,5036.14,4066.83,Cash,John Smith
+ORD10363,2023-04-29,CUST1129,Rekha Singh,North,Delhi,Sports,Tennis Racket,3,591.5,1508.32,511.32,266.18,Credit Card,David Wilson
+ORD10448,2023-05-01,CUST1005,Deepika Joshi,South,Kerala,Home & Kitchen,Pressure Cooker,6,7505.63,40530.4,13237.46,4503.38,Cash,John Smith
+ORD10660,2023-05-01,CUST1076,Prakash Rao,North,Delhi,Electronics,Smartphone,9,77024.06,658555.71,101630.7,34660.83,Debit Card,Robert Garcia
+ORD10304,2023-05-05,CUST1217,Arun Mishra,West,Madhya Pradesh,Books,Children Book,4,1055.01,4220.04,1155.21,0.0,Debit Card,Michael Brown
+ORD10954,2023-05-05,CUST1069,Sanjay Joshi,South,Andhra Pradesh,Toys,Action Figure,10,2004.81,14033.67,3650.96,6014.43,Cash,John Smith
+ORD10988,2023-05-05,CUST1257,Rajesh Pillai,West,Madhya Pradesh,Clothing,Sweater,9,2128.1,16279.97,4709.7,2872.93,Debit Card,Lisa Anderson
+ORD10172,2023-05-07,CUST1111,Vijay Singh,South,Tamil Nadu,Electronics,Tablet,3,57391.04,146347.15,29736.45,25825.97,UPI,John Smith
+ORD10184,2023-05-08,CUST1283,Amit Verma,North,Uttarakhand,Books,Business Book,2,227.06,454.12,95.37,0.0,UPI,John Smith
+ORD10253,2023-05-08,CUST1182,Arun Shah,North,Delhi,Sports,Tennis Racket,1,1559.9,1559.9,291.68,0.0,Credit Card,Jennifer Martinez
+ORD10288,2023-05-09,CUST1034,Ravi Sharma,East,Odisha,Toys,Building Blocks,10,2990.65,29906.5,8443.16,0.0,Credit Card,Lisa Anderson
+ORD10226,2023-05-10,CUST1127,Neha Joshi,East,Bihar,Sports,Gym Bag,1,9023.93,9023.93,3414.56,0.0,Cash,Michael Brown
+ORD10564,2023-05-11,CUST1190,Priya Rao,South,Andhra Pradesh,Clothing,Jacket,7,942.87,5940.08,892.13,660.01,Cash,David Wilson
+ORD10633,2023-05-11,CUST1136,Anjali Rao,East,West Bengal,Sports,Yoga Mat,1,2005.76,1404.03,395.25,601.73,Cash,John Smith
+ORD10070,2023-05-13,CUST1236,Divya Chopra,East,Odisha,Electronics,Smartphone,1,15662.49,13313.12,4526.38,2349.37,Cash,John Smith
+ORD10728,2023-05-15,CUST1096,Geeta Mehta,West,Gujarat,Home & Kitchen,Dinner Set,8,3616.52,27485.55,5244.09,1446.61,Cash,Sarah Johnson
+ORD10386,2023-05-16,CUST1243,Swati Menon,East,West Bengal,Sports,Tennis Racket,6,6069.63,36417.78,10417.48,0.0,Debit Card,Jennifer Martinez
+ORD10526,2023-05-16,CUST1276,Ganesh Reddy,East,West Bengal,Electronics,Camera,2,12669.11,19003.66,6800.77,6334.56,UPI,Jennifer Martinez
+ORD10946,2023-05-16,CUST1285,Sunita Patel,East,Bihar,Books,Fiction Novel,9,433.7,3512.97,1152.07,390.33,Debit Card,John Smith
+ORD10397,2023-05-18,CUST1269,Prakash Mishra,West,Rajasthan,Clothing,Shoes,8,4551.65,29130.56,6855.93,7282.64,Debit Card,Michael Brown
+ORD10773,2023-05-18,CUST1275,Rina Mehta,North,Punjab,Books,Travel Guide,1,947.72,852.95,331.9,94.77,UPI,Emily Davis
+ORD10210,2023-05-21,CUST1048,Anjali Verma,South,Karnataka,Books,Self-Help Book,2,246.13,369.2,60.45,123.06,Credit Card,Emily Davis
+ORD10393,2023-05-22,CUST1055,Lakshmi Reddy,North,Punjab,Books,Educational Book,10,401.95,3014.62,1162.24,1004.88,Credit Card,Emily Davis
+ORD10413,2023-05-22,CUST1230,Geeta Verma,East,Bihar,Electronics,Tablet,1,40695.52,30521.64,7022.45,10173.88,UPI,Robert Garcia
+ORD10421,2023-05-22,CUST1066,Rajesh Patel,North,Uttar Pradesh,Home & Kitchen,Microwave,3,10119.1,30357.3,8682.61,0.0,UPI,David Wilson
+ORD10497,2023-05-22,CUST1176,Meera Joshi,North,Punjab,Clothing,Dress,4,4005.92,12017.76,3327.17,4005.92,Credit Card,Emily Davis
+ORD10242,2023-05-23,CUST1208,Rahul Bansal,West,Gujarat,Sports,Football,10,3486.28,34862.8,9237.87,0.0,Debit Card,Robert Garcia
+ORD10836,2023-05-23,CUST1092,Geeta Bansal,West,Madhya Pradesh,Electronics,Headphones,9,50659.1,455931.9,95971.74,0.0,Debit Card,Sarah Johnson
+ORD10047,2023-05-25,CUST1255,Geeta Menon,East,West Bengal,Electronics,Speaker,3,74658.96,223976.88,76624.35,0.0,Cash,Lisa Anderson
+ORD10582,2023-05-25,CUST1119,Manoj Gupta,North,Uttar Pradesh,Toys,Action Figure,5,1874.04,9370.2,3359.15,0.0,Credit Card,Sarah Johnson
+ORD10605,2023-05-26,CUST1099,Naveen Mehta,North,Haryana,Electronics,Speaker,2,13465.03,18851.04,6213.69,8079.02,Cash,Emily Davis
+ORD10033,2023-05-27,CUST1136,Rahul Rao,West,Gujarat,Toys,Action Figure,9,4314.79,34949.8,9732.65,3883.31,UPI,John Smith
+ORD10243,2023-05-27,CUST1290,Kiran Pillai,North,Delhi,Books,Children Book,2,463.26,926.52,165.76,0.0,UPI,Sarah Johnson
+ORD10167,2023-05-28,CUST1072,Naveen Singh,South,Kerala,Clothing,Sweater,3,2738.25,6982.54,2073.4,1232.21,Cash,David Wilson
+ORD10467,2023-05-29,CUST1164,Prakash Desai,South,Telangana,Home & Kitchen,Pressure Cooker,7,10198.13,67817.56,23399.92,3569.35,UPI,John Smith
+ORD10837,2023-06-01,CUST1287,Sanjay Desai,South,Telangana,Books,Fiction Novel,8,411.11,3288.88,521.6,0.0,Credit Card,Robert Garcia
+ORD10552,2023-06-02,CUST1129,Kiran Gupta,West,Goa,Sports,Dumbbells,8,527.44,4219.52,1257.91,0.0,Credit Card,Robert Garcia
+ORD10591,2023-06-03,CUST1009,Rekha Nair,South,Kerala,Sports,Dumbbells,10,2939.68,29396.8,4969.09,0.0,UPI,Robert Garcia
+ORD10936,2023-06-05,CUST1164,Rekha Joshi,West,Rajasthan,Toys,Building Blocks,8,445.81,2496.54,998.16,1069.94,Cash,Jennifer Martinez
+ORD10968,2023-06-05,CUST1174,Arun Desai,East,Bihar,Books,Fiction Novel,8,379.7,3037.6,603.1,0.0,Debit Card,Michael Brown
+ORD10794,2023-06-06,CUST1196,Ganesh Rao,West,Maharashtra,Clothing,Shoes,5,3777.07,16052.55,3379.09,2832.8,UPI,Jennifer Martinez
+ORD10859,2023-06-07,CUST1267,Pooja Gupta,East,West Bengal,Books,Cookbook,7,694.58,3889.65,1471.17,972.41,UPI,Michael Brown
+ORD10168,2023-06-08,CUST1267,Sneha Shah,East,Odisha,Home & Kitchen,Dinner Set,7,3140.27,21981.89,7307.07,0.0,Debit Card,Robert Garcia
+ORD10383,2023-06-08,CUST1248,Geeta Patel,West,Madhya Pradesh,Sports,Gym Bag,5,9991.61,49958.05,7571.6,0.0,Debit Card,Emily Davis
+ORD10259,2023-06-11,CUST1176,Rina Nair,South,Andhra Pradesh,Toys,Puzzle Game,10,4073.17,30548.78,11566.26,10182.92,UPI,John Smith
+ORD10651,2023-06-11,CUST1132,Amit Rao,East,West Bengal,Sports,Running Shoes,8,2634.83,15808.98,3219.84,5269.66,Credit Card,Emily Davis
+ORD10985,2023-06-12,CUST1278,Rajesh Shah,North,Uttar Pradesh,Home & Kitchen,Dinner Set,9,4467.65,36187.96,14299.74,4020.89,Cash,Michael Brown
+ORD10755,2023-06-14,CUST1008,Arun Iyer,West,Rajasthan,Books,Fiction Novel,7,1244.58,8712.06,2414.28,0.0,Cash,Emily Davis
+ORD10098,2023-06-15,CUST1072,Sunita Pillai,North,Haryana,Electronics,Tablet,1,11656.93,9325.54,2247.11,2331.39,Credit Card,John Smith
+ORD10295,2023-06-15,CUST1070,Pooja Mehta,South,Tamil Nadu,Books,Children Book,2,883.72,1767.44,509.77,0.0,Debit Card,Lisa Anderson
+ORD10512,2023-06-16,CUST1232,Priya Desai,North,Delhi,Books,Business Book,10,1397.38,9781.66,3481.61,4192.14,Debit Card,Emily Davis
+ORD10789,2023-06-17,CUST1213,Arun Shah,East,West Bengal,Home & Kitchen,Toaster,4,14201.08,56804.32,15946.74,0.0,Debit Card,Sarah Johnson
+ORD10647,2023-06-18,CUST1151,Naveen Singh,South,Telangana,Home & Kitchen,Toaster,10,9275.66,88118.77,27749.55,4637.83,Debit Card,John Smith
+ORD10918,2023-06-18,CUST1270,Sunita Bansal,South,Karnataka,Toys,Educational Toy,1,915.78,915.78,226.77,0.0,Cash,Robert Garcia
+ORD10144,2023-06-20,CUST1037,Arun Singh,South,Kerala,Toys,Action Figure,1,3832.67,3832.67,1294.95,0.0,Debit Card,Jennifer Martinez
+ORD10028,2023-06-21,CUST1229,Arun Menon,North,Haryana,Home & Kitchen,Air Fryer,4,13178.08,50076.7,13327.63,2635.62,UPI,David Wilson
+ORD10221,2023-06-21,CUST1265,Pooja Nair,West,Maharashtra,Books,Business Book,1,356.91,356.91,56.25,0.0,Credit Card,David Wilson
+ORD10520,2023-06-22,CUST1226,Swati Verma,East,Bihar,Clothing,T-Shirt,6,4264.48,19190.16,5497.34,6396.72,Debit Card,Jennifer Martinez
+ORD10708,2023-06-22,CUST1163,Arun Patel,East,Assam,Clothing,Sweater,4,1871.78,5240.98,955.51,2246.14,Debit Card,Sarah Johnson
+ORD10654,2023-06-25,CUST1112,Prakash Menon,East,Jharkhand,Sports,Tennis Racket,7,4179.08,20477.49,5014.06,8776.07,UPI,Michael Brown
+ORD10150,2023-06-28,CUST1089,Amit Reddy,East,West Bengal,Sports,Dumbbells,3,6927.56,20782.68,8030.51,0.0,Debit Card,David Wilson
+ORD10722,2023-06-28,CUST1110,Prakash Menon,West,Maharashtra,Home & Kitchen,Microwave,10,4057.63,40576.3,7206.2,0.0,Credit Card,Robert Garcia
+ORD10156,2023-06-30,CUST1119,Sneha Nair,West,Gujarat,Sports,Dumbbells,9,7827.65,70448.85,21652.57,0.0,Cash,Jennifer Martinez
+ORD10369,2023-07-01,CUST1143,Rekha Patel,West,Maharashtra,Books,Business Book,3,1250.53,3188.85,1086.5,562.74,Debit Card,Robert Garcia
+ORD10461,2023-07-02,CUST1204,Rahul Chopra,North,Punjab,Toys,Remote Control Car,3,1974.64,4146.74,1498.04,1777.18,Credit Card,John Smith
+ORD10370,2023-07-05,CUST1209,Pooja Iyer,West,Rajasthan,Sports,Dumbbells,2,5369.84,10739.68,3421.78,0.0,Cash,Robert Garcia
+ORD10062,2023-07-06,CUST1041,Ashok Verma,North,Haryana,Toys,Educational Toy,1,2923.86,2631.47,881.79,292.39,UPI,Emily Davis
+ORD10587,2023-07-07,CUST1180,Meera Agarwal,East,Assam,Home & Kitchen,Microwave,1,7756.73,7756.73,1174.36,0.0,Cash,Emily Davis
+ORD10628,2023-07-09,CUST1168,Divya Menon,East,Bihar,Clothing,Shirt,4,2195.77,7026.46,2358.37,1756.62,Credit Card,Michael Brown
+ORD10006,2023-07-11,CUST1190,Sneha Shah,South,Karnataka,Books,Biography,3,870.37,2611.11,943.41,0.0,UPI,Sarah Johnson
+ORD10603,2023-07-11,CUST1171,Rahul Desai,East,Bihar,Books,Travel Guide,10,519.94,5199.4,1658.07,0.0,UPI,Sarah Johnson
+ORD10725,2023-07-12,CUST1298,Divya Rao,West,Maharashtra,Clothing,Shoes,1,4171.75,3337.4,992.52,834.35,Credit Card,Robert Garcia
+ORD10913,2023-07-14,CUST1078,Kavita Desai,North,Uttar Pradesh,Sports,Tennis Racket,3,2407.91,7223.73,1853.02,0.0,Cash,Robert Garcia
+ORD10092,2023-07-15,CUST1227,Ganesh Sharma,West,Gujarat,Clothing,T-Shirt,10,2104.81,21048.1,4041.89,0.0,Debit Card,Sarah Johnson
+ORD10640,2023-07-15,CUST1044,Rajesh Reddy,East,Bihar,Electronics,Monitor,3,45723.98,130313.34,37820.83,6858.6,Credit Card,Emily Davis
+ORD10105,2023-07-17,CUST1166,Anjali Reddy,South,Telangana,Sports,Cricket Bat,6,2148.18,9666.81,2026.32,3222.27,UPI,Emily Davis
+ORD10403,2023-07-18,CUST1144,Swati Bansal,North,Uttar Pradesh,Home & Kitchen,Dinner Set,7,1900.53,13303.71,3654.02,0.0,Cash,Robert Garcia
+ORD10155,2023-07-20,CUST1187,Swati Iyer,South,Tamil Nadu,Home & Kitchen,Microwave,8,14862.9,95122.56,28486.21,23780.64,UPI,Lisa Anderson
+ORD10470,2023-07-20,CUST1136,Sanjay Joshi,South,Telangana,Books,Business Book,8,1359.09,10872.72,2544.59,0.0,Debit Card,Lisa Anderson
+ORD10909,2023-07-20,CUST1102,Kiran Chopra,West,Maharashtra,Electronics,Laptop,2,35219.57,70439.14,13466.93,0.0,Debit Card,Sarah Johnson
+ORD10374,2023-07-23,CUST1227,Anjali Bansal,South,Telangana,Home & Kitchen,Mixer Grinder,8,8734.15,69873.2,22748.46,0.0,Debit Card,Emily Davis
+ORD10131,2023-07-24,CUST1238,Sunita Iyer,South,Kerala,Sports,Cricket Bat,10,8705.38,87053.8,27810.85,0.0,Cash,Lisa Anderson
+ORD10327,2023-07-24,CUST1186,Ganesh Desai,North,Delhi,Sports,Cricket Bat,9,6567.34,41374.24,7004.53,17731.82,UPI,Emily Davis
+ORD10735,2023-07-28,CUST1002,Manoj Iyer,West,Rajasthan,Books,Children Book,1,1112.97,1112.97,441.51,0.0,UPI,Lisa Anderson
+ORD10035,2023-07-31,CUST1274,Meera Iyer,North,Haryana,Toys,Building Blocks,7,3415.68,19127.81,7621.5,4781.95,Cash,Robert Garcia
+ORD10677,2023-07-31,CUST1135,Rajesh Mehta,East,Odisha,Toys,Remote Control Car,5,3650.97,17342.11,3286.98,912.74,Cash,Jennifer Martinez
+ORD10858,2023-08-02,CUST1267,Vijay Reddy,East,West Bengal,Toys,Remote Control Car,5,1639.01,6146.29,2338.89,2048.76,UPI,Jennifer Martinez
+ORD10176,2023-08-03,CUST1148,Prakash Joshi,South,Karnataka,Home & Kitchen,Mixer Grinder,10,8653.07,86530.7,14442.29,0.0,Credit Card,David Wilson
+ORD10360,2023-08-03,CUST1044,Meera Pillai,West,Goa,Sports,Badminton Set,5,8830.82,44154.1,13505.81,0.0,UPI,Emily Davis
+ORD10745,2023-08-05,CUST1090,Pooja Menon,South,Tamil Nadu,Electronics,Camera,3,55854.91,167564.73,64021.19,0.0,Cash,Sarah Johnson
+ORD10897,2023-08-05,CUST1124,Swati Verma,West,Gujarat,Electronics,Tablet,8,67272.68,484363.3,186693.46,53818.14,Debit Card,Emily Davis
+ORD10133,2023-08-07,CUST1007,Amit Bansal,North,Haryana,Books,Business Book,5,1305.44,6200.84,985.05,326.36,UPI,Robert Garcia
+ORD10926,2023-08-09,CUST1269,Kavita Mishra,East,Assam,Sports,Dumbbells,1,3601.15,3421.09,1287.49,180.06,UPI,John Smith
+ORD10162,2023-08-10,CUST1077,Prakash Bansal,West,Maharashtra,Electronics,Smart Watch,5,78996.3,394981.5,114014.33,0.0,UPI,Lisa Anderson
+ORD10189,2023-08-10,CUST1144,Lakshmi Patel,East,West Bengal,Electronics,Smartphone,5,33784.02,168920.1,65033.37,0.0,Cash,David Wilson
+ORD10218,2023-08-12,CUST1301,Kavita Reddy,West,Rajasthan,Sports,Running Shoes,8,965.79,6181.06,1303.45,1545.26,Debit Card,Jennifer Martinez
+ORD10236,2023-08-12,CUST1214,Rahul Gupta,South,Kerala,Toys,Action Figure,1,2196.43,2196.43,537.97,0.0,UPI,Michael Brown
+ORD10920,2023-08-12,CUST1300,Vijay Shah,South,Andhra Pradesh,Home & Kitchen,Cookware Set,4,10226.81,32725.79,5920.86,8181.45,UPI,Emily Davis
+ORD10471,2023-08-14,CUST1231,Anjali Iyer,South,Andhra Pradesh,Home & Kitchen,Coffee Maker,5,9525.27,47626.35,16770.03,0.0,Credit Card,Michael Brown
+ORD10066,2023-08-15,CUST1067,Prakash Desai,North,Uttar Pradesh,Sports,Football,3,9742.76,29228.28,9096.45,0.0,Credit Card,Sarah Johnson
+ORD10368,2023-08-15,CUST1120,Priya Nair,West,Maharashtra,Books,Self-Help Book,3,903.5,2710.5,953.67,0.0,Debit Card,Michael Brown
+ORD10477,2023-08-15,CUST1199,Amit Gupta,South,Telangana,Sports,Yoga Mat,10,8393.08,83930.8,16421.89,0.0,Credit Card,Robert Garcia
+ORD10276,2023-08-18,CUST1170,Manoj Agarwal,East,Assam,Sports,Football,4,7459.68,29838.72,9638.26,0.0,UPI,Jennifer Martinez
+ORD10535,2023-08-19,CUST1091,Neha Nair,North,Delhi,Home & Kitchen,Mixer Grinder,5,9727.09,36476.59,8714.3,12158.86,UPI,Lisa Anderson
+ORD10040,2023-08-22,CUST1069,Geeta Chopra,West,Gujarat,Clothing,Shirt,5,3741.23,13094.3,3185.35,5611.85,Debit Card,Lisa Anderson
+ORD10091,2023-08-24,CUST1084,Pooja Mishra,West,Goa,Clothing,T-Shirt,1,543.65,489.28,190.48,54.37,Credit Card,Michael Brown
+ORD10691,2023-08-24,CUST1167,Manoj Verma,South,Andhra Pradesh,Electronics,Smartphone,3,72759.95,218279.85,33003.04,0.0,UPI,David Wilson
+ORD10947,2023-08-24,CUST1297,Sunita Gupta,East,Jharkhand,Books,Children Book,3,364.64,929.83,216.74,164.09,Credit Card,Jennifer Martinez
+ORD10350,2023-08-27,CUST1107,Deepika Verma,North,Punjab,Sports,Tennis Racket,3,9860.93,29582.79,5406.04,0.0,Debit Card,Robert Garcia
+ORD10428,2023-08-28,CUST1252,Prakash Menon,West,Maharashtra,Books,Biography,8,1026.94,7393.97,2047.84,821.55,Cash,Robert Garcia
+ORD10658,2023-08-28,CUST1152,Geeta Sharma,North,Punjab,Sports,Tennis Racket,5,9610.79,43248.55,11598.03,4805.4,Credit Card,Robert Garcia
+ORD10769,2023-08-28,CUST1054,Swati Mishra,South,Kerala,Electronics,Headphones,4,11900.0,35700.0,10535.01,11900.0,Cash,Jennifer Martinez
+ORD10241,2023-08-30,CUST1196,Kiran Reddy,East,Assam,Sports,Cricket Bat,3,6625.91,13914.41,4603.52,5963.32,Debit Card,Robert Garcia
+ORD10542,2023-08-30,CUST1033,Sanjay Desai,West,Gujarat,Sports,Dumbbells,7,4479.34,31355.38,9527.99,0.0,Cash,Robert Garcia
+ORD10873,2023-08-30,CUST1130,Rina Desai,South,Tamil Nadu,Clothing,Shoes,2,652.88,979.32,207.25,326.44,UPI,Lisa Anderson
+ORD10257,2023-09-01,CUST1199,Rina Patel,East,Bihar,Home & Kitchen,Air Fryer,6,3716.94,17841.31,5025.58,4460.33,Debit Card,Emily Davis
+ORD10128,2023-09-03,CUST1245,Ravi Chopra,South,Kerala,Clothing,Shoes,10,4390.48,41709.56,12764.36,2195.24,Debit Card,Lisa Anderson
+ORD10277,2023-09-03,CUST1069,Manoj Agarwal,North,Delhi,Sports,Badminton Set,3,5535.55,12454.99,1936.53,4151.66,UPI,Emily Davis
+ORD10232,2023-09-06,CUST1147,Meera Pillai,East,Assam,Home & Kitchen,Coffee Maker,8,1976.37,12648.77,3900.9,3162.19,Debit Card,Sarah Johnson
+ORD10675,2023-09-06,CUST1289,Mohan Mishra,North,Uttarakhand,Books,Cookbook,6,1458.1,8748.6,3029.65,0.0,UPI,Robert Garcia
+ORD10925,2023-09-06,CUST1261,Sneha Kumar,North,Uttarakhand,Electronics,Headphones,1,72027.21,72027.21,24490.2,0.0,Debit Card,Lisa Anderson
+ORD10197,2023-09-07,CUST1025,Amit Joshi,West,Madhya Pradesh,Home & Kitchen,Pressure Cooker,3,8572.61,25717.83,8410.37,0.0,UPI,Michael Brown
+ORD10408,2023-09-07,CUST1153,Rahul Menon,North,Haryana,Clothing,Jeans,1,1792.44,1433.95,460.74,358.49,Debit Card,Emily Davis
+ORD10689,2023-09-07,CUST1025,Anjali Kumar,East,Jharkhand,Clothing,Dress,3,3324.81,8478.27,3314.4,1496.16,Cash,John Smith
+ORD10537,2023-09-09,CUST1174,Naveen Patel,South,Telangana,Home & Kitchen,Mixer Grinder,3,8630.86,18124.81,3255.07,7767.77,Debit Card,Jennifer Martinez
+ORD10813,2023-09-10,CUST1070,Ravi Reddy,East,Jharkhand,Books,Self-Help Book,2,1199.15,1918.64,580.44,479.66,UPI,Sarah Johnson
+ORD10567,2023-09-11,CUST1033,Rekha Menon,North,Punjab,Electronics,Speaker,10,26533.93,199004.48,45783.7,66334.82,Cash,John Smith
+ORD10044,2023-09-12,CUST1286,Rina Joshi,South,Karnataka,Home & Kitchen,Dinner Set,1,9447.08,6612.96,1340.08,2834.12,Debit Card,Emily Davis
+ORD10251,2023-09-13,CUST1144,Deepika Desai,East,Jharkhand,Clothing,Trousers,3,4634.58,9732.62,2277.35,4171.12,UPI,John Smith
+ORD10857,2023-09-13,CUST1079,Meera Chopra,East,Odisha,Toys,Action Figure,6,2255.07,9471.29,3246.2,4059.13,UPI,Robert Garcia
+ORD10572,2023-09-16,CUST1140,Vijay Patel,East,Jharkhand,Books,Children Book,4,958.95,3835.8,1076.67,0.0,UPI,Jennifer Martinez
+ORD10807,2023-09-18,CUST1006,Rahul Singh,West,Madhya Pradesh,Toys,Puzzle Game,1,435.06,369.8,94.3,65.26,Cash,John Smith
+ORD10577,2023-09-20,CUST1163,Arun Pillai,East,Jharkhand,Toys,Board Game,7,3899.8,23203.81,8122.05,4094.79,UPI,Jennifer Martinez
+ORD10464,2023-09-21,CUST1165,Kiran Sharma,North,Punjab,Home & Kitchen,Pressure Cooker,7,1937.23,11526.52,3479.55,2034.09,UPI,David Wilson
+ORD10478,2023-09-21,CUST1106,Meera Patel,East,Assam,Home & Kitchen,Air Fryer,10,6018.68,60186.8,22097.46,0.0,Credit Card,John Smith
+ORD10506,2023-09-22,CUST1111,Neha Mishra,East,Jharkhand,Home & Kitchen,Microwave,10,10215.22,71506.54,20621.2,30645.66,UPI,Michael Brown
+ORD10061,2023-09-23,CUST1188,Rina Singh,South,Kerala,Sports,Running Shoes,2,1868.64,3176.69,1205.82,560.59,Credit Card,Michael Brown
+ORD10198,2023-09-24,CUST1085,Ashok Kumar,North,Haryana,Toys,Remote Control Car,3,2716.31,6926.59,1599.55,1222.34,Debit Card,Lisa Anderson
+ORD10286,2023-09-24,CUST1296,Rahul Nair,North,Uttarakhand,Books,Cookbook,6,359.78,1942.81,422.52,215.87,Debit Card,David Wilson
+ORD10382,2023-09-24,CUST1281,Amit Gupta,North,Uttar Pradesh,Clothing,Shoes,4,1500.62,5102.11,904.51,900.37,Credit Card,Emily Davis
+ORD10726,2023-09-25,CUST1144,Amit Shah,North,Haryana,Books,Self-Help Book,9,367.91,3311.19,904.18,0.0,UPI,Sarah Johnson
+ORD10902,2023-09-25,CUST1170,Geeta Pillai,East,Jharkhand,Clothing,Sweater,3,4295.39,9020.32,3081.5,3865.85,Credit Card,Jennifer Martinez
+ORD10158,2023-09-29,CUST1061,Lakshmi Reddy,West,Goa,Sports,Tennis Racket,7,8458.08,44404.92,15910.76,14801.64,Cash,John Smith
+ORD10211,2023-09-29,CUST1086,Amit Iyer,North,Punjab,Books,Business Book,6,468.75,2671.88,468.42,140.62,Cash,Lisa Anderson
+ORD10036,2023-09-30,CUST1088,Kavita Mehta,West,Madhya Pradesh,Home & Kitchen,Mixer Grinder,2,1230.35,2337.67,579.83,123.03,UPI,Jennifer Martinez
+ORD10052,2023-09-30,CUST1040,Ashok Bansal,East,Assam,Sports,Badminton Set,9,8105.49,72949.41,29035.86,0.0,Debit Card,Emily Davis
+ORD10642,2023-09-30,CUST1152,Naveen Gupta,South,Kerala,Electronics,Smart Watch,4,77123.43,215945.6,81719.94,92548.12,Cash,John Smith
+ORD10473,2023-10-01,CUST1138,Arun Reddy,East,Jharkhand,Toys,Building Blocks,6,4471.77,18781.43,6780.2,8049.19,Cash,John Smith
+ORD10067,2023-10-02,CUST1227,Sunita Chopra,North,Haryana,Sports,Dumbbells,5,4191.11,18860.0,6746.16,2095.55,Cash,David Wilson
+ORD10585,2023-10-02,CUST1252,Amit Verma,North,Haryana,Home & Kitchen,Toaster,1,6422.38,5780.14,1473.72,642.24,Debit Card,Lisa Anderson
+ORD10848,2023-10-02,CUST1034,Amit Iyer,East,Jharkhand,Toys,Board Game,9,328.63,2070.37,457.75,887.3,Cash,Robert Garcia
+ORD10355,2023-10-03,CUST1243,Rekha Singh,East,Bihar,Electronics,Monitor,9,15712.83,141415.47,44660.95,0.0,Cash,Lisa Anderson
+ORD10827,2023-10-03,CUST1042,Pooja Mishra,South,Karnataka,Electronics,Speaker,1,8489.19,8489.19,3200.39,0.0,UPI,John Smith
+ORD10060,2023-10-05,CUST1250,Prakash Sharma,East,Bihar,Home & Kitchen,Cookware Set,3,10671.08,24009.93,3645.9,8003.31,Credit Card,Jennifer Martinez
+ORD10459,2023-10-05,CUST1203,Anjali Gupta,North,Haryana,Home & Kitchen,Dinner Set,10,14498.09,115984.72,31674.21,28996.18,Cash,Robert Garcia
+ORD10847,2023-10-05,CUST1037,Priya Bansal,West,Goa,Sports,Badminton Set,10,4494.25,38201.12,13000.7,6741.38,Cash,John Smith
+ORD10266,2023-10-06,CUST1158,Kavita Kumar,South,Karnataka,Books,Biography,10,1313.85,13138.5,4087.48,0.0,UPI,David Wilson
+ORD10125,2023-10-07,CUST1073,Rajesh Patel,West,Madhya Pradesh,Clothing,T-Shirt,5,4431.66,15510.81,2948.88,6647.49,UPI,Jennifer Martinez
+ORD10584,2023-10-07,CUST1216,Mohan Menon,West,Maharashtra,Sports,Yoga Mat,9,7863.65,53079.64,20435.99,17693.21,Credit Card,Lisa Anderson
+ORD10815,2023-10-08,CUST1104,Rajesh Gupta,West,Rajasthan,Home & Kitchen,Toaster,6,13603.04,81618.24,29861.27,0.0,Credit Card,Michael Brown
+ORD10747,2023-10-09,CUST1174,Amit Chopra,South,Karnataka,Clothing,T-Shirt,6,3136.78,15997.58,6341.64,2823.1,Debit Card,Robert Garcia
+ORD10084,2023-10-10,CUST1269,Suresh Agarwal,North,Delhi,Sports,Cricket Bat,3,5765.39,17296.17,3269.92,0.0,Debit Card,Lisa Anderson
+ORD10782,2023-10-10,CUST1033,Deepika Sharma,South,Telangana,Home & Kitchen,Air Fryer,1,12421.28,12421.28,3858.83,0.0,Debit Card,Jennifer Martinez
+ORD10732,2023-10-14,CUST1245,Sunita Verma,West,Rajasthan,Sports,Badminton Set,8,3879.18,31033.44,7426.46,0.0,Debit Card,John Smith
+ORD10178,2023-10-16,CUST1283,Sunita Mehta,North,Uttar Pradesh,Clothing,Shirt,10,3445.9,25844.25,7226.33,8614.75,Credit Card,Emily Davis
+ORD10316,2023-10-17,CUST1008,Deepika Rao,South,Tamil Nadu,Clothing,Jeans,1,1900.78,1900.78,684.67,0.0,Credit Card,David Wilson
+ORD10518,2023-10-18,CUST1118,Meera Pillai,West,Goa,Toys,Doll House,4,1439.8,5183.28,1752.66,575.92,UPI,John Smith
+ORD10437,2023-10-20,CUST1292,Mohan Singh,North,Punjab,Books,Children Book,10,1122.93,9544.9,2180.28,1684.4,Debit Card,Emily Davis
+ORD10442,2023-10-20,CUST1006,Rahul Singh,South,Tamil Nadu,Toys,Building Blocks,10,1821.57,15483.34,4747.62,2732.36,Cash,Sarah Johnson
+ORD10750,2023-10-21,CUST1195,Prakash Bansal,West,Goa,Sports,Tennis Racket,7,1560.88,10926.16,3621.82,0.0,Credit Card,David Wilson
+ORD10185,2023-10-22,CUST1147,Neha Rao,North,Uttar Pradesh,Home & Kitchen,Cookware Set,6,13378.69,64217.71,21526.45,16054.43,Debit Card,David Wilson
+ORD10752,2023-10-23,CUST1088,Rekha Reddy,South,Telangana,Home & Kitchen,Air Fryer,10,14140.88,141408.8,22847.04,0.0,Credit Card,Robert Garcia
+ORD10504,2023-10-25,CUST1059,Sanjay Verma,West,Goa,Clothing,Trousers,9,3284.82,22172.53,8118.75,7390.85,Credit Card,Michael Brown
+ORD10436,2023-10-26,CUST1207,Rahul Rao,West,Maharashtra,Sports,Dumbbells,3,3661.6,7689.36,1369.51,3295.44,UPI,Emily Davis
+ORD10173,2023-10-28,CUST1262,Rekha Mishra,South,Telangana,Books,Fiction Novel,6,902.08,5412.48,856.39,0.0,Cash,Emily Davis
+ORD10420,2023-10-28,CUST1149,Meera Desai,South,Tamil Nadu,Toys,Teddy Bear,3,4644.7,12540.69,2731.83,1393.41,Credit Card,Michael Brown
+ORD10553,2023-10-28,CUST1105,Kavita Singh,East,Bihar,Sports,Badminton Set,1,7273.14,5454.85,1590.78,1818.29,UPI,Jennifer Martinez
+ORD10294,2023-10-30,CUST1162,Amit Reddy,West,Goa,Sports,Gym Bag,4,7820.14,31280.56,9338.51,0.0,UPI,Lisa Anderson
+ORD10086,2023-11-01,CUST1131,Swati Agarwal,East,Bihar,Clothing,Dress,7,1363.78,7159.85,2104.61,2386.61,Credit Card,Emily Davis
+ORD10248,2023-11-01,CUST1138,Deepika Gupta,East,Odisha,Home & Kitchen,Air Fryer,9,13287.43,101648.84,24965.31,17938.03,Credit Card,David Wilson
+ORD10739,2023-11-01,CUST1256,Sunita Menon,North,Haryana,Home & Kitchen,Mixer Grinder,1,10152.54,8629.66,2869.76,1522.88,Debit Card,David Wilson
+ORD10202,2023-11-04,CUST1163,Divya Joshi,East,Assam,Home & Kitchen,Microwave,3,8264.41,21074.25,5982.39,3718.98,Credit Card,David Wilson
+ORD10415,2023-11-05,CUST1240,Naveen Singh,West,Madhya Pradesh,Electronics,Tablet,5,24151.83,108683.23,20845.73,12075.92,Debit Card,Lisa Anderson
+ORD10487,2023-11-07,CUST1037,Geeta Sharma,North,Uttar Pradesh,Home & Kitchen,Toaster,4,11353.83,45415.32,14863.86,0.0,Debit Card,Emily Davis
+ORD10570,2023-11-07,CUST1130,Rajesh Nair,South,Kerala,Sports,Yoga Mat,1,2713.96,2442.56,837.63,271.4,Credit Card,Michael Brown
+ORD10324,2023-11-09,CUST1205,Priya Shah,West,Goa,Home & Kitchen,Dinner Set,5,12480.65,56162.93,17314.42,6240.32,Cash,Michael Brown
+ORD10657,2023-11-10,CUST1152,Rajesh Bansal,South,Andhra Pradesh,Sports,Badminton Set,8,3116.66,22439.95,3476.31,2493.33,Debit Card,Emily Davis
+ORD10196,2023-11-11,CUST1129,Ravi Agarwal,East,West Bengal,Sports,Running Shoes,10,6845.52,68455.2,21840.07,0.0,Cash,David Wilson
+ORD10933,2023-11-12,CUST1072,Naveen Agarwal,South,Telangana,Home & Kitchen,Mixer Grinder,6,10517.93,63107.58,24613.69,0.0,Debit Card,Robert Garcia
+ORD10394,2023-11-13,CUST1187,Kavita Iyer,East,Odisha,Toys,Educational Toy,2,1007.82,1814.08,597.19,201.56,Credit Card,David Wilson
+ORD10320,2023-11-14,CUST1279,Ravi Reddy,North,Delhi,Toys,Action Figure,8,1038.38,8307.04,1287.3,0.0,UPI,John Smith
+ORD10601,2023-11-14,CUST1233,Manoj Mishra,West,Rajasthan,Home & Kitchen,Coffee Maker,10,14132.08,141320.8,35095.96,0.0,Debit Card,David Wilson
+ORD10018,2023-11-15,CUST1079,Pooja Nair,East,Assam,Clothing,Dress,8,2777.53,19998.22,5678.9,2222.02,UPI,Jennifer Martinez
+ORD10831,2023-11-15,CUST1175,Priya Agarwal,North,Uttar Pradesh,Home & Kitchen,Coffee Maker,2,1202.37,2164.27,786.8,240.47,Debit Card,Lisa Anderson
+ORD10443,2023-11-16,CUST1097,Geeta Mehta,South,Andhra Pradesh,Sports,Tennis Racket,5,3110.8,15554.0,3363.64,0.0,Cash,Emily Davis
+ORD10563,2023-11-16,CUST1039,Deepika Agarwal,East,Assam,Clothing,Jeans,7,975.63,6487.94,1582.51,341.47,Credit Card,Robert Garcia
+ORD10608,2023-11-20,CUST1234,Prakash Rao,South,Tamil Nadu,Books,Children Book,4,996.22,3984.88,1351.79,0.0,Credit Card,Emily Davis
+ORD10855,2023-11-20,CUST1091,Anjali Kumar,South,Telangana,Toys,Puzzle Game,7,1549.93,9764.56,3631.32,1084.95,Cash,Jennifer Martinez
+ORD10366,2023-11-21,CUST1206,Kavita Iyer,North,Uttar Pradesh,Toys,Doll House,1,3483.56,3309.38,943.52,174.18,Credit Card,Emily Davis
+ORD10923,2023-11-23,CUST1061,Ravi Chopra,South,Kerala,Books,Self-Help Book,6,235.15,1199.27,186.06,211.63,Debit Card,John Smith
+ORD10898,2023-11-24,CUST1153,Suresh Pillai,South,Karnataka,Sports,Running Shoes,8,1939.1,15512.8,5000.19,0.0,Credit Card,Jennifer Martinez
+ORD10213,2023-11-25,CUST1005,Geeta Joshi,East,Assam,Toys,Action Figure,4,1674.12,6696.48,1866.71,0.0,Credit Card,Jennifer Martinez
+ORD10308,2023-11-26,CUST1204,Mohan Reddy,East,Jharkhand,Clothing,Jeans,2,2917.68,5251.82,1164.93,583.54,Credit Card,Michael Brown
+ORD10416,2023-11-27,CUST1184,Anjali Gupta,East,Jharkhand,Clothing,Dress,5,1324.97,6293.61,1793.68,331.24,Cash,Jennifer Martinez
+ORD10179,2023-11-28,CUST1290,Deepika Nair,East,Odisha,Clothing,T-Shirt,3,4458.58,12038.17,2210.91,1337.57,Cash,Robert Garcia
+ORD10604,2023-11-28,CUST1212,Lakshmi Mishra,South,Telangana,Books,Fiction Novel,7,800.74,5324.92,1461.15,280.26,Cash,Jennifer Martinez
+ORD10665,2023-11-29,CUST1042,Pooja Pillai,East,Assam,Clothing,Shirt,3,1600.67,3841.61,879.49,960.4,UPI,Lisa Anderson
+ORD10212,2023-12-03,CUST1038,Geeta Patel,East,Bihar,Sports,Yoga Mat,3,4918.81,13280.79,3652.24,1475.64,Cash,Jennifer Martinez
+ORD10455,2023-12-04,CUST1122,Sneha Joshi,South,Tamil Nadu,Electronics,Camera,9,52729.27,379650.74,114140.6,94912.69,UPI,Jennifer Martinez
+ORD10866,2023-12-05,CUST1032,Naveen Gupta,North,Haryana,Toys,Remote Control Car,10,3283.85,29554.65,6237.89,3283.85,Debit Card,Sarah Johnson
+ORD10853,2023-12-06,CUST1277,Ganesh Iyer,South,Tamil Nadu,Clothing,Shoes,10,3829.07,36376.16,8081.94,1914.54,Cash,Emily Davis
+ORD10317,2023-12-07,CUST1290,Vijay Sharma,South,Andhra Pradesh,Books,Business Book,3,879.97,2639.91,585.86,0.0,Debit Card,John Smith
+ORD10702,2023-12-07,CUST1096,Ashok Shah,South,Kerala,Clothing,Shoes,3,3653.13,10411.42,3183.87,547.97,UPI,Jennifer Martinez
+ORD10598,2023-12-08,CUST1079,Pooja Agarwal,South,Telangana,Books,Educational Book,3,1108.14,3324.42,1093.66,0.0,Debit Card,Robert Garcia
+ORD10705,2023-12-08,CUST1182,Kiran Gupta,West,Goa,Toys,Teddy Bear,7,2028.25,12068.09,4022.8,2129.66,UPI,Lisa Anderson
+ORD10049,2023-12-09,CUST1133,Divya Patel,North,Punjab,Home & Kitchen,Air Fryer,4,4831.52,19326.08,5814.72,0.0,Debit Card,Jennifer Martinez
+ORD10329,2023-12-11,CUST1127,Swati Pillai,West,Rajasthan,Books,Biography,3,1111.54,3001.16,838.41,333.46,UPI,Sarah Johnson
+ORD10279,2023-12-13,CUST1141,Manoj Nair,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,6494.45,16560.85,2925.0,2922.5,Credit Card,Jennifer Martinez
+ORD10378,2023-12-13,CUST1025,Mohan Nair,South,Telangana,Toys,Remote Control Car,9,1928.78,17359.02,3989.29,0.0,Debit Card,Lisa Anderson
+ORD10891,2023-12-14,CUST1037,Sanjay Rao,North,Haryana,Electronics,Tablet,7,56938.26,318854.26,70485.11,79713.56,UPI,David Wilson
+ORD10935,2023-12-16,CUST1053,Amit Mehta,West,Gujarat,Electronics,Tablet,7,49373.93,276494.01,51316.56,69123.5,Credit Card,John Smith
+ORD10711,2023-12-17,CUST1301,Anjali Agarwal,South,Karnataka,Home & Kitchen,Microwave,8,13527.83,108222.64,34670.51,0.0,Credit Card,Robert Garcia
+ORD10209,2023-12-18,CUST1263,Swati Bansal,West,Rajasthan,Toys,Board Game,4,2067.73,5789.64,2281.39,2481.28,Cash,Sarah Johnson
+ORD10565,2023-12-20,CUST1156,Naveen Gupta,North,Punjab,Sports,Dumbbells,10,9205.69,92056.9,29450.04,0.0,UPI,Sarah Johnson
+ORD10614,2023-12-21,CUST1036,Ravi Agarwal,North,Uttar Pradesh,Home & Kitchen,Mixer Grinder,2,7068.17,13429.52,4325.7,706.82,Credit Card,Michael Brown
+ORD10685,2023-12-21,CUST1289,Pooja Agarwal,East,Bihar,Books,Educational Book,4,1392.49,3898.97,608.48,1670.99,Debit Card,Emily Davis
+ORD10433,2023-12-23,CUST1044,Meera Nair,North,Haryana,Sports,Dumbbells,3,8048.7,21731.49,7128.09,2414.61,Cash,David Wilson
+ORD10779,2023-12-24,CUST1133,Mohan Rao,West,Rajasthan,Sports,Football,10,9878.73,88908.57,27643.29,9878.73,Cash,David Wilson
+ORD10032,2023-12-25,CUST1060,Ashok Patel,South,Andhra Pradesh,Sports,Yoga Mat,5,6685.73,25071.49,6244.53,8357.16,Cash,Michael Brown
+ORD11000,2023-12-25,CUST1174,Ashok Pillai,West,Maharashtra,Toys,Board Game,5,1480.56,5552.1,2048.64,1850.7,Debit Card,Robert Garcia
+ORD10700,2023-12-27,CUST1171,Priya Mehta,East,Jharkhand,Books,Business Book,5,865.37,4326.85,1297.42,0.0,UPI,Sarah Johnson
+ORD10354,2023-12-31,CUST1217,Prakash Mehta,East,Jharkhand,Electronics,Tablet,10,44164.67,419564.37,72111.54,22082.33,Debit Card,Sarah Johnson
+ORD10260,2024-01-01,CUST1072,Ravi Gupta,South,Tamil Nadu,Toys,Puzzle Game,1,3643.76,3097.2,946.85,546.56,Cash,Sarah Johnson
+ORD10816,2024-01-01,CUST1144,Neha Menon,East,Odisha,Books,Biography,8,1484.7,11877.6,3164.14,0.0,Debit Card,Michael Brown
+ORD10862,2024-01-02,CUST1296,Kiran Chopra,East,Bihar,Books,Biography,7,843.38,5903.66,1400.8,0.0,UPI,David Wilson
+ORD10516,2024-01-04,CUST1214,Neha Iyer,North,Uttar Pradesh,Clothing,Dress,1,631.54,631.54,118.14,0.0,UPI,Sarah Johnson
+ORD10607,2024-01-08,CUST1299,Lakshmi Desai,North,Uttarakhand,Home & Kitchen,Cookware Set,7,1542.66,10798.62,1706.03,0.0,Debit Card,Sarah Johnson
+ORD10991,2024-01-11,CUST1174,Meera Patel,West,Madhya Pradesh,Electronics,Smart Watch,10,7441.62,70695.39,27505.32,3720.81,Cash,Jennifer Martinez
+ORD10659,2024-01-12,CUST1248,Kavita Desai,West,Rajasthan,Toys,Puzzle Game,7,633.82,4436.74,1748.18,0.0,Credit Card,Emily Davis
+ORD10249,2024-01-21,CUST1255,Priya Pillai,East,Assam,Electronics,Smart Watch,7,75316.0,421769.6,135379.19,105442.4,Debit Card,Jennifer Martinez
+ORD10265,2024-01-25,CUST1235,Kavita Gupta,East,West Bengal,Electronics,Headphones,7,69208.82,460238.65,145999.51,24223.09,Debit Card,Sarah Johnson
+ORD10438,2024-01-26,CUST1039,Priya Reddy,South,Andhra Pradesh,Home & Kitchen,Pressure Cooker,1,4802.64,3361.85,1294.99,1440.79,Cash,Robert Garcia
+ORD10495,2024-01-26,CUST1197,Anjali Gupta,North,Haryana,Clothing,T-Shirt,7,593.78,3948.64,1059.62,207.82,Credit Card,Jennifer Martinez
+ORD10634,2024-01-26,CUST1262,Anjali Rao,West,Maharashtra,Books,Fiction Novel,2,689.2,1102.72,431.12,275.68,Debit Card,David Wilson
+ORD10698,2024-01-27,CUST1084,Deepika Mehta,South,Telangana,Books,Travel Guide,6,882.61,5295.66,1427.31,0.0,Cash,Lisa Anderson
+ORD10885,2024-01-27,CUST1138,Rahul Kumar,West,Rajasthan,Home & Kitchen,Pressure Cooker,2,5403.93,8646.29,3134.74,2161.57,UPI,John Smith
+ORD10876,2024-01-28,CUST1082,Kiran Patel,West,Rajasthan,Clothing,Dress,1,1168.77,935.02,310.14,233.75,Cash,Emily Davis
+ORD10688,2024-01-29,CUST1169,Vijay Sharma,East,Odisha,Clothing,Shoes,8,1421.52,9666.34,3593.58,1705.82,Debit Card,John Smith
+ORD10720,2024-01-30,CUST1079,Rina Reddy,East,Odisha,Home & Kitchen,Coffee Maker,6,1721.62,7747.29,2585.68,2582.43,Cash,Jennifer Martinez
+ORD10852,2024-01-30,CUST1001,Neha Rao,North,Punjab,Books,Biography,8,1426.57,7988.79,2287.52,3423.77,Debit Card,Sarah Johnson
+ORD10012,2024-02-02,CUST1177,Kavita Gupta,West,Goa,Books,Fiction Novel,7,1081.32,7190.78,2190.89,378.46,Debit Card,Emily Davis
+ORD10208,2024-02-02,CUST1083,Ganesh Pillai,North,Punjab,Home & Kitchen,Coffee Maker,10,5066.57,40532.56,6622.23,10133.14,UPI,David Wilson
+ORD10596,2024-02-03,CUST1299,Anjali Verma,North,Uttar Pradesh,Electronics,Speaker,7,36399.07,216574.47,74876.54,38219.02,UPI,Robert Garcia
+ORD10107,2024-02-05,CUST1169,Naveen Chopra,North,Delhi,Electronics,Smartphone,5,30831.88,131035.49,28668.56,23123.91,Credit Card,John Smith
+ORD10734,2024-02-05,CUST1021,Ravi Reddy,North,Uttarakhand,Toys,Teddy Bear,3,3916.48,11749.44,3839.56,0.0,UPI,John Smith
+ORD10054,2024-02-06,CUST1163,Rahul Menon,West,Maharashtra,Toys,Action Figure,8,2773.85,18862.18,5073.12,3328.62,Credit Card,Jennifer Martinez
+ORD10278,2024-02-07,CUST1276,Neha Bansal,West,Goa,Toys,Educational Toy,9,1196.42,10767.78,3209.63,0.0,Debit Card,John Smith
+ORD10240,2024-02-08,CUST1152,Suresh Bansal,East,Bihar,Books,Biography,8,1216.64,7786.5,2568.32,1946.62,Credit Card,Lisa Anderson
+ORD10440,2024-02-08,CUST1177,Neha Mishra,East,Bihar,Books,Self-Help Book,3,341.88,769.23,132.09,256.41,Cash,Jennifer Martinez
+ORD10686,2024-02-09,CUST1030,Meera Agarwal,East,Jharkhand,Toys,Teddy Bear,2,1167.58,2335.16,387.16,0.0,Cash,Jennifer Martinez
+ORD10861,2024-02-09,CUST1108,Sneha Verma,East,Jharkhand,Clothing,Jeans,7,3710.92,25976.44,7469.94,0.0,Credit Card,David Wilson
+ORD10106,2024-02-10,CUST1179,Sanjay Reddy,South,Tamil Nadu,Toys,Teddy Bear,7,885.45,5578.33,1055.53,619.82,Debit Card,Michael Brown
+ORD10399,2024-02-10,CUST1265,Deepika Chopra,North,Uttarakhand,Electronics,Monitor,7,23109.02,161763.14,25150.73,0.0,Debit Card,Michael Brown
+ORD10499,2024-02-10,CUST1063,Naveen Chopra,East,West Bengal,Toys,Puzzle Game,3,3354.29,9559.73,1611.41,503.14,UPI,Emily Davis
+ORD10348,2024-02-13,CUST1165,Meera Singh,West,Gujarat,Electronics,Tablet,9,13020.85,93750.12,32813.82,23437.53,UPI,Robert Garcia
+ORD10889,2024-02-13,CUST1080,Lakshmi Agarwal,East,Assam,Sports,Cricket Bat,8,9276.26,74210.08,24030.23,0.0,Credit Card,Sarah Johnson
+ORD10281,2024-02-14,CUST1211,Rahul Singh,South,Tamil Nadu,Sports,Running Shoes,3,4984.71,11215.6,4081.77,3738.53,UPI,Emily Davis
+ORD10981,2024-02-14,CUST1272,Suresh Kumar,South,Andhra Pradesh,Home & Kitchen,Air Fryer,2,2234.3,3128.02,614.81,1340.58,UPI,Robert Garcia
+ORD10097,2024-02-16,CUST1138,Prakash Agarwal,South,Telangana,Toys,Building Blocks,9,3727.46,33547.14,12408.95,0.0,Debit Card,Jennifer Martinez
+ORD10333,2024-02-16,CUST1063,Kavita Bansal,South,Andhra Pradesh,Sports,Badminton Set,4,783.21,3132.84,1116.78,0.0,Debit Card,John Smith
+ORD10122,2024-02-22,CUST1005,Rekha Verma,North,Delhi,Sports,Running Shoes,10,4816.79,40942.71,9417.03,7225.19,Cash,John Smith
+ORD10945,2024-02-22,CUST1007,Priya Rao,East,West Bengal,Clothing,Jeans,8,1955.1,10948.56,4269.24,4692.24,UPI,David Wilson
+ORD10990,2024-02-22,CUST1069,Manoj Bansal,West,Rajasthan,Sports,Yoga Mat,2,4222.07,6755.31,1131.55,1688.83,UPI,Jennifer Martinez
+ORD10181,2024-02-26,CUST1094,Rekha Chopra,North,Delhi,Books,Cookbook,3,861.65,1809.46,521.39,775.49,Credit Card,Jennifer Martinez
+ORD10353,2024-02-26,CUST1297,Ravi Desai,South,Kerala,Toys,Action Figure,9,2764.91,19907.35,3284.8,4976.84,UPI,John Smith
+ORD10838,2024-02-26,CUST1237,Kavita Kumar,South,Tamil Nadu,Clothing,Dress,9,4582.35,39179.09,8140.63,2062.06,UPI,David Wilson
+ORD10318,2024-03-04,CUST1149,Sneha Mehta,South,Andhra Pradesh,Sports,Gym Bag,7,3527.59,24693.13,5938.86,0.0,Credit Card,Sarah Johnson
+ORD10352,2024-03-04,CUST1257,Swati Patel,East,Bihar,Clothing,Shoes,9,1278.43,8054.11,2700.95,3451.76,Credit Card,Sarah Johnson
+ORD10729,2024-03-04,CUST1142,Deepika Rao,West,Maharashtra,Toys,Remote Control Car,2,1405.4,2810.8,531.97,0.0,UPI,Emily Davis
+ORD10558,2024-03-06,CUST1242,Rekha Gupta,South,Andhra Pradesh,Toys,Building Blocks,10,3998.45,37985.28,8225.84,1999.22,Debit Card,Robert Garcia
+ORD10995,2024-03-06,CUST1213,Suresh Iyer,South,Karnataka,Electronics,Camera,6,15708.12,75398.98,20328.51,18849.74,Cash,David Wilson
+ORD10046,2024-03-07,CUST1001,Naveen Menon,North,Uttarakhand,Toys,Building Blocks,7,4386.49,24564.34,7980.62,6141.09,Debit Card,John Smith
+ORD10496,2024-03-07,CUST1286,Naveen Desai,North,Uttar Pradesh,Books,Business Book,3,902.96,2437.99,560.29,270.89,Credit Card,Jennifer Martinez
+ORD10860,2024-03-07,CUST1210,Naveen Mehta,South,Karnataka,Electronics,Headphones,2,21467.32,34347.71,9462.09,8586.93,UPI,John Smith
+ORD10791,2024-03-08,CUST1283,Rajesh Reddy,South,Kerala,Home & Kitchen,Air Fryer,8,9730.86,54492.82,14250.01,23354.06,Cash,Lisa Anderson
+ORD10635,2024-03-09,CUST1129,Vijay Desai,South,Kerala,Toys,Building Blocks,6,2329.41,12578.81,4870.61,1397.65,Cash,John Smith
+ORD10625,2024-03-11,CUST1123,Prakash Patel,South,Telangana,Home & Kitchen,Dinner Set,7,3801.57,21288.79,8190.53,5322.2,UPI,Emily Davis
+ORD10332,2024-03-14,CUST1062,Rekha Menon,West,Rajasthan,Clothing,Shirt,10,3649.75,36497.5,12431.96,0.0,Cash,Sarah Johnson
+ORD10932,2024-03-14,CUST1021,Rekha Pillai,South,Kerala,Books,Biography,4,582.26,2329.04,460.55,0.0,Cash,Sarah Johnson
+ORD10979,2024-03-15,CUST1081,Manoj Nair,South,Andhra Pradesh,Sports,Cricket Bat,5,2343.92,11133.62,2971.32,585.98,UPI,Michael Brown
+ORD10681,2024-03-16,CUST1189,Sanjay Menon,South,Karnataka,Toys,Remote Control Car,5,3502.77,17513.85,2970.92,0.0,Cash,Jennifer Martinez
+ORD10027,2024-03-17,CUST1033,Neha Verma,South,Karnataka,Sports,Cricket Bat,4,8444.16,28710.14,7618.07,5066.5,Cash,Lisa Anderson
+ORD10540,2024-03-17,CUST1176,Rajesh Kumar,North,Haryana,Sports,Gym Bag,10,2275.43,17065.73,4810.19,5688.57,Credit Card,Sarah Johnson
+ORD10136,2024-03-20,CUST1041,Ravi Chopra,West,Gujarat,Home & Kitchen,Pressure Cooker,3,12322.91,27726.55,4428.08,9242.18,Cash,Lisa Anderson
+ORD10183,2024-03-20,CUST1070,Arun Joshi,West,Rajasthan,Electronics,Headphones,4,58675.97,187763.1,41553.13,46940.78,Credit Card,Jennifer Martinez
+ORD10469,2024-03-20,CUST1034,Lakshmi Patel,South,Tamil Nadu,Sports,Yoga Mat,8,7112.83,45522.11,12970.51,11380.53,UPI,Lisa Anderson
+ORD10963,2024-03-26,CUST1286,Vijay Pillai,West,Maharashtra,Clothing,Trousers,4,4768.77,17167.57,4966.09,1907.51,UPI,Emily Davis
+ORD10037,2024-03-28,CUST1201,Ravi Kumar,East,West Bengal,Books,Self-Help Book,7,1240.6,8684.2,3001.18,0.0,UPI,John Smith
+ORD10058,2024-03-28,CUST1104,Divya Singh,South,Andhra Pradesh,Sports,Yoga Mat,5,2246.32,7862.12,2006.68,3369.48,Credit Card,Michael Brown
+ORD10965,2024-03-28,CUST1030,Suresh Singh,South,Telangana,Clothing,T-Shirt,10,4700.5,44654.75,15050.4,2350.25,Debit Card,Emily Davis
+ORD10200,2024-03-29,CUST1090,Amit Agarwal,West,Goa,Electronics,Speaker,5,23610.86,112151.58,27428.99,5902.72,Debit Card,Jennifer Martinez
+ORD10267,2024-03-31,CUST1013,Divya Nair,East,Assam,Books,Educational Book,1,988.12,691.68,254.87,296.44,Credit Card,Lisa Anderson
+ORD10771,2024-03-31,CUST1280,Swati Patel,West,Goa,Sports,Cricket Bat,1,2809.22,1966.45,353.82,842.77,UPI,Emily Davis
+ORD10048,2024-04-03,CUST1250,Meera Shah,West,Gujarat,Books,Cookbook,4,292.36,1169.44,390.51,0.0,UPI,David Wilson
+ORD10127,2024-04-04,CUST1104,Sunita Gupta,North,Uttarakhand,Clothing,Jacket,3,869.45,2086.68,397.94,521.67,Debit Card,Jennifer Martinez
+ORD10454,2024-04-04,CUST1294,Divya Pillai,South,Andhra Pradesh,Home & Kitchen,Dinner Set,10,11917.0,95336.0,14768.14,23834.0,UPI,Sarah Johnson
+ORD10078,2024-04-07,CUST1002,Anjali Verma,East,Assam,Electronics,Laptop,8,75150.78,541085.62,179307.18,60120.62,Debit Card,John Smith
+ORD10174,2024-04-07,CUST1061,Rina Verma,North,Delhi,Home & Kitchen,Dinner Set,4,12720.54,48338.05,12491.1,2544.11,Cash,Robert Garcia
+ORD10501,2024-04-07,CUST1166,Vijay Singh,North,Uttar Pradesh,Home & Kitchen,Cookware Set,3,13829.02,41487.06,16516.03,0.0,Debit Card,John Smith
+ORD10269,2024-04-09,CUST1095,Vijay Mishra,East,Assam,Electronics,Monitor,4,24199.8,82279.32,17483.11,14519.88,Cash,Michael Brown
+ORD10672,2024-04-09,CUST1270,Deepika Singh,South,Telangana,Electronics,Headphones,3,9569.13,28707.39,5412.76,0.0,UPI,Michael Brown
+ORD10803,2024-04-09,CUST1051,Sunita Verma,East,Bihar,Toys,Board Game,4,4386.91,17547.64,6043.38,0.0,Debit Card,Emily Davis
+ORD10007,2024-04-10,CUST1051,Mohan Iyer,South,Kerala,Toys,Building Blocks,7,3747.6,20986.56,8077.17,5246.64,Credit Card,David Wilson
+ORD10533,2024-04-11,CUST1273,Ravi Rao,South,Telangana,Home & Kitchen,Microwave,9,1864.38,11745.59,3924.12,5033.83,Cash,David Wilson
+ORD10346,2024-04-12,CUST1294,Divya Bansal,North,Uttarakhand,Books,Self-Help Book,1,255.38,242.61,76.32,12.77,UPI,Lisa Anderson
+ORD10841,2024-04-16,CUST1239,Rekha Mishra,East,Odisha,Clothing,Dress,8,1294.87,8287.17,2552.74,2071.79,UPI,Emily Davis
+ORD10367,2024-04-19,CUST1102,Rina Verma,East,Bihar,Electronics,Smartphone,3,8367.61,25102.83,3870.33,0.0,Debit Card,Jennifer Martinez
+ORD10539,2024-04-19,CUST1128,Sunita Singh,South,Kerala,Home & Kitchen,Cookware Set,4,8259.22,33036.88,9913.92,0.0,UPI,Jennifer Martinez
+ORD10586,2024-04-19,CUST1106,Anjali Singh,West,Gujarat,Sports,Badminton Set,2,7485.28,11976.45,2213.43,2994.11,Debit Card,John Smith
+ORD10102,2024-04-22,CUST1253,Naveen Menon,South,Andhra Pradesh,Electronics,Headphones,9,45120.89,284261.61,103547.15,121826.4,Credit Card,David Wilson
+ORD10646,2024-04-23,CUST1075,Lakshmi Verma,West,Maharashtra,Sports,Football,6,6135.48,36812.88,9570.56,0.0,Credit Card,Robert Garcia
+ORD10546,2024-04-25,CUST1012,Kavita Iyer,North,Haryana,Sports,Tennis Racket,4,3718.0,11897.6,4133.25,2974.4,Debit Card,Sarah Johnson
+ORD10907,2024-04-26,CUST1061,Neha Rao,East,West Bengal,Toys,Teddy Bear,6,3553.64,21321.84,7784.55,0.0,Credit Card,David Wilson
+ORD10730,2024-04-27,CUST1044,Sneha Iyer,West,Goa,Toys,Action Figure,1,3603.57,3603.57,677.12,0.0,Cash,Robert Garcia
+ORD10069,2024-04-28,CUST1064,Ashok Reddy,South,Tamil Nadu,Electronics,Laptop,10,22590.85,180726.8,57327.79,45181.7,Credit Card,Emily Davis
+ORD10534,2024-04-28,CUST1193,Pooja Pillai,East,Odisha,Clothing,Sweater,6,2086.48,9389.16,2824.71,3129.72,UPI,Emily Davis
+ORD10452,2024-04-30,CUST1254,Prakash Reddy,North,Uttarakhand,Clothing,Jeans,8,1536.92,12295.36,3716.03,0.0,Credit Card,Michael Brown
+ORD10742,2024-04-30,CUST1028,Deepika Mehta,West,Madhya Pradesh,Home & Kitchen,Microwave,6,5931.41,24911.92,4728.5,10676.54,Cash,David Wilson
+ORD10800,2024-05-06,CUST1083,Geeta Mishra,North,Uttarakhand,Electronics,Speaker,8,46333.41,370667.28,140492.27,0.0,Debit Card,Michael Brown
+ORD10120,2024-05-08,CUST1221,Pooja Patel,East,Jharkhand,Home & Kitchen,Air Fryer,5,2919.9,14599.5,3434.5,0.0,Cash,Emily Davis
+ORD10271,2024-05-08,CUST1185,Pooja Reddy,East,Odisha,Home & Kitchen,Coffee Maker,1,7641.3,7641.3,1468.78,0.0,Cash,Robert Garcia
+ORD10247,2024-05-09,CUST1074,Deepika Mehta,South,Tamil Nadu,Electronics,Speaker,1,31943.44,25554.75,7989.69,6388.69,Credit Card,Michael Brown
+ORD10780,2024-05-09,CUST1238,Rajesh Chopra,East,Odisha,Books,Business Book,9,281.05,2023.56,782.65,505.89,Credit Card,David Wilson
+ORD10886,2024-05-09,CUST1286,Manoj Iyer,East,Assam,Toys,Action Figure,10,4711.59,47115.9,8392.13,0.0,Credit Card,David Wilson
+ORD10989,2024-05-10,CUST1241,Swati Kumar,East,West Bengal,Electronics,Headphones,3,52154.8,140817.96,43047.79,15646.44,Credit Card,Robert Garcia
+ORD10419,2024-05-11,CUST1228,Lakshmi Bansal,North,Delhi,Toys,Action Figure,4,2481.87,7941.98,2323.2,1985.5,Credit Card,Sarah Johnson
+ORD10679,2024-05-11,CUST1240,Naveen Iyer,South,Karnataka,Home & Kitchen,Toaster,4,7221.41,25997.08,7076.49,2888.56,Credit Card,Emily Davis
+ORD10810,2024-05-11,CUST1224,Divya Kumar,South,Kerala,Books,Biography,3,1482.36,3557.66,1236.7,889.42,Debit Card,Jennifer Martinez
+ORD10793,2024-05-14,CUST1006,Sanjay Pillai,West,Maharashtra,Sports,Badminton Set,2,8265.87,16531.74,3586.62,0.0,Debit Card,Emily Davis
+ORD10839,2024-05-16,CUST1098,Mohan Shah,West,Madhya Pradesh,Books,Educational Book,4,1374.15,4946.94,1467.47,549.66,Cash,Emily Davis
+ORD10123,2024-05-17,CUST1231,Neha Patel,North,Uttar Pradesh,Books,Travel Guide,3,1273.39,3820.17,882.09,0.0,Cash,Lisa Anderson
+ORD10362,2024-05-18,CUST1150,Deepika Joshi,East,Odisha,Home & Kitchen,Air Fryer,1,12192.86,10973.57,3703.22,1219.29,UPI,Sarah Johnson
+ORD10231,2024-05-19,CUST1283,Suresh Chopra,West,Madhya Pradesh,Sports,Badminton Set,1,539.92,539.92,137.52,0.0,Debit Card,Michael Brown
+ORD10263,2024-05-19,CUST1064,Manoj Mehta,South,Karnataka,Home & Kitchen,Coffee Maker,5,3700.37,16651.67,5085.94,1850.18,Credit Card,Robert Garcia
+ORD10777,2024-05-19,CUST1013,Ashok Kumar,North,Uttarakhand,Sports,Cricket Bat,2,3833.75,7667.5,2413.79,0.0,Credit Card,Emily Davis
+ORD10379,2024-05-21,CUST1104,Prakash Singh,East,Odisha,Books,Educational Book,1,1311.84,1246.25,288.4,65.59,Cash,Lisa Anderson
+ORD10835,2024-05-22,CUST1026,Rekha Verma,West,Gujarat,Sports,Football,10,1180.3,9442.4,2619.93,2360.6,Credit Card,Michael Brown
+ORD10874,2024-05-22,CUST1116,Kavita Singh,North,Haryana,Toys,Teddy Bear,7,1534.5,10741.5,3721.83,0.0,UPI,John Smith
+ORD10402,2024-05-25,CUST1076,Arun Verma,South,Andhra Pradesh,Books,Biography,4,297.62,1190.48,179.42,0.0,Debit Card,John Smith
+ORD10432,2024-05-25,CUST1045,Sneha Verma,South,Tamil Nadu,Clothing,Jacket,6,1814.48,10886.88,1646.63,0.0,Debit Card,John Smith
+ORD10321,2024-05-27,CUST1165,Amit Iyer,North,Uttar Pradesh,Clothing,Trousers,5,2282.85,7989.97,1371.32,3424.28,UPI,John Smith
+ORD10481,2024-05-28,CUST1181,Divya Singh,North,Uttarakhand,Toys,Educational Toy,10,711.51,5336.32,993.6,1778.78,Cash,Michael Brown
+ORD10814,2024-05-30,CUST1033,Rahul Gupta,West,Goa,Sports,Dumbbells,6,8822.84,44996.48,9696.05,7940.56,UPI,John Smith
+ORD10928,2024-05-30,CUST1168,Rahul Chopra,East,Jharkhand,Sports,Gym Bag,8,6729.26,37683.86,13440.15,16150.22,Cash,Emily Davis
+ORD10561,2024-05-31,CUST1057,Lakshmi Patel,South,Kerala,Clothing,Trousers,10,3142.17,25137.36,5530.93,6284.34,Credit Card,David Wilson
+ORD10712,2024-05-31,CUST1013,Sanjay Bansal,North,Haryana,Toys,Doll House,1,3704.4,3333.96,794.72,370.44,Cash,David Wilson
+ORD10756,2024-05-31,CUST1289,Arun Mishra,South,Andhra Pradesh,Toys,Remote Control Car,1,4362.82,3053.97,1171.68,1308.85,Debit Card,John Smith
+ORD10434,2024-06-01,CUST1261,Ravi Kumar,South,Kerala,Toys,Building Blocks,4,3766.81,15067.24,5129.06,0.0,Cash,John Smith
+ORD10967,2024-06-01,CUST1134,Sanjay Verma,East,Bihar,Home & Kitchen,Dinner Set,9,12524.78,78906.11,21053.13,33816.91,UPI,Emily Davis
+ORD10215,2024-06-04,CUST1074,Kiran Menon,North,Punjab,Toys,Board Game,8,810.65,5512.42,1937.37,972.78,UPI,John Smith
+ORD10953,2024-06-04,CUST1032,Divya Verma,East,Bihar,Books,Fiction Novel,2,1493.8,2539.46,853.99,448.14,Debit Card,Emily Davis
+ORD10252,2024-06-05,CUST1146,Ganesh Kumar,South,Kerala,Books,Travel Guide,1,1431.01,1431.01,515.02,0.0,Cash,Michael Brown
+ORD10746,2024-06-05,CUST1246,Vijay Desai,South,Telangana,Sports,Badminton Set,2,8095.1,14571.18,3863.98,1619.02,UPI,Sarah Johnson
+ORD10175,2024-06-07,CUST1107,Mohan Joshi,South,Karnataka,Sports,Football,9,8486.59,57284.48,11048.41,19094.83,Cash,Sarah Johnson
+ORD10890,2024-06-07,CUST1104,Rajesh Iyer,West,Gujarat,Sports,Running Shoes,1,3701.45,3701.45,895.2,0.0,Cash,Jennifer Martinez
+ORD10613,2024-06-08,CUST1128,Amit Iyer,North,Haryana,Sports,Badminton Set,9,3360.7,28733.98,9524.52,1512.32,UPI,David Wilson
+ORD10075,2024-06-09,CUST1137,Sneha Sharma,West,Gujarat,Sports,Dumbbells,4,6340.9,19022.7,4460.13,6340.9,UPI,David Wilson
+ORD10217,2024-06-10,CUST1084,Suresh Singh,East,Bihar,Electronics,Smartphone,6,35003.1,189016.74,59662.47,21001.86,UPI,Emily Davis
+ORD10579,2024-06-10,CUST1051,Amit Gupta,East,Odisha,Books,Business Book,8,355.52,2417.54,720.98,426.62,UPI,David Wilson
+ORD10588,2024-06-11,CUST1221,Manoj Pillai,North,Uttarakhand,Clothing,T-Shirt,5,3488.63,17443.15,3313.27,0.0,Debit Card,Emily Davis
+ORD10305,2024-06-13,CUST1242,Vijay Sharma,North,Uttar Pradesh,Home & Kitchen,Mixer Grinder,7,14947.39,78473.8,22682.79,26157.93,Cash,David Wilson
+ORD10334,2024-06-13,CUST1215,Sunita Rao,North,Haryana,Electronics,Headphones,9,34851.54,313663.86,50528.7,0.0,Debit Card,Robert Garcia
+ORD10104,2024-06-19,CUST1032,Mohan Gupta,South,Telangana,Toys,Doll House,4,420.6,1598.28,578.41,84.12,UPI,Robert Garcia
+ORD10424,2024-06-19,CUST1028,Rina Pillai,East,Odisha,Electronics,Monitor,2,19577.02,27407.83,7900.88,11746.21,Debit Card,David Wilson
+ORD10562,2024-06-22,CUST1271,Prakash Singh,South,Tamil Nadu,Home & Kitchen,Air Fryer,8,8004.13,48024.78,8541.88,16008.26,Debit Card,Sarah Johnson
+ORD10668,2024-06-25,CUST1084,Amit Nair,East,Assam,Books,Fiction Novel,1,376.76,301.41,85.41,75.35,UPI,Michael Brown
+ORD10736,2024-06-25,CUST1034,Naveen Kumar,East,Odisha,Books,Travel Guide,8,745.92,5967.36,1422.75,0.0,Credit Card,Robert Garcia
+ORD10375,2024-06-29,CUST1098,Ganesh Sharma,East,Bihar,Electronics,Headphones,10,20449.2,173818.2,41482.34,30673.8,UPI,Lisa Anderson
+ORD10405,2024-06-30,CUST1037,Kiran Singh,South,Telangana,Sports,Badminton Set,7,5954.14,41678.98,8841.69,0.0,UPI,Emily Davis
+ORD10468,2024-06-30,CUST1259,Rajesh Joshi,East,West Bengal,Sports,Gym Bag,5,7980.79,39903.95,8617.02,0.0,Credit Card,Jennifer Martinez
+ORD10818,2024-06-30,CUST1262,Swati Chopra,South,Andhra Pradesh,Clothing,Sweater,9,3644.18,22958.33,6015.33,9839.29,Cash,John Smith
+ORD10914,2024-06-30,CUST1023,Kavita Kumar,South,Karnataka,Electronics,Speaker,9,22648.79,203839.11,31323.05,0.0,UPI,Jennifer Martinez
+ORD10969,2024-06-30,CUST1060,Meera Gupta,East,Assam,Electronics,Smartphone,2,13910.92,23648.56,7068.67,4173.28,Debit Card,Robert Garcia
+ORD10656,2024-07-03,CUST1035,Anjali Pillai,South,Andhra Pradesh,Toys,Educational Toy,1,599.01,419.31,140.32,179.7,UPI,Robert Garcia
+ORD10234,2024-07-04,CUST1220,Meera Mishra,West,Gujarat,Sports,Gym Bag,2,4098.98,7788.06,3062.89,409.9,Cash,Emily Davis
+ORD10715,2024-07-07,CUST1199,Sunita Patel,North,Uttar Pradesh,Sports,Football,4,7853.11,31412.44,5908.3,0.0,Cash,Jennifer Martinez
+ORD10072,2024-07-09,CUST1281,Vijay Mehta,East,Assam,Sports,Dumbbells,1,1190.09,1011.58,210.95,178.51,UPI,Emily Davis
+ORD10974,2024-07-09,CUST1297,Swati Chopra,South,Tamil Nadu,Electronics,Monitor,1,40899.2,28629.44,9201.95,12269.76,Cash,David Wilson
+ORD10612,2024-07-11,CUST1012,Sunita Reddy,East,Jharkhand,Books,Cookbook,10,1339.76,13397.6,3918.93,0.0,UPI,John Smith
+ORD10118,2024-07-12,CUST1225,Ganesh Menon,North,Punjab,Sports,Running Shoes,6,9850.2,59101.2,22054.81,0.0,Cash,Michael Brown
+ORD10846,2024-07-12,CUST1140,Deepika Bansal,West,Rajasthan,Electronics,Headphones,10,60171.36,511456.56,102530.38,90257.04,Debit Card,Lisa Anderson
+ORD10291,2024-07-13,CUST1099,Manoj Verma,North,Uttarakhand,Sports,Running Shoes,6,866.23,3898.03,962.32,1299.35,Debit Card,Emily Davis
+ORD10717,2024-07-13,CUST1151,Sanjay Chopra,East,Bihar,Books,Cookbook,9,351.77,2374.45,727.4,791.48,Debit Card,David Wilson
+ORD10057,2024-07-16,CUST1031,Sneha Mehta,West,Maharashtra,Toys,Teddy Bear,1,1119.58,951.64,299.52,167.94,Credit Card,Emily Davis
+ORD10083,2024-07-18,CUST1157,Sneha Kumar,South,Karnataka,Clothing,Jacket,9,4128.13,37153.17,9442.65,0.0,UPI,Jennifer Martinez
+ORD10342,2024-07-18,CUST1275,Prakash Verma,South,Karnataka,Books,Educational Book,6,376.43,2258.58,579.3,0.0,Cash,Jennifer Martinez
+ORD10664,2024-07-19,CUST1073,Sanjay Gupta,South,Kerala,Books,Children Book,7,432.64,3028.48,1019.31,0.0,UPI,John Smith
+ORD10748,2024-07-19,CUST1172,Sanjay Nair,South,Telangana,Sports,Football,8,8357.23,66857.84,16332.13,0.0,Debit Card,John Smith
+ORD10749,2024-07-19,CUST1006,Geeta Gupta,West,Gujarat,Toys,Doll House,7,2417.53,16922.71,3676.75,0.0,Debit Card,Robert Garcia
+ORD10819,2024-07-20,CUST1062,Deepika Rao,South,Tamil Nadu,Books,Travel Guide,2,551.98,993.56,282.51,110.4,Cash,Michael Brown
+ORD10043,2024-07-21,CUST1284,Kavita Pillai,North,Uttarakhand,Home & Kitchen,Coffee Maker,10,8364.49,58551.43,18165.89,25093.47,Debit Card,Lisa Anderson
+ORD10124,2024-07-21,CUST1287,Divya Patel,South,Andhra Pradesh,Sports,Gym Bag,6,8232.71,49396.26,12813.34,0.0,Cash,Sarah Johnson
+ORD10016,2024-07-23,CUST1274,Manoj Bansal,South,Andhra Pradesh,Books,Cookbook,9,899.37,8094.33,3237.35,0.0,Debit Card,David Wilson
+ORD10273,2024-07-23,CUST1017,Lakshmi Shah,North,Delhi,Home & Kitchen,Coffee Maker,1,12686.59,11417.93,4426.76,1268.66,Debit Card,David Wilson
+ORD10272,2024-07-25,CUST1097,Vijay Menon,North,Haryana,Home & Kitchen,Coffee Maker,5,1705.25,8526.25,3069.36,0.0,Cash,Emily Davis
+ORD10387,2024-07-25,CUST1247,Manoj Patel,South,Andhra Pradesh,Clothing,Shoes,2,788.01,1339.62,398.62,236.4,UPI,Robert Garcia
+ORD10758,2024-07-26,CUST1227,Meera Menon,North,Punjab,Toys,Doll House,2,2773.47,5546.94,1798.68,0.0,Debit Card,Emily Davis
+ORD10762,2024-07-26,CUST1059,Rekha Rao,West,Goa,Books,Children Book,2,1205.14,2410.28,647.51,0.0,UPI,David Wilson
+ORD10014,2024-07-27,CUST1099,Amit Patel,South,Andhra Pradesh,Toys,Board Game,1,4429.85,3322.39,1019.67,1107.46,Credit Card,Jennifer Martinez
+ORD10203,2024-07-29,CUST1212,Amit Gupta,West,Madhya Pradesh,Home & Kitchen,Coffee Maker,3,4997.74,10495.25,2200.43,4497.97,UPI,David Wilson
+ORD10045,2024-07-30,CUST1226,Ravi Mishra,West,Maharashtra,Toys,Board Game,3,369.72,831.87,317.23,277.29,Cash,John Smith
+ORD10976,2024-08-01,CUST1282,Meera Joshi,East,Assam,Electronics,Headphones,10,48239.87,458278.76,166137.25,24119.94,UPI,Michael Brown
+ORD10293,2024-08-02,CUST1141,Divya Menon,East,Odisha,Clothing,Sweater,7,4791.92,33543.44,7108.21,0.0,Debit Card,David Wilson
+ORD10619,2024-08-02,CUST1111,Meera Rao,East,Assam,Electronics,Speaker,1,60531.83,60531.83,16491.01,0.0,Debit Card,David Wilson
+ORD10186,2024-08-03,CUST1285,Geeta Menon,North,Uttarakhand,Books,Self-Help Book,6,581.13,2789.42,685.83,697.36,Credit Card,Jennifer Martinez
+ORD10882,2024-08-04,CUST1155,Deepika Reddy,North,Uttar Pradesh,Clothing,Trousers,7,3454.21,24179.47,5159.73,0.0,Debit Card,Michael Brown
+ORD10302,2024-08-05,CUST1049,Ravi Mishra,North,Punjab,Electronics,Speaker,2,19842.05,35715.69,10407.99,3968.41,Cash,Jennifer Martinez
+ORD10376,2024-08-05,CUST1185,Vijay Sharma,North,Uttarakhand,Toys,Board Game,6,3058.98,18353.88,4925.73,0.0,UPI,Michael Brown
+ORD10569,2024-08-06,CUST1289,Suresh Joshi,South,Karnataka,Books,Fiction Novel,2,704.99,1057.48,167.38,352.5,Credit Card,John Smith
+ORD10934,2024-08-06,CUST1090,Kavita Mehta,North,Punjab,Clothing,Dress,2,3390.22,5424.35,1492.01,1356.09,Credit Card,John Smith
+ORD10361,2024-08-08,CUST1250,Naveen Nair,East,Odisha,Sports,Cricket Bat,10,7613.74,64716.79,14172.7,11420.61,Credit Card,Sarah Johnson
+ORD10038,2024-08-09,CUST1047,Ashok Rao,East,Bihar,Books,Business Book,3,833.12,2499.36,400.11,0.0,UPI,Sarah Johnson
+ORD10385,2024-08-09,CUST1050,Kiran Reddy,North,Delhi,Home & Kitchen,Toaster,4,4331.39,15593.0,2911.85,1732.56,Credit Card,Sarah Johnson
+ORD10030,2024-08-10,CUST1194,Arun Nair,South,Kerala,Home & Kitchen,Air Fryer,3,3811.89,11435.67,3487.39,0.0,UPI,John Smith
+ORD10701,2024-08-10,CUST1092,Rina Chopra,North,Uttarakhand,Toys,Board Game,4,4125.48,13201.54,2870.43,3300.38,Cash,David Wilson
+ORD10015,2024-08-11,CUST1098,Rekha Desai,East,Bihar,Sports,Dumbbells,9,3701.81,31650.48,5302.88,1665.81,Debit Card,Sarah Johnson
+ORD10163,2024-08-11,CUST1064,Naveen Desai,East,Jharkhand,Sports,Dumbbells,6,9864.0,59184.0,18137.46,0.0,Cash,Emily Davis
+ORD10191,2024-08-11,CUST1272,Mohan Nair,West,Goa,Electronics,Smartphone,9,44309.55,378846.65,66700.87,19939.3,Cash,John Smith
+ORD10381,2024-08-11,CUST1204,Neha Agarwal,East,West Bengal,Home & Kitchen,Cookware Set,2,13319.42,21311.07,5137.52,5327.77,UPI,Robert Garcia
+ORD10480,2024-08-11,CUST1246,Geeta Kumar,East,Odisha,Sports,Dumbbells,5,3732.51,18662.55,4112.84,0.0,Debit Card,David Wilson
+ORD10079,2024-08-12,CUST1089,Pooja Chopra,South,Telangana,Home & Kitchen,Coffee Maker,2,8657.37,14717.53,4916.03,2597.21,Cash,Michael Brown
+ORD10921,2024-08-12,CUST1052,Priya Gupta,South,Karnataka,Home & Kitchen,Coffee Maker,1,13075.28,11767.75,4657.52,1307.53,Cash,Jennifer Martinez
+ORD10500,2024-08-13,CUST1055,Kavita Agarwal,East,Assam,Electronics,Smart Watch,4,26477.07,90022.04,19611.85,15886.24,Credit Card,Michael Brown
+ORD10261,2024-08-14,CUST1215,Ganesh Rao,West,Madhya Pradesh,Books,Biography,4,798.07,3192.28,1048.5,0.0,Debit Card,Lisa Anderson
+ORD10941,2024-08-15,CUST1149,Suresh Rao,North,Uttarakhand,Sports,Cricket Bat,1,4477.2,4253.34,1564.22,223.86,UPI,Lisa Anderson
+ORD10207,2024-08-16,CUST1041,Divya Gupta,South,Karnataka,Electronics,Camera,9,50391.76,453525.84,176772.0,0.0,UPI,David Wilson
+ORD10313,2024-08-16,CUST1110,Rekha Bansal,South,Andhra Pradesh,Clothing,T-Shirt,6,1625.13,9750.78,3817.75,0.0,UPI,John Smith
+ORD10008,2024-08-17,CUST1210,Priya Reddy,West,Rajasthan,Books,Educational Book,7,530.73,3157.84,1048.86,557.27,UPI,Sarah Johnson
+ORD10690,2024-08-17,CUST1294,Arun Iyer,West,Rajasthan,Books,Travel Guide,1,561.75,477.49,185.91,84.26,UPI,David Wilson
+ORD10638,2024-08-21,CUST1062,Ganesh Reddy,North,Delhi,Clothing,Shoes,4,4938.21,19752.84,6282.68,0.0,Cash,John Smith
+ORD10051,2024-08-24,CUST1252,Naveen Menon,South,Telangana,Clothing,Dress,6,1426.42,8130.59,1242.04,427.93,Debit Card,Lisa Anderson
+ORD10357,2024-08-27,CUST1165,Meera Kumar,South,Andhra Pradesh,Clothing,Shirt,3,4679.95,13337.86,2921.58,701.99,UPI,Emily Davis
+ORD10093,2024-08-29,CUST1239,Ravi Gupta,East,Jharkhand,Toys,Teddy Bear,5,4361.21,20715.75,5294.63,1090.3,Cash,David Wilson
+ORD10972,2024-08-31,CUST1028,Sanjay Menon,South,Karnataka,Electronics,Camera,10,45312.39,385155.31,99179.37,67968.59,Debit Card,David Wilson
+ORD10019,2024-09-01,CUST1017,Sanjay Menon,West,Madhya Pradesh,Sports,Cricket Bat,6,7602.58,43334.71,12914.33,2280.77,UPI,Robert Garcia
+ORD10580,2024-09-01,CUST1219,Rahul Kumar,South,Andhra Pradesh,Clothing,Shirt,7,4248.23,23790.09,4100.07,5947.52,Credit Card,David Wilson
+ORD10571,2024-09-03,CUST1156,Deepika Singh,North,Delhi,Electronics,Smartphone,10,21279.93,212799.3,45741.59,0.0,UPI,John Smith
+ORD10924,2024-09-03,CUST1140,Ravi Agarwal,West,Madhya Pradesh,Home & Kitchen,Air Fryer,4,12817.85,41017.12,13489.97,10254.28,UPI,Robert Garcia
+ORD10475,2024-09-05,CUST1220,Ravi Patel,East,Bihar,Books,Cookbook,10,1041.41,10414.1,2327.91,0.0,Debit Card,Robert Garcia
+ORD10108,2024-09-06,CUST1239,Amit Patel,East,Jharkhand,Electronics,Smart Watch,10,62766.12,627661.2,103249.57,0.0,Debit Card,Sarah Johnson
+ORD10337,2024-09-06,CUST1155,Rekha Nair,South,Telangana,Clothing,Shirt,10,4516.89,42910.45,8122.13,2258.45,Debit Card,Emily Davis
+ORD10388,2024-09-06,CUST1226,Kiran Agarwal,North,Uttar Pradesh,Books,Self-Help Book,8,1088.12,8704.96,1844.25,0.0,UPI,John Smith
+ORD10474,2024-09-07,CUST1102,Arun Mishra,West,Maharashtra,Electronics,Camera,7,14645.99,102521.93,35975.61,0.0,Debit Card,Sarah Johnson
+ORD10944,2024-09-09,CUST1014,Neha Patel,South,Tamil Nadu,Clothing,Shirt,6,4638.25,22263.6,6649.96,5565.9,Debit Card,Sarah Johnson
+ORD10489,2024-09-10,CUST1170,Rahul Bansal,North,Haryana,Sports,Running Shoes,9,4384.25,39458.25,7335.34,0.0,Credit Card,David Wilson
+ORD10959,2024-09-11,CUST1016,Amit Shah,North,Punjab,Sports,Running Shoes,2,9412.59,18825.18,5091.16,0.0,Cash,Jennifer Martinez
+ORD10695,2024-09-12,CUST1284,Geeta Iyer,North,Delhi,Toys,Teddy Bear,4,2571.58,10286.32,3038.36,0.0,Cash,Michael Brown
+ORD10214,2024-09-15,CUST1173,Sanjay Chopra,South,Kerala,Sports,Tennis Racket,7,4629.9,29168.37,5363.11,3240.93,Cash,Lisa Anderson
+ORD10166,2024-09-18,CUST1018,Sneha Mehta,North,Haryana,Home & Kitchen,Mixer Grinder,9,8045.02,72405.18,11874.64,0.0,Debit Card,Robert Garcia
+ORD10687,2024-09-24,CUST1153,Lakshmi Sharma,South,Tamil Nadu,Clothing,Dress,10,1569.57,11771.77,4326.98,3923.93,UPI,Jennifer Martinez
+ORD10697,2024-09-24,CUST1114,Divya Iyer,West,Maharashtra,Electronics,Headphones,4,50220.22,200880.88,77654.13,0.0,Debit Card,John Smith
+ORD10778,2024-09-24,CUST1263,Divya Desai,North,Uttar Pradesh,Books,Biography,7,889.83,4360.17,755.49,1868.64,UPI,David Wilson
+ORD10303,2024-09-25,CUST1175,Mohan Joshi,North,Uttarakhand,Electronics,Headphones,1,11228.08,7859.66,2639.37,3368.42,Debit Card,John Smith
+ORD10466,2024-09-25,CUST1232,Rina Iyer,North,Uttarakhand,Books,Fiction Novel,3,435.0,1305.0,227.11,0.0,Cash,Jennifer Martinez
+ORD10548,2024-09-27,CUST1035,Rina Menon,East,Jharkhand,Sports,Cricket Bat,1,8309.89,6232.42,2428.1,2077.47,Cash,Lisa Anderson
+ORD10629,2024-09-27,CUST1140,Sunita Singh,North,Uttarakhand,Toys,Doll House,2,2880.87,4033.22,649.58,1728.52,Cash,John Smith
+ORD10159,2024-09-30,CUST1193,Swati Shah,South,Karnataka,Sports,Yoga Mat,7,7438.07,49463.17,14284.77,2603.32,Debit Card,Sarah Johnson
+ORD10149,2024-10-04,CUST1023,Pooja Kumar,North,Delhi,Clothing,Dress,7,772.96,4058.04,1588.13,1352.68,Credit Card,David Wilson
+ORD10986,2024-10-05,CUST1129,Deepika Patel,East,West Bengal,Toys,Building Blocks,1,2794.18,2654.47,728.0,139.71,UPI,Lisa Anderson
+ORD10411,2024-10-08,CUST1196,Rajesh Gupta,South,Karnataka,Clothing,Shoes,10,4650.82,44182.79,15653.07,2325.41,Cash,Emily Davis
+ORD10556,2024-10-08,CUST1132,Priya Mehta,East,Odisha,Electronics,Tablet,6,78075.95,351341.78,111311.3,117113.92,Debit Card,Emily Davis
+ORD10192,2024-10-10,CUST1001,Mohan Shah,West,Goa,Toys,Remote Control Car,7,3095.33,15167.12,3296.71,6500.19,Credit Card,Robert Garcia
+ORD10195,2024-10-11,CUST1060,Rekha Iyer,North,Uttarakhand,Electronics,Headphones,10,32248.47,290236.23,101724.85,32248.47,Credit Card,Robert Garcia
+ORD10229,2024-10-11,CUST1180,Mohan Bansal,East,West Bengal,Electronics,Smart Watch,3,37777.5,113332.5,32758.83,0.0,Cash,Robert Garcia
+ORD10636,2024-10-12,CUST1297,Mohan Joshi,East,Jharkhand,Sports,Yoga Mat,10,8870.4,70963.2,27368.44,17740.8,UPI,John Smith
+ORD10343,2024-10-13,CUST1249,Rekha Agarwal,North,Delhi,Clothing,Shirt,4,3932.91,14158.48,3293.54,1573.16,Debit Card,John Smith
+ORD10039,2024-10-14,CUST1213,Lakshmi Desai,West,Goa,Electronics,Tablet,10,43759.65,328197.38,91435.47,109399.12,Debit Card,Sarah Johnson
+ORD10143,2024-10-14,CUST1173,Priya Nair,North,Haryana,Books,Biography,8,1140.55,6843.3,1839.02,2281.1,Debit Card,Emily Davis
+ORD10146,2024-10-14,CUST1082,Divya Pillai,South,Andhra Pradesh,Home & Kitchen,Pressure Cooker,1,9615.93,8173.54,3137.26,1442.39,Cash,Emily Davis
+ORD10356,2024-10-14,CUST1251,Geeta Singh,East,West Bengal,Sports,Dumbbells,8,2868.18,22945.44,8484.04,0.0,Cash,Lisa Anderson
+ORD10766,2024-10-16,CUST1120,Kiran Shah,North,Uttar Pradesh,Books,Children Book,7,288.58,1919.06,752.43,101.0,Cash,Jennifer Martinez
+ORD10447,2024-10-17,CUST1086,Arun Sharma,East,West Bengal,Home & Kitchen,Toaster,2,3346.09,6357.57,1126.83,334.61,Debit Card,David Wilson
+ORD10160,2024-10-18,CUST1026,Kiran Reddy,North,Delhi,Books,Children Book,2,880.24,1584.43,365.66,176.05,Cash,David Wilson
+ORD10957,2024-10-18,CUST1046,Rina Menon,West,Goa,Sports,Football,7,3755.38,22344.51,8111.81,3943.15,UPI,Robert Garcia
+ORD10164,2024-10-20,CUST1062,Arun Bansal,East,Bihar,Books,Travel Guide,2,1048.6,2097.2,569.88,0.0,Debit Card,Robert Garcia
+ORD10250,2024-10-21,CUST1218,Vijay Verma,North,Uttarakhand,Electronics,Headphones,4,79793.86,303216.67,51460.25,15958.77,Debit Card,Emily Davis
+ORD10423,2024-10-23,CUST1228,Rajesh Patel,West,Madhya Pradesh,Books,Fiction Novel,9,507.57,4111.32,703.92,456.81,UPI,Robert Garcia
+ORD10169,2024-10-26,CUST1010,Rina Mehta,West,Rajasthan,Clothing,Dress,2,2979.98,5959.96,1808.15,0.0,Credit Card,Lisa Anderson
+ORD10096,2024-10-27,CUST1029,Lakshmi Bansal,South,Tamil Nadu,Sports,Yoga Mat,10,3786.46,37864.6,12972.48,0.0,Debit Card,Robert Garcia
+ORD10589,2024-10-27,CUST1158,Neha Singh,South,Kerala,Books,Business Book,6,1025.83,4923.98,1657.89,1231.0,UPI,Michael Brown
+ORD10643,2024-10-27,CUST1095,Sanjay Agarwal,West,Madhya Pradesh,Clothing,T-Shirt,7,615.59,3231.85,635.38,1077.28,Debit Card,Jennifer Martinez
+ORD10187,2024-10-28,CUST1049,Ashok Verma,North,Uttarakhand,Clothing,Jacket,1,946.53,946.53,339.54,0.0,UPI,John Smith
+ORD10430,2024-10-29,CUST1082,Kiran Rao,South,Telangana,Toys,Puzzle Game,9,1867.5,15967.12,3594.29,840.38,Credit Card,Emily Davis
+ORD10905,2024-10-29,CUST1019,Ashok Iyer,South,Andhra Pradesh,Toys,Puzzle Game,5,4786.33,21538.49,4056.53,2393.16,Debit Card,Michael Brown
+ORD10641,2024-10-30,CUST1286,Ravi Menon,South,Telangana,Home & Kitchen,Microwave,10,14158.99,127430.91,40051.63,14158.99,Debit Card,Jennifer Martinez
+ORD10880,2024-11-02,CUST1201,Divya Shah,East,West Bengal,Electronics,Smartphone,8,23624.16,188993.28,41994.28,0.0,Debit Card,Emily Davis
+ORD10073,2024-11-03,CUST1198,Anjali Rao,West,Goa,Electronics,Smartphone,7,25979.88,127301.41,32471.83,54557.75,Debit Card,John Smith
+ORD10545,2024-11-05,CUST1262,Sunita Gupta,South,Kerala,Books,Educational Book,6,732.58,3736.16,1338.27,659.32,Debit Card,Jennifer Martinez
+ORD10557,2024-11-05,CUST1195,Swati Menon,West,Rajasthan,Sports,Cricket Bat,9,5579.21,35149.02,10129.56,15063.87,Cash,Lisa Anderson
+ORD10784,2024-11-05,CUST1237,Sunita Chopra,North,Punjab,Toys,Board Game,3,2633.5,6715.42,1014.56,1185.08,UPI,Michael Brown
+ORD10323,2024-11-07,CUST1102,Sanjay Bansal,East,Jharkhand,Electronics,Headphones,10,14612.15,146121.5,58143.36,0.0,Credit Card,Michael Brown
+ORD10498,2024-11-07,CUST1008,Manoj Gupta,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,6,3353.86,20123.16,7738.53,0.0,UPI,Emily Davis
+ORD10034,2024-11-09,CUST1045,Sanjay Reddy,West,Goa,Toys,Board Game,5,1744.95,8724.75,1471.48,0.0,Cash,David Wilson
+ORD10808,2024-11-09,CUST1161,Arun Shah,South,Karnataka,Clothing,Shoes,2,1131.19,2036.14,651.98,226.24,UPI,Robert Garcia
+ORD10237,2024-11-11,CUST1229,Arun Bansal,North,Delhi,Sports,Badminton Set,7,8619.33,57318.54,17006.38,3016.77,Debit Card,David Wilson
+ORD10100,2024-11-12,CUST1221,Sunita Rao,North,Uttar Pradesh,Electronics,Smart Watch,7,29554.36,175848.44,48816.19,31032.08,Debit Card,Robert Garcia
+ORD10298,2024-11-12,CUST1069,Rahul Rao,North,Delhi,Clothing,Dress,6,2898.56,15652.22,3142.64,1739.14,Cash,Emily Davis
+ORD10626,2024-11-13,CUST1269,Kavita Kumar,South,Kerala,Sports,Badminton Set,6,721.99,3465.55,742.69,866.39,Cash,Jennifer Martinez
+ORD10142,2024-11-14,CUST1071,Sneha Sharma,East,Assam,Books,Business Book,1,1314.64,1314.64,282.68,0.0,UPI,Sarah Johnson
+ORD10648,2024-11-15,CUST1207,Ravi Verma,East,West Bengal,Sports,Badminton Set,1,7925.31,7925.31,1388.26,0.0,Debit Card,Sarah Johnson
+ORD10878,2024-11-16,CUST1203,Deepika Mehta,North,Uttar Pradesh,Clothing,Shoes,5,2040.4,8161.6,2510.44,2040.4,Cash,Michael Brown
+ORD10391,2024-11-17,CUST1181,Arun Menon,North,Punjab,Sports,Running Shoes,10,4711.05,47110.5,16733.73,0.0,Debit Card,John Smith
+ORD10531,2024-11-19,CUST1240,Amit Menon,North,Delhi,Electronics,Speaker,7,72656.81,508597.67,174060.76,0.0,Cash,Jennifer Martinez
+ORD10822,2024-11-19,CUST1257,Prakash Shah,East,Jharkhand,Books,Business Book,10,639.29,6392.9,2044.99,0.0,Cash,Sarah Johnson
+ORD10121,2024-11-21,CUST1116,Kavita Joshi,South,Karnataka,Books,Biography,1,1407.61,1126.09,274.42,281.52,UPI,John Smith
+ORD10678,2024-11-24,CUST1138,Divya Desai,West,Gujarat,Books,Fiction Novel,3,449.32,1078.37,364.79,269.59,Credit Card,Michael Brown
+ORD10943,2024-11-24,CUST1145,Mohan Mehta,North,Uttarakhand,Books,Biography,1,1015.08,1015.08,264.02,0.0,Cash,David Wilson
+ORD10290,2024-11-26,CUST1232,Pooja Rao,South,Karnataka,Electronics,Camera,3,30055.18,90165.54,15793.42,0.0,Credit Card,Sarah Johnson
+ORD10884,2024-11-26,CUST1298,Deepika Reddy,West,Maharashtra,Home & Kitchen,Pressure Cooker,5,6276.87,28245.92,9782.46,3138.43,Credit Card,Michael Brown
+ORD10896,2024-11-26,CUST1181,Lakshmi Pillai,East,Bihar,Home & Kitchen,Air Fryer,4,13835.77,44274.46,12269.86,11068.62,Cash,Robert Garcia
+ORD10409,2024-11-29,CUST1135,Deepika Desai,North,Delhi,Toys,Remote Control Car,10,3622.6,36226.0,11729.47,0.0,Cash,John Smith
+ORD10645,2024-11-30,CUST1288,Mohan Kumar,West,Rajasthan,Books,Cookbook,8,997.23,7977.84,1304.16,0.0,Credit Card,David Wilson
+ORD10811,2024-12-02,CUST1039,Sunita Iyer,North,Punjab,Clothing,Shoes,1,2734.78,1914.35,517.08,820.43,UPI,Lisa Anderson
+ORD10114,2024-12-03,CUST1198,Ganesh Verma,South,Tamil Nadu,Sports,Gym Bag,8,9117.72,72941.76,14741.64,0.0,Cash,David Wilson
+ORD10502,2024-12-03,CUST1045,Prakash Mehta,East,Odisha,Books,Cookbook,2,1010.73,2021.46,522.5,0.0,Debit Card,John Smith
+ORD10339,2024-12-04,CUST1060,Rajesh Reddy,South,Karnataka,Clothing,Trousers,3,1718.91,5156.73,1807.78,0.0,Cash,Sarah Johnson
+ORD10765,2024-12-04,CUST1290,Deepika Sharma,West,Gujarat,Home & Kitchen,Pressure Cooker,7,3998.05,26587.03,4802.43,1399.32,Cash,Michael Brown
+ORD10610,2024-12-05,CUST1055,Priya Bansal,South,Kerala,Electronics,Smartphone,5,48233.41,180875.29,46549.04,60291.76,Debit Card,Michael Brown
+ORD10802,2024-12-05,CUST1045,Sanjay Menon,East,Assam,Clothing,T-Shirt,8,2743.62,19754.06,7630.09,2194.9,Debit Card,Robert Garcia
+ORD10085,2024-12-09,CUST1002,Amit Desai,South,Telangana,Home & Kitchen,Mixer Grinder,6,11023.24,62832.47,24813.5,3306.97,Debit Card,Emily Davis
+ORD10177,2024-12-09,CUST1268,Rekha Verma,South,Andhra Pradesh,Sports,Football,10,4476.19,42523.81,8901.72,2238.09,Debit Card,Sarah Johnson
+ORD10871,2024-12-09,CUST1179,Ashok Menon,North,Uttar Pradesh,Electronics,Speaker,2,60273.8,84383.32,16104.02,36164.28,Debit Card,Lisa Anderson
+ORD10594,2024-12-10,CUST1069,Rahul Menon,East,Bihar,Clothing,Jeans,4,1465.86,5277.1,1879.74,586.34,Debit Card,Lisa Anderson
+ORD10993,2024-12-11,CUST1111,Arun Pillai,South,Karnataka,Sports,Badminton Set,9,5835.16,44638.97,16666.7,7877.47,Debit Card,Lisa Anderson
+ORD10239,2024-12-12,CUST1250,Rina Desai,East,West Bengal,Books,Biography,9,847.12,7624.08,3023.02,0.0,UPI,Michael Brown
+ORD10522,2024-12-12,CUST1268,Vijay Nair,North,Delhi,Clothing,T-Shirt,5,902.95,3611.8,776.39,902.95,UPI,Michael Brown
+ORD10525,2024-12-12,CUST1054,Kiran Sharma,North,Punjab,Toys,Action Figure,8,1641.35,11817.72,2609.41,1313.08,Debit Card,Lisa Anderson
+ORD10966,2024-12-12,CUST1188,Deepika Rao,East,Jharkhand,Home & Kitchen,Microwave,10,11122.29,105661.75,20133.77,5561.15,Debit Card,Emily Davis
+ORD10296,2024-12-13,CUST1300,Kavita Pillai,West,Goa,Books,Business Book,10,1201.0,10208.5,2845.05,1801.5,Credit Card,John Smith
+ORD10398,2024-12-13,CUST1296,Lakshmi Shah,North,Punjab,Home & Kitchen,Toaster,6,10981.28,46121.38,12232.66,19766.3,UPI,Sarah Johnson
+ORD10406,2024-12-13,CUST1287,Rahul Mehta,West,Goa,Clothing,Sweater,6,1383.39,7470.31,2987.61,830.03,Cash,Lisa Anderson
+ORD10465,2024-12-15,CUST1046,Ashok Mehta,South,Andhra Pradesh,Home & Kitchen,Toaster,1,12420.19,9315.14,2534.61,3105.05,Debit Card,Lisa Anderson
+ORD10751,2024-12-17,CUST1177,Suresh Shah,West,Gujarat,Clothing,Shoes,1,3797.06,3417.35,978.55,379.71,Cash,Emily Davis
+ORD10618,2024-12-20,CUST1037,Ravi Verma,West,Gujarat,Sports,Football,3,3695.7,11087.1,3532.57,0.0,UPI,Michael Brown
+ORD10723,2024-12-20,CUST1080,Kiran Agarwal,East,Assam,Toys,Teddy Bear,6,3770.45,18098.16,3166.34,4524.54,UPI,Emily Davis
+ORD10767,2024-12-20,CUST1167,Kiran Singh,West,Madhya Pradesh,Home & Kitchen,Toaster,5,4298.05,20415.74,3442.17,1074.51,Credit Card,David Wilson
+ORD10549,2024-12-21,CUST1180,Swati Menon,North,Delhi,Clothing,Shirt,5,4418.22,18777.43,4679.7,3313.67,Debit Card,Lisa Anderson
+ORD10004,2024-12-22,CUST1065,Rekha Singh,South,Kerala,Toys,Doll House,7,4064.67,28452.69,5873.92,0.0,Debit Card,Lisa Anderson
+ORD10094,2024-12-22,CUST1229,Ashok Verma,South,Telangana,Electronics,Smart Watch,10,10194.91,81559.28,16025.78,20389.82,Debit Card,John Smith
+ORD10458,2024-12-22,CUST1177,Sanjay Menon,West,Maharashtra,Clothing,T-Shirt,8,2665.4,21323.2,4394.48,0.0,Credit Card,David Wilson
+ORD10682,2024-12-22,CUST1235,Manoj Mehta,West,Goa,Clothing,Trousers,3,4375.27,13125.81,4179.81,0.0,Cash,Jennifer Martinez
+ORD10843,2024-12-22,CUST1189,Ganesh Patel,South,Tamil Nadu,Toys,Building Blocks,2,3943.13,5520.38,930.73,2365.88,Cash,Michael Brown
+ORD10508,2024-12-23,CUST1287,Sneha Agarwal,North,Uttar Pradesh,Sports,Football,3,6379.58,19138.74,3813.49,0.0,UPI,Robert Garcia
+ORD10820,2024-12-23,CUST1126,Vijay Verma,South,Telangana,Home & Kitchen,Cookware Set,8,5451.62,43612.96,16400.79,0.0,Debit Card,Emily Davis
+ORD10908,2024-12-24,CUST1067,Swati Agarwal,South,Karnataka,Sports,Football,10,6018.91,60189.1,23500.61,0.0,UPI,Robert Garcia
+ORD10347,2024-12-25,CUST1104,Deepika Desai,North,Haryana,Toys,Doll House,6,2869.56,17217.36,6692.01,0.0,UPI,John Smith
+ORD10373,2024-12-25,CUST1106,Naveen Pillai,South,Tamil Nadu,Toys,Board Game,8,4181.45,28433.86,10135.07,5017.74,UPI,Sarah Johnson
+ORD10775,2024-12-25,CUST1288,Prakash Sharma,South,Telangana,Toys,Educational Toy,3,2481.11,5210.33,1594.54,2233.0,Credit Card,Michael Brown
+ORD10326,2024-12-26,CUST1153,Amit Joshi,West,Rajasthan,Electronics,Laptop,4,31100.98,124403.92,43157.88,0.0,Credit Card,Michael Brown
+ORD10389,2024-12-26,CUST1238,Rahul Desai,North,Delhi,Toys,Board Game,3,3725.75,10059.53,2644.74,1117.72,Cash,Michael Brown
+ORD10322,2024-12-27,CUST1238,Sanjay Sharma,West,Madhya Pradesh,Toys,Teddy Bear,1,2175.56,2175.56,676.68,0.0,Debit Card,David Wilson
+ORD10042,2024-12-28,CUST1038,Prakash Kumar,South,Tamil Nadu,Sports,Gym Bag,10,4744.37,47443.7,9395.88,0.0,Cash,John Smith
+ORD10147,2024-12-31,CUST1101,Sneha Shah,North,Uttar Pradesh,Clothing,Trousers,3,3242.69,9728.07,2179.46,0.0,UPI,Jennifer Martinez
+ORD10283,2024-12-31,CUST1209,Amit Agarwal,East,Odisha,Sports,Football,4,780.95,3123.8,471.3,0.0,Credit Card,Sarah Johnson
