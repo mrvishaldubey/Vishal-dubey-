@@ -1,0 +1,296 @@
+====================================
+SUPER SALES STORE - DAX MEASURES
+====================================
+
+This file contains DAX formulas for all calculated measures used in the Super Sales Store Dashboard.
+Copy and paste these formulas into Power BI Desktop to create the measures.
+
+------------------------------------
+BASIC KPI MEASURES
+------------------------------------
+
+Total Sales = 
+SUM(Sales[Total Sales])
+
+Total Profit = 
+SUM(Sales[Profit])
+
+Total Orders = 
+COUNTROWS(Sales)
+
+Total Quantity = 
+SUM(Sales[Quantity])
+
+Total Discount = 
+SUM(Sales[Discount])
+
+------------------------------------
+CALCULATED KPI MEASURES
+------------------------------------
+
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Sales], 0) * 100
+
+Average Order Value = 
+DIVIDE([Total Sales], [Total Orders], 0)
+
+Average Profit per Order = 
+DIVIDE([Total Profit], [Total Orders], 0)
+
+Average Discount % = 
+DIVIDE([Total Discount], ([Total Sales] + [Total Discount]), 0) * 100
+
+Average Unit Price = 
+DIVIDE(SUM(Sales[Unit Price] * Sales[Quantity]), [Total Quantity], 0)
+
+------------------------------------
+TIME INTELLIGENCE MEASURES
+------------------------------------
+
+// Previous Month Sales
+Previous Month Sales = 
+CALCULATE(
+    [Total Sales],
+    DATEADD(Sales[Order Date], -1, MONTH)
+)
+
+// Month-over-Month Growth
+MoM Growth = 
+VAR CurrentMonthSales = [Total Sales]
+VAR PreviousMonthSales = [Previous Month Sales]
+RETURN
+    DIVIDE(CurrentMonthSales - PreviousMonthSales, PreviousMonthSales, 0)
+
+MoM Growth % = 
+[MoM Growth] * 100
+
+// Previous Year Sales
+Previous Year Sales = 
+CALCULATE(
+    [Total Sales],
+    DATEADD(Sales[Order Date], -1, YEAR)
+)
+
+// Year-over-Year Growth
+YoY Growth = 
+VAR CurrentYearSales = [Total Sales]
+VAR PreviousYearSales = [Previous Year Sales]
+RETURN
+    DIVIDE(CurrentYearSales - PreviousYearSales, PreviousYearSales, 0)
+
+YoY Growth % = 
+[YoY Growth] * 100
+
+// Year to Date Sales
+YTD Sales = 
+TOTALYTD([Total Sales], Sales[Order Date])
+
+// Previous Year to Date Sales
+PYTD Sales = 
+CALCULATE(
+    [YTD Sales],
+    DATEADD(Sales[Order Date], -1, YEAR)
+)
+
+// Quarter to Date Sales
+QTD Sales = 
+TOTALQTD([Total Sales], Sales[Order Date])
+
+// Month to Date Sales
+MTD Sales = 
+TOTALMTD([Total Sales], Sales[Order Date])
+
+------------------------------------
+RANKING & TOP N MEASURES
+------------------------------------
+
+// Rank Products by Sales
+Product Sales Rank = 
+RANKX(
+    ALL(Sales[Product Name]),
+    [Total Sales],
+    ,
+    DESC,
+    Dense
+)
+
+// Rank Customers by Sales
+Customer Sales Rank = 
+RANKX(
+    ALL(Sales[Customer Name]),
+    [Total Sales],
+    ,
+    DESC,
+    Dense
+)
+
+// Rank Regions by Sales
+Region Sales Rank = 
+RANKX(
+    ALL(Sales[Region]),
+    [Total Sales],
+    ,
+    DESC,
+    Dense
+)
+
+------------------------------------
+CUSTOMER METRICS
+------------------------------------
+
+Unique Customers = 
+DISTINCTCOUNT(Sales[Customer ID])
+
+Average Sales per Customer = 
+DIVIDE([Total Sales], [Unique Customers], 0)
+
+Orders per Customer = 
+DIVIDE([Total Orders], [Unique Customers], 0)
+
+------------------------------------
+PRODUCT METRICS
+------------------------------------
+
+Unique Products = 
+DISTINCTCOUNT(Sales[Product Name])
+
+Average Quantity per Order = 
+DIVIDE([Total Quantity], [Total Orders], 0)
+
+------------------------------------
+REGIONAL METRICS
+------------------------------------
+
+North Region Sales = 
+CALCULATE([Total Sales], Sales[Region] = "North")
+
+South Region Sales = 
+CALCULATE([Total Sales], Sales[Region] = "South")
+
+East Region Sales = 
+CALCULATE([Total Sales], Sales[Region] = "East")
+
+West Region Sales = 
+CALCULATE([Total Sales], Sales[Region] = "West")
+
+------------------------------------
+CATEGORY METRICS
+------------------------------------
+
+Electronics Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Electronics")
+
+Clothing Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Clothing")
+
+Home & Kitchen Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Home & Kitchen")
+
+Books Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Books")
+
+Sports Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Sports")
+
+Toys Sales = 
+CALCULATE([Total Sales], Sales[Product Category] = "Toys")
+
+------------------------------------
+PAYMENT METHOD METRICS
+------------------------------------
+
+Credit Card Sales = 
+CALCULATE([Total Sales], Sales[Payment Method] = "Credit Card")
+
+Debit Card Sales = 
+CALCULATE([Total Sales], Sales[Payment Method] = "Debit Card")
+
+Cash Sales = 
+CALCULATE([Total Sales], Sales[Payment Method] = "Cash")
+
+UPI Sales = 
+CALCULATE([Total Sales], Sales[Payment Method] = "UPI")
+
+Digital Payment % = 
+DIVIDE(
+    [Credit Card Sales] + [Debit Card Sales] + [UPI Sales],
+    [Total Sales],
+    0
+) * 100
+
+------------------------------------
+CONDITIONAL FORMATTING MEASURES
+------------------------------------
+
+// Sales Performance Indicator
+Sales Performance = 
+SWITCH(
+    TRUE(),
+    [YoY Growth %] > 20, "Excellent",
+    [YoY Growth %] > 10, "Good",
+    [YoY Growth %] > 0, "Average",
+    "Below Average"
+)
+
+// Profit Margin Indicator
+Profit Margin Status = 
+SWITCH(
+    TRUE(),
+    [Profit Margin %] >= 30, "High",
+    [Profit Margin %] >= 20, "Medium",
+    "Low"
+)
+
+------------------------------------
+MOVING AVERAGES
+------------------------------------
+
+// 3-Month Moving Average Sales
+3M Moving Avg Sales = 
+AVERAGEX(
+    DATESINPERIOD(Sales[Order Date], LASTDATE(Sales[Order Date]), -3, MONTH),
+    [Total Sales]
+)
+
+// 6-Month Moving Average Sales
+6M Moving Avg Sales = 
+AVERAGEX(
+    DATESINPERIOD(Sales[Order Date], LASTDATE(Sales[Order Date]), -6, MONTH),
+    [Total Sales]
+)
+
+------------------------------------
+VARIANCE MEASURES
+------------------------------------
+
+// Sales vs Previous Month
+Sales vs Previous Month = 
+[Total Sales] - [Previous Month Sales]
+
+// Sales vs Previous Year
+Sales vs Previous Year = 
+[Total Sales] - [Previous Year Sales]
+
+// Profit vs Previous Month
+Profit vs Previous Month = 
+[Total Profit] - CALCULATE(
+    [Total Profit],
+    DATEADD(Sales[Order Date], -1, MONTH)
+)
+
+------------------------------------
+NOTES
+------------------------------------
+
+1. Replace 'Sales' with your actual table name if different
+2. Ensure column names match exactly (case-sensitive)
+3. Format measures appropriately:
+   - Currency measures: Use $ format with 2 decimal places
+   - Percentage measures: Use % format with 1-2 decimal places
+   - Count measures: Use whole number format
+4. Test each measure after creation to ensure correct calculations
+5. Create measure folders in Power BI to organize these measures by category
+
+====================================
+END OF DAX MEASURES
+====================================
