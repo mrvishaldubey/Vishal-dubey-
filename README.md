@@ -73,9 +73,3 @@ Aspiring Data Analyst
 [LinkedIn Profile] (https://www.linkedin.com/in/vishal-dubey2907)
 
 ⭐ Important Tips (Very Important 🔥)
-
-GitHub me ye zaroor add karo:
-
-✅ Dashboard screenshot
-✅ Dataset file
-✅ Clean folder structure
